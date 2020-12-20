@@ -296,7 +296,7 @@ gulp.task('build:jekyll', done => {
 
 // Runs jekyll build command using test config.
 gulp.task('build:jekyll:test', done => {
-    shell.exec('bundle exec jekyll build --config _config.yml');
+    shell.exec('bundle exec jekyll build --config _config.yml,_config.test.yml');
     done();});
 
 // Deletes the entire _site directory.

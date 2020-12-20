@@ -1,0 +1,46 @@
+---
+title: Transit
+artist: Christian Petzold
+permalink: /filmler/transit-film-2018/
+image: assets/img/featured/transit-rogowski-beer.jpg
+poster: assets/img/kitaplik/transit-film-2018.jpg
+caption: Franz Rogowski ve Paula Beer. Transit, 2018
+sameAs: https://www.imdb.com/title/tt6675244/
+alternate:
+year: 2018
+duration: 101
+imdb: 6.9
+genre: Dram
+stars: ★★★★☆
+type: film
+tags: [Dram, Fantezi]
+description: Christian Petzold'ın yönetmenliğindeki Transit, işgal altındaki Fransa'da, bir göçmenin ait olma savaşına odaklanıyor. 
+snippet: Transit, ülkelere, bireylere ve zamana ait olamamayı mercek altına alan, ustaca yönetilmiş, çok boyutlu bir faşizm alegorisi. 
+---
+
+Transit, faşistlerin işgali altındaki Fransa'dan kaçmaya çalışan bir adamın, ölü bir yazarın kimliğini üstlenmesinin ardından başına gelenleri anlatıyor. Kahramanımız Georg, Paris'te rastlaştığı birinin talebi üzerine, anti-faşist yazar Weidel'e ait yazı ve mektupları kendisine ulaştırmak için Marseilles'e doğru yola çıkar. Weidel'in konakladığı otele vardığında, otel çalışanından yazarın intihar ettiğini öğrenir. Yazarın eşyalarını Meksika Konsolosluğu'na götüren Georg, oradakiler kendisini yazarla karıştırınca bozuntuya vermez. Georg, bir yanda Marseilles'e giden trende birlikte yolculuk ettikleri adamın oğluyla yakın bir bağ kurarken, diğer yanda Weidel'in eşi Marie ile romantik bir ilişkiye adım atar.
+
+Yönetmen Christian Petzold, Transit'te vatansızlık, göçmenlik ve aidiyet temalarına eğiliyor. Toplama kampından kaçıp işgal altındaki Fransa'da sıkışmış bir Alman olan Georg, bir toprağa ait olmamayı, ev diyebileceği neresi varsa yitirmeyi haliyle deneyimlemiş birisi. Genelde soğuk ve insanlarla zorunlu olmadıkça iletişimden kaçınan birisi olan Georg, Marseilles'te tanıştığı Kuzey Afrikalı anne ve oğulla ortak bir yurtsuzluk temelinde samimiyet kuruyor. Bir sahnede, annesinin çocukken ona öğrettiği bir ezgiyi anne ve oğulun karşısında mırıldanırken, bir anlamda, ait hissettiği yere ya da bir yere ait hissettiği zamanlara dair özlemini de onlarla paylaşıyor. Göçmenlik halinin ortaklaştırılabildiği bu yuvada, Georg gardını bir parça indirebiliyor.
+
+Fakat Georg'un yüzleşmek zorunda kaldığı bir başka aidiyetsizlik daha var. Faşizmin hüküm sürdüğü bir ülkede yurtsuzluk beklendik bir sonuçken, bireyler arasındaki kopuş belki de aynı derinlikle hissedilen bir yalnızlaşmaya yol açıyor. Georg, kimliğini üstlendiği yazarın eşiyle romantik bir ilişkiye adım atıyor. Ama kadının asıl arzuladığının ölmüş olduğunu kabullenemediği kocasıyla buluşabilmek olduğunu fark ediyor. Göçmen ailenin çocuğuyla bir baba-oğul ilişkisi kurmak istiyor. Ama Paris'ten ayrılmak ve çocuğu terk etmek zorunda olduğunu biliyor. Bir başka deyişle, Georg'un ikame ettiği roller var: Baba, koca, vatandaş gibi. Ama ikame etmek, gerçek olanın yerini doldurmuyor. Bir yere ait olmak imkansız olduğu gibi, bir insana ait olmak da imkansızlaşıyor. Tüm bunların sonucu kimliksizleşme oluyor. Ancak ölüleri ikame ederek dahil olabildiğin bir zincirin zayıf halkası oluyorsun. 
+
+Transit, Yahudi-Alman yazar Anna Seghers'ın kendi savaş deneyimlerini konu aldığı 1944 tarihli romanından uyarlanmış. Christian Petzold metni sinemaya uygularken, bilindik Nazi sembollerinden kaçınıyor. Daha dikkat çekici olansa, olayların 21. yüzyıla ait mekanlarda geçmesi. İnternet falan pek ortada gözükmese de, otomobillerin ve giysilerin 2. Dünya Savaşı'ndan çok sonraya ait olduğunu görüyoruz. 
+
+Bu, hem Hollywood sinemasının fazla deştiği Nazi sembolizminin ağırlığından hikayeyi kurtarmak bakımından, hem de faşizmin _güncelliğinin_ altını çizmek bakımından çok yerinde ve özgün bir tercih. Göçmenlik hallerine odaklanan sahneler elbette Avrupa'nın yakın dönem sosyo-politik dönüşümüne ayna tutuyor. Fakat bunun da ötesinde, Nazi pratiklerinin bugünün Fransasına taşınma biçiminde, seyirciyi ürperten bir "tehdit altında olma" hissi var. Yani, Nazi dönemine ait filmleri izlerken, "Vay be insanlar neler yaşamış!" falan derken, bu filmin seyrinde kötü tarihsel dönemlerle aramıza konforlu bir mesafe koyamıyoruz. O gün olanlar, bugün de olabilir huzursuzluğu galip geliyor. 
+
+Alman faşizminin bugünlere taşınması filmin teknik bir icadı olmanın ötesinde tematik amaçlara da sahip: Ülkelere ve bireylere ait olmamanın üzerine, üçüncü tür bir aidiyetsizliği de ekliyor. Zamansızlık. Filmdeki olayların tarihsel arkaplanına dair bir şey bilmiyoruz. Bir yanda kafelerde şarabını yudumlayan, alışveriş yapan insanların sıradan ve sakin hayatlarının devam ettiğine tanıklık ederken, bir yanda sürüklenerek gözaltına alınan insanları görüyoruz. Tahmin edebildiğimiz, yönetmenin belirli bir tarihsel döneme kesin olarak sabitlenebilecek bir hikayeden kaçınmak istediği. 
+
+Hikaye bazen seyirciye bir dış ses aracılığıyla aktarılıyor. Bu dış sesin aktarımı, yer yer, seyrettiklerimizle senkronsuz biçimde gerçekleşiyor. Mesela dış sesin "Oldu." dediği bir şeyi, seyirci sonradan görüyor ya da bazen hiç görmüyor. Anlatıyla deneyim arasında bir açının var olduğu seyirciye sık sık hatırlatılıyor. 
+
+Tematik zenginliği düşünüldüğünde, bir buçuk saatin biraz üzerindeki seyir süresiyle Transit oldukça ekonomik bir film. Her sahnenin genel toplam içerisinde bir işlevi var. Yer yer fazla durağan hissettirse de, bu durağanlık göçmenlik deneyimine özgü bir sıkıcılığın, yapacak bir şey bulamamanın temsili olarak görev buluyor. Hayli karmaşık altmetinlere sahip olmasına rağmen, Christian Petzold seyircinin zekasına ve hayal gücüne güvenip, aşırı açıklamaktan itinayla kaçınmış. 
+
+Franz Rogowski, Georg rolünde çok etkileyici. Karakterin hislerini kolay kolay yansıtmayan halini, içine kapanıklığını ve nadir durumlarda açığa çıkan sevecenliğini ve umudunu başarıyla ekrana taşıyor. Uzun konuşmalara yer vermeyen bir filmde, sakin, monoton, fakat akılda kalan bir performans sergiliyor.
+
+Transit, ülkelere, bireylere ve zamana ait olamamayı mercek altına alan, ustaca yönetilmiş, çok boyutlu bir faşizm alegorisi. 
+
+
+
+
+
+
+

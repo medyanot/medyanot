@@ -1,8 +1,8 @@
 
 body {
-    color: $grey7;
+    color: $text;
     font-family: $sans;
-    background-color: #fff;
+    background-color: $white;
     -webkit-font-smoothing: antialiased;
     font-kerning: normal;
     font-variant-ligatures: common-ligatures contextual;
@@ -18,7 +18,7 @@ body {
 
 input {
     font-family: $sans;
-    color: $grey7;
+    color: $text;
 }
 
 .main {
@@ -40,12 +40,6 @@ input {
                 }
             }
         }
-    }
-    .subs-form { 
-        display: block;
-        max-width: 640px;
-        margin-left: auto;
-        margin-right: auto;
     }
 }
 
@@ -91,7 +85,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a {
-    color: $grey7;
+    color: $text;
     transition: color 0.2s ease;
     &:hover {
         color: $link;
@@ -107,7 +101,7 @@ p, .tag-links {
         a:hover {
             background: $link;
             box-shadow: none;
-            color: #fff;
+            color: $white;
         }
     }
 }
@@ -139,7 +133,7 @@ input {
     max-width: 640px;
     margin-left: auto;
     margin-right: auto;
-    border-bottom: 1px solid #eaeaea;
+    border-bottom: 1px solid $grey1;
     ul {
         display: grid;
         grid-template-columns: 1fr 1fr 1fr;
@@ -155,8 +149,9 @@ input {
             font-weight: 700;
             letter-spacing: 0.04em;
             padding: 1rem 0;
+            color: $black;
             &:hover{
-                color: $grey7;
+                color: $black;
             }
             }
             a:after{
@@ -249,8 +244,8 @@ input {
     li .pagi-current {
         pointer-events: none;
         cursor: default;
-        border: 2px solid $grey7;
-        color: $grey7;
+        border: 2px solid $text;
+        color: $text;
         font-weight: 700;
         font-size: 18px;
     }  
@@ -265,7 +260,7 @@ input {
     -webkit-appearance: none;
     border-radius: 0;
     margin: 2em 0 1em;
-    border: 2px solid $grey4;
+    border: 2px solid $grey6;
     border-radius: 20em;
     padding: 1rem;
     text-decoration: none;
@@ -300,7 +295,7 @@ input {
   }
   
   .search-results p{
-      color: $grey7;
+      color: $text;
       font-size: $fs7;
   }
   
@@ -308,7 +303,7 @@ input {
       h6 {
           display: inline-block;
           margin: 0 0 0.5rem 0;
-          color: $grey7;
+          color: $text;
           font-size: $fs9;
           font-weight: 400;
       }
@@ -357,7 +352,7 @@ input {
 }
 
 .page-content {
-    border-bottom: 1px solid #eaeaea;
+    border-bottom: 1px solid $grey1;
 }
 
 .tag-section {
@@ -390,7 +385,8 @@ input {
     padding: 1em;
     overflow: hidden;
     text-align: center;
-    background-color: $grey1;
+    background-color: $grey2;
+    border-top: 1px solid $grey3;
 }
 
 .subs-header {
@@ -398,6 +394,7 @@ input {
     letter-spacing: 0.05em;
     text-transform: uppercase;
     margin: 0;
+    color: $black;
 }
 
 .subs-text {
@@ -417,7 +414,7 @@ input {
     font-size: $fsp;
     padding: 0.6em 0;
     border: 1px solid $grey3;
-    background: $grey2;
+    background: $grey1;
     margin-bottom: 1em;
     text-indent: 0.6em;
     border-radius: 4px;
@@ -442,7 +439,7 @@ label {
 }
 
 #mc-embedded-subscribe {
-    background: $grey7;
+    background: $text;
     border: 1px solid $grey3;
     color: $grey1;
     font-size: $fsp;
@@ -497,7 +494,8 @@ label {
 }
 
 footer {
-    background-color: $grey7;
+    background-color: $black;
+    border-top: 1px solid $grey6;
     height: 4rem;
     display: flex;
     justify-content: center;

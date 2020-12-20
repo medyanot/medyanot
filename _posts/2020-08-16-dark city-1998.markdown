@@ -1,0 +1,36 @@
+---
+title: Dark City
+artist: Alex Proyas
+image: assets/img/featured/dark-city-feature.jpg
+poster: assets/img/kitaplik/dark-city-1998.jpg
+caption: "Rufus Sewell. Dark City filminden bir sahnede. 1998."
+sameAs: https://www.imdb.com/title/tt0104454/
+alternate: Karanlık Şehir
+year: 1998
+duration: 111
+imdb: 7.6
+genre: Aksiyon, Bilimkurgu, Gizem
+stars: ★★★☆☆
+type: film
+tags: [Aksiyon, Bilimkurgu, Gizem]
+description: "Film-noir tarzında çekilmiş, çok katmanlı bir bilimkurgu. Gerçeklik ve insanlık üzerine bir sorgulama."
+snippet: "Dark City, katman katman açılan derinlikli bir gizem hikayesine sahip. Bu özelliği filmi sürükleyici kılıyor. Özellikle film-noir sevenlerin dikkatini çekebilecek olan bir yapım."
+---
+
+John Murdoch (Rufus Sewell) adında genç bir adam bir gün uyandığında, hafızasını yitirmiş bir halde kendisini hotel odasının küvetinde bulur. Yatağın yanında ölü bir kadın vardır. Dışarıya çıktığında bir dizi cinayetten arandığını fark edecektir. 
+Tüm bunlar yetmezmiş gibi, istediklerinde insanları uyutma becerisine sahip olan Yabancılar adındaki bir yeraltı grubu tarafından takip edilir. Murdoch cüzdanında bulduğu ipuçlarını takip ederek kim olduğunu öğrenmeye çalışır.
+
+Dark City (Karanlık Şehir) birçok açıdan özgün bir film. Bu özgünlüğün bir kısmı filme ilham veren sanat akımlardan geliyor. Film, gelecekte geçmesine rağmen, kostüm ve set tasarımıyla 1950'leri anımsatıyor. Hikayenin sürekli karanlık mekanlarda geçmesi, seri cinayetler, fötr şapkalar gibi motiflerle _film noir_ stiline birçok atıf var. Yönetmen Alex Proyas, film noir tarzına kaynaklık eden erken dönem Alman sinemasının M ve Nosferatu gibi öne çıkan örneklerinin de filmin tasarımında etkili olduğunu belirtmiş. Bu etki, yalnızca set tasarımı ve görsel stilde değil, aynı zamanda karakterlerde de kendisini gösteriyor. Sert görünümlü, sakin ve aşırı disiplinli bir polis detektifi, ilk görüşte aşka inanan kadın, hafif deli doktor gibi geleneksel tiplemeler filmde yer buluyor. Doğal olandan daha teatral oyunculuklar Dark City'ye olduğundan daha eski bir film havası veriyor.
+
+Dark City işlediği temalar bakımından da özgün. İnsanların gerçek olmayana şaşırtıcı derecede kolay uyum sağlaması ve normalleştirebilmesi bu temalardan biri. John Murdoch garip bir şeylerin olup bittiğini fark ettiğinde, kendisini yaşadığı hayata ve kimliğine ait hissetmediğinde deli gözüyle bakılıyor. İnsanlar, geçmişlerini hatırlamamalarına, en son ne zaman güneşi gördüklerini bilmemelerine, yol ortasında bir anda uyuyakalmalarına rağmen hayatlarını tüm olağanlığıyla devam ettirebiliyorlar. 
+
+Murdoch, bu rüyadan (yahut kabustan) ilk uyanan olarak bir kurtarıcı rolüne bürünüyor. Bu rolüyle gerçeklikten bihaber kitlelere doğru yolu gösterme görevi de onun oluyor. Murdoch _uyanabilmesiyle_ birlikte, Yabancılar denilen tarikatın özel güçlerini de ele geçiriyor. Zihin gücüyle cisimleri harekete geçirebilme, Yabancılar'ın uyutma komutlarına direnebilme gibi yetenekler, filmin sonunda Murdoch'a tanrısal bir güç veriyor. Kurtarıcı'nın nihai misyonunu tamamlayıp gücü ele geçirmesi, bir başka deyişle kötücül iktidarı ikame etmesi, onda bir güç zehirlenmesine sebep olmuyor. Filmin sonunda, Murdoch'un gücünü iyi amaçlar için kullanacağını anlıyoruz. Dark City'nin kurguladığı gelecek, insanların iyi yönlerinin galip geleceğine dair güçlü bir inanca dayanıyor.
+
+Filmin zayıf kaldığını düşündüğüm başlıca nokta burası. Yabancılar'ın insanlar üzerinde yaptığı deneylerin amacı, insanda özel olan şeyin keşfedilmesi olarak açıklanıyor. Bu yüzden, insanların kimliği, hafızası, uyum sağlama becerileri teste tabi tutuluyor. Soyu tükenmekte olan bir ırk olan Yabancılar, soyunu sahip olduğu mistik güç sayesinde sürdürme başarısı gösteren insanları mercek altına yatırıyorlar. Bu mistik güç, Yabancılar'a göre deneysel yöntemlerle keşfedilebilir ve bir mefhum. Film son sahnelerinden birinde Murdoch, son kalan Yabancılar'dan birine dönüp, "Siz bizi insan yapanı beynimizde aradınız. Oysa aradığınız şey orada değil." gibi bir şey söylüyor. Buna göre, insan "yüreği" bu gizemin saklı olduğu yer.
+
+Bu yaklaşım benim görüşümce fazla iyimser bir hümanizm sunuyor. İnsanın tüm teknolojik üstünlükten daha değerli olan yüreği, ibresi sapmaz bir şeymişçesine anlatılıyor. Bunun sonucu olarak Yabancılar bu "şeyin" peşinde ve Murdoch ele geçirdiği gücü  kendi çıkarları için kullanmayı aklından geçirmiyor. Bu fikrin karakter gelişimi üzerinde de olumsuz bir etkisi var. Nitekim, başlıca tüm karakterlerin özünde iyi insanlar olduklarını öğreniyoruz. Yabancılar'ın bu denli totaliter bir rejim inşa edebilen iktidarı, insanları kendilerine sadık kılacak şekilde ayartamıyor.
+
+Dark City, katman katman açılan derinlikli bir gizem hikayesine sahip. Bu özelliği filmi sürükleyici kılıyor. Özellikle film-noir sevenlerin dikkatini çekebilecek olan bir yapım.
+
+
+

@@ -1,0 +1,52 @@
+---
+title: First Cow
+artist: Kelly Reichardt
+permalink: /filmler/first-cow-2019/
+image: assets/img/featured/first-cow-sahne.jpg
+poster: assets/img/kitaplik/first-cow-2019.jpg
+caption: "Orion Lee ve John Magaro. First Cow filminden bir sahne. 2019."
+sameAs: https://www.imdb.com/title/tt0104454/
+alternate: İlk İnek
+year: 2019
+duration: 122
+imdb: 7.1
+genre: Dram
+stars: ★★★★★
+type: film
+tag: Dram
+description: "Kelly Reichardt'ın First Cow filmi Amerikan kapitalizminin inşa yıllarında dostluğun hayatta kalışını anlatıyor."
+snippet: "First Cow karamsar bir film değil. Kapitalizmin ilkel birikim süreçlerindeki yağma ve şiddete gözlerini kapamazken, o tarihsel dönemde insani olanı merkezine koyuyor."
+---
+
+First Cow, 1820'de ABD'nin Oregon bölgesinde geçiyor. Hayvan kürkü toplayan bir grup adamın içerisinde hor görülen bir aşçı olarak çalışan Cookie Figowitz (John Magaro), ormanda mantar toplarken King Lu (Orion Lee) ile karşılaşır. Çinli Lu, talihini aramak için birçok ülkeyi gezdikten sonra kendini Amerika'da bulmuş, yaşadığı talihsiz bir olayın ardından kaçak durumuna düşmüştür. Yorgun ve aç olan Lu, Cookie'den yardım ister. Cookie ona yiyecek verir ve çadırında yer açar. 
+
+Bu olaydan sonra tekrar karşılaştıklarında Lu, Cookie'yi evine davet eder. Misafir olarak gelen Cookie kalıcı olur. Birlikte para kazanmanın yollarını arayan ikili, Cookie'nin ahçılık yeteneklerine güvenirler. Sonradan "yağlı kek" adını verecekleri, tarçın ve bal soslu kızartılmış hamurları pazar alanında satmaya karar verirler. Fakat yağlı kek yapmak için süte ihtiyaçları vardır. Sütün tek kaynağı ise, İngiliz bir tüccarın (Toby Jones) sahip olduğu bölgenin ilk ve tek ineğidir. Geceleri tüccarın bahçesinde bağlı olan ineği gizlice sağan Lu ve Cookie, sabahları hızla beğeni kazanan keklerini satarak iyi bir gelir elde ederler. 
+
+First Cow, ABD'de kapitalizmin erken zamanları üzerine bir film. Dünya'nın dört köşesinden gelen, herbiri bir diğerinden daha hırslı servet avcılarının buluştuğu bir coğrafyadayız. Herkes, önce gelmiş olmanın ayrıcalığıyla kendisine kalıcı bir para kaynağı bulmanın arayışı içerisinde. Bu arayışta "Fırsatlar Dünyası'nın kapılarını" aralayacak parlak fikirlerin bir yeri olduğu gibi, aç gözlülüğün, acımasız bir rekabetin ve nihayetinde suçun da yeri var. Filmin bir yerinde Lu, "Tarih buraya henüz gelmedi, ama geliyor. Belki bu sefer onun için hazır oluruz." diyor. First Cow, Amerikan kapitalizminin doğum sancıları sırasında mülksüzlerin hallerine bir bakış. Lu, tarihin henüz buraya gelmediğini söylese de, First Cow, kapitalist hiyerarşilerin ve ilişkilerin o zamanda bile hayli yol aldığını, mülksüzlerin binmeye can attıkları tarihin ilk trenini belki yine kaçırdıklarını ima ediyor. Herkesin kendi çabasıyla talihini inşa edeceği, henüz şekillenmemiş ve dolayısıyla her şeyin mümkün olduğu bir coğrafyanın mülksüzler için hiç var olmadığını söylüyor. 
+
+Buna rağmen First Cow karamsar bir film değil. Kapitalizmin "ilkel birikim" süreçlerindeki yağma ve şiddete gözlerini kapamazken, o tarihsel dönemde insani olanı merkezine koyuyor. Belki şöyle diyor: "Evet, herkesin birbirini ezerek yol aldığı, ekonomik çıkarların ve özel mülkiyetin hakim olduğu zamanlar(dı). Fakat bu coğrafyanın kuruluşunda dayanışma ve dostluk da var." Ve dayanışma, her ne kadar nadir ortaya çıksa ve kırılgan olsa da, geçmiştekilerden geleceğe uzatılan, en zor zamanlarda dahi vazgeçilmemiş bir değer. Bir başka deyişle, insani olanın kapitalizmle girdiği savaşlardaki küçük galibiyetler hatırlanacak. Lu ve Cookie'nin arkadaşlığının tarihe attığı bir çentik var.
+
+{% figure caption: "Filme adını veren inek Evie • First Cow, Kelly Reichardt, 2019." %}
+<div class="ratio-box" style="padding-bottom: 66.67%">
+<img alt="Sal üstünde bir inek." class="lazyload" data-src="/assets/img/others/First-Cow-inek.jpg">
+<noscript>
+<img src="/assets/img/others/First-Cow-inek.jpg">
+</noscript>
+</div>
+{% endfigure %}
+
+First Cow, Kelly Reichardt'ın ustalıkla yönettiği bir film. Yalınlık filmin her dakikasında hissediliyor. Hikayedeki büyük aksiyonları, dramaları, aşkları, bir başka deyişle tüm yükleri attığınızda, geriye sinema adına ne kalır? Sanırım yanıt sıradan insanın sıradan halleri. Fakat bu insanda ve onun hallerinde hala keşfedilmeye açık, oldukça çekici, bizi bize anlatan hikayeler var. Karemsi dar ekran boyutunda çekilen filme eşlik eden klasik gitar müzikleri de bu yalınlığı besliyor. 
+
+John Magaro ve Orion Lee rollerinde muhteşem. Canlandırdıkları karakterlerin dayanışması zorunluluklar çerçevesinde gerçekleşiyor. Çetin bir ortamda, birlikte hareket ederek daha güçlü olacağını fark eden iki insan. Fakat, aynı zamanda, dayanışmayı aktif olarak tercih eden, birbirlerine olan bağlarını bireysel çıkarlarından üstün tutan karakterler bunlar. First Cow, bu bakımdan, birçok başka şeyle birlikte, insan iradesine odaklanan bir film. Tarihin akışına her zaman uyumlu olmayan tercihleri yapabilme iradesi... 
+
+Seyirci olarak Lu ve Cookie arkadaşlığını bazen sorguluyoruz. Sonunda birisinin diğerine ihanet edeceği, kişisel çıkarların insani ilişkilere üstün geleceği, Lu'nun girişimci ve daha atak karakterinin, Cookie'nin daha saf ve durağan karakteriyle eninde sonunda uyumsuz olacağı aklımızın bir köşesinde yer ediniyor. First Cow, seyircideki bu düşünceye olanak sağlayan ve hatta bunu motive eden bir film. Yer yer karakterlerin de, tıpkı seyirciler gibi, zihinlerinde çıkarlarını ve dostluklarını tarttıklarını görüyoruz. Çıkarların ve arkadaşlıkların yol ayrımında bir karar vermek gerektiğinde, bazıları "sermayesini" ikincisine yatırıyor. First Cow, bu kararı verebilme gücünü kutluyor. 
+
+
+
+
+
+
+
+
+
+

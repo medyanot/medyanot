@@ -24,6 +24,7 @@ future:      true
 highlighter: rouge
 
 # Jekyll configuration
+permalink: /:title/
 
 kramdown:
   auto_ids: true

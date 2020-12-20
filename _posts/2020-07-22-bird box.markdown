@@ -1,0 +1,36 @@
+---
+title: Bird Box
+artist: Susanne Bier
+permalink: /filmler/bird-box-2018/
+image: assets/img/featured/bird-box-feature.jpg
+poster: assets/img/kitaplik/bird-box-2018.jpg
+caption: Sandra Bullock. Bird Box, 2018.
+sameAs: https://www.imdb.com/title/tt0104454/
+alternate:
+year: 2018
+duration: 124
+imdb: 6.6
+genre: Dram, Gerilim, Bilimkurgu
+stars: ★★☆☆☆
+type: film
+tags: [Bilimkurgu, Dram, Korku]
+description: "Bullock'un kalburüstü oyunculuğu, azgelişmiş temalara ve boyutsuz karakterlere sahip Bird Box'u kurtarmaya yetmiyor."
+snippet: "Oyuncu kadrosunu Hollywood'un yeni parlayan simalarıyla dolduran Bird Box, gişede iyi gelir toplasa da, artistik olarak sınıfta kalıyor."
+---
+
+Doğu Avrupa'dan tüm Dünya'da yayılan bir virüs, insanların gördükleri sanrılar sonucunda akıllarını yitirmesine ve en hızlı yöntemlerle intihar etmesine yol açmaktadır. Toplu intiharların yaşandığı kaos ortamında bir eve sığınan birbirleriyle alakasız bir grup insan, dışarıyla teması keserek hayatta kalmaya uğraşır. Bir yanda gruptakilerin dışarı çıkmasını gerektiren yiyecek ihtiyaçları, diğer yanda dışarıdaki tehlikeden kaçıp eve sığınmaya çalışan davetsiz misafirler sürekli yeni riskler ortaya çıkarır. Uyumsuz karakterlerle evde mahsur kalmış olan kahramanımız Malorie (Sandra Bullock), istemediği bir hamilelik döneminde bu apokaliptik zamanlara rast gelmiştir. 
+
+Filmde intiharlara yol açan görüntülerin neler olduğunu bilmiyoruz. Karakterler bazen dışarıda kol gezen yaratıklardan ya da canavarlardan falan bahsetse de, filmin bize gösterdiği (daha doğrusu ima ettiği) insanların geçmişlerinden kişi ve anılarla bir anda yüz yüze gelmesi ve bu deneyimin kişinin kendisini öldürmesine yol açması. Film, tehlikenin gerçekten ne olduğunu zirve noktasında seyirciye açıklayacak gibi olsa da, eninde sonunda seyircinin görebildiği ve duyabildiği şiddetli esen rüzgar ve gaipten gelen sesler oluyor. Bunların neden ölümcül sonuçlara sebep olduğunu da, yine, öğrenemiyoruz. 
+
+Tehlikenin tam olarak ne olduğu, prensip olarak, açıklanmak zorunda değil. Bir başka deyişle, iyi bir kurgunun oluşabilmesi için bilimsel veya rasyonel bir açıklamaya ihtiyaç yok. Zombiler, uzaylılar, nükleer savaşlar görmek zorunda da değiliz. Fakat filmde, tehlikenin fizikselliğine yapılan bir vurgu var. Tehlike yaklaştığında, pencerenin önünden bir gölgenin geçmesi, rüzgarın hızlanıp, dalların hışırdaması, tehlikeye maruz kalmak için "onu" görmek zorunda olmak gibi öğeler, tehlikenin _yalnızca_ psikolojik bir olgu olmadığını söylüyor. Tehlikenin fiziksel niteliği, onun sembolik bir okumasına izin vermeyen, ateşlenmeyen Çehov'un silahı oluyor. Bird Box, tehlikenin fiziksel mi, psikolojik mi, yoksa tamamen başka bir şey mi olduğu konusunda karar veremeyen, bu yüzden de seyirciyi çıkmaz sokakta bırakan bir kurguya sahip. Gösterilmeyen tehlikenin sembolik anlamları üzerine tartışma yürütülebilecek daha iyi bir film, tehlikenin doğasına dair bu belirsizliği aşabilirdi. Bird Box, buna imkan tanıyan bir derinliğe sahip değil.
+
+Filmin tematik olarak en dişe dokunur noktası Malorie ile çocukları arasındaki ilişkide açığa çıkıyor. Annenin çocuklarını sahiplenememesi ve yaşanmaya değer bir geleceğe inanmayan annenin çocuklarına birey olma hakkını tanımaması gibi meseleler filme psikolojik bir altmetin sunma konusunda işlevli. Fakat bunlar filme çok geç dahil olduğundan, anne-çocuk dinamiğinin karakterlerde yarattığı anlamlı bir değişimden bahsedemiyoruz. 
+
+Bird Box, herbiri bir cümleyle özetlenebilecek, tekdüze karakterlere sahip. Karakterlerden Lucy ve Felix, sevişme sahnesi için oradalar. Greg ve Charlie, kendilerini grup için feda eden azınlıkları temsil ediyorlar. Douglas (John Malkovich), aynı evde yaşamak zorunda kalan grup içerisindeki kötü ve mantıklı olanlar ile iyi ve saf olanlar arasındaki ikiliği vurgulamak için görev alıyor. Başkarakter Malorie de bu tekdüzelikten azade değil. Hemen filmin başındaki yapmacık bir sohbet sırasında, Malorie'nin işe yaramaz eski sevgilisinden ayrıldığı bize açıklanıyor. Seyircinin kafasında "Babası nereden bu çocuğun?" sorusu canlanırsa diye işlerini sağlama almak istemişler herhalde. Seyircinin zekasına güvenmeyen "fazla açıklama" durumları Bird Box'ta sıkça gerçekleşiyor.
+
+Eldeki malzemeye rağmen, Sandra Bullock rolüne adanmış, sağlam bir performans sergiliyor. Malorie'nin sevgilisi Tom rolündeki Trevante Rhodes da dikkat çekici. Oyuncu kadrosunu Hollywood'un yeni parlayan simalarıyla dolduran Bird Box, gişede iyi gelir toplasa da, artistik olarak sınıfta kalıyor. 
+
+Ee hiç mi iyi tarafı yok bu filmin? Filmin başlarındaki, "virüsün" insanlara temas etmesinin ardından gelişen kaos sahneleri iyi çekilmiş. Malorie'nin evlat edindiği "Girl" rolündeki Vivien Lyra Blair pek sevimli. Aptalca hataları yüzünden ölen karakterler sayıca az. 
+
+
+

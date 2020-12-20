@@ -1,0 +1,28 @@
+---
+title: Bacurau
+artist: Juliano Dornelles, Kleber Mendonça Filho
+permalink: /filmler/bacurau-2019/
+image: assets/img/featured/bacurau-sahne.jpg
+poster: assets/img/kitaplik/bacurau-2019.jpg
+caption: Bacurau filminden bir sahne
+sameAs: https://www.imdb.com/title/tt2762506/
+year: 2019
+duration: 131
+imdb: 7.8
+genre: Aksiyon, Gizem
+stars: ★★★☆☆
+type: film
+tags: [Aksiyon, Gizem]
+description: Juliano Dornelles ve Kleber Mendonça Filho'nun yönettiği Bacurau filminin eleştirisi.
+snippet: Dornelles ve Filho, ezilenlere ve onların direnişine dair, politik mesajı hiç de saklı olmayan, provoke edici ve baya eğlenceli bir yapım ortaya çıkarmışlar.
+popular: true
+rank: 3
+---
+
+Juliano Dornelles ve Kleber Mendonça Filho'nun yazıp yönettiği Bacurau, yakın gelecekte Brezilya'da bir köy ahalisinin kendilerine yönelen bir saldırı karşısında direnişini anlatıyor. Yakınlarında inşa edilen bir baraj sebebiyle su kaynağı bulunmayan Bacurau köyüne tankerle su taşınmaktadır. Bu tankerin üzerinde kurşun izlerinin bulunması, bir at çiftliğinden kaçan atların köye inmesi, köyün Google Maps'te bulunamaması gibi garip olaylar peş peşe gerçekleşmeye başlar. Yaşanan garipliklerin çoğalması ve hayatları tehlike altına atması üzerine, köy halkı harekete geçmeye karar verir. 
+
+Bacurau'nun ilk yarısı, köy halkının gündelik yaşantılarına eşlik eden, ahalinin içerisindeki farklı rolleri ve kişilikleri bize tanıtan ve bu insanları bir araya getiren ve ayrıştıran şeylere mercek tutan bir görev üstleniyor. Filmin ilk yarısındaki bu gerçekçi-etnografik ton, ikinci yarıda western-fantezi gibi bir çizgiye evriliyor. Bu iki ayrık tonun birbirleriyle oluşturduğu tezat, filmin hakim temalarından biri olan emperyalizmin komünal hayata olan tezatıyla paralellik oluşturuyor. Filmin ikinci yarısı, emperyalizm ile anti-emperyalizm arasındaki bu savaşa odaklanıyor. Dornelles ve Filho, emperyalizmde bir süreklilik olduğu gibi, ona direnişin de bir tarihi olduğunu (Filmdeki "Bacurau Tarihi Müzesi" bunun altını çizen bir motif), "kendi halindeki" insanların bazı koşullarda savaşçılara dönüşebileceğini gösteriyor.
+
+Dornelles ve Filho, ezilenlere ve onların direnişine dair, politik mesajı hiç de saklı olmayan, provoke edici ve baya eğlenceli bir yapım ortaya çıkarmışlar. Film, Bacurau ahalisinin başlarına gelenlere dair gizemi yavaşça açığa vururken, seyirciyi diken üstünde tutmayı beceriyor. Köy ahalisinden bize tanıtılan karakterlerin hepsi ilgi çekici ve tamamen inandırıcı. Sonia Braga, hafif sıyırmış bir köy doktoru rolünde özellikle etkileyici. 
+
+Filmde, Dornelles ve Filho'nun Tarantino-vari bir öç hikayesi atlatmak istedikleri ve bunu yaparken de iyi ve kötünün sınırlarını belirgin şekilde çizmeye çalıştıkları görülüyor. Bu tercihin yan etkilerinden birisi, emperyalistleri temsil eden kişilerin alabildiğine karikatürleştirilmesi. Bu da (büyük ihtimalle yönetmenlerin niyetinin aksine) emperyalizmin "keyfi" ya da "hedefsiz" bir kurum olduğu gibi yamuk bir perspektif sunuyor. 
