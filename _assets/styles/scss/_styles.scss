@@ -98,6 +98,20 @@ a {
     }
 }
 
+p, .tag-links {
+    a, a:visited, a:active {
+        display: inline;
+        box-shadow: inset 0 -2px $link;
+    }
+    @media (hover) {
+        a:hover {
+            background: $link;
+            box-shadow: none;
+            color: #fff;
+        }
+    }
+}
+
 input {
     background: none;
     border: none;
