@@ -1,0 +1,104 @@
+/* ==========================================================================
+   VARIABLES
+   ========================================================================== */
+
+/* Colors
+   ========================================================================== */
+
+/* My colors */
+
+$link: #ef476f;
+$anchor: rgba(24, 110, 144, 0.4);
+$accent: #f39237;
+$bigcolor: rgb(232, 235, 238);
+
+$white: #f0f2f4;
+
+// greys
+
+$grey1: #d5dade; 
+$grey2: #bac2c9;
+$grey3: #a0aab4;
+$grey4: #87939f;
+$grey5: #63707e;
+$grey6: #506171;
+$grey7: #445260;
+
+// blacks
+
+$text: #333e48;
+$black: #232a31;
+$extrablack: #14181c;
+
+/* Typography
+   ========================================================================== */
+
+$sans: "sans", Arial, Helvetica, sans-serif;
+$serif: "text", "Times New Roman", Times, serif;
+
+/* Type Scale square root of 1.4 - x-height of Freight Text = 1.183
+   ========================================================================== */
+
+$fs1:1.476em;
+$fs2:1.383em;
+$fs3:1.296em;
+$fs4:1.215em;
+$fs5:1.138em;
+$fs6:1.067em;
+
+$fsp:1em;
+
+$fs7: 0.937em;
+$fs8: 0.878em;
+$fs9: 0.823em;
+
+$lh: 1.5em;
+
+/* Fluid Type
+   ========================================================================== */
+
+@function strip-unit($value) {
+  @return $value / ($value * 0 + 1);
+}
+
+@mixin fluid-type($min-vw, $max-vw, $min-font-size, $max-font-size) {
+  $u1: unit($min-vw);
+  $u2: unit($max-vw);
+  $u3: unit($min-font-size);
+  $u4: unit($max-font-size);
+
+  @if $u1 == $u2 and $u1 == $u3 and $u1 == $u4 {
+    & {
+      font-size: $min-font-size;
+      @media screen and (min-width: $min-vw) {
+        font-size: calc(#{$min-font-size} + #{strip-unit($max-font-size - $min-font-size)} * ((100vw - #{$min-vw}) / #{strip-unit($max-vw - $min-vw)}));
+      }
+    }
+  }
+}
+
+$min_width: 320px;
+$max_width: 1420px;
+$min_font: 18px;
+$max_font: 21px;
+
+@mixin heading-margin {
+  margin: 1em 0 1rem 0;
+}
+
+/* Show Grid
+   ========================================================================== */
+
+   @mixin show-grid {
+    background-image: linear-gradient(to bottom, rgba(0, 170, 255, .3) 1px, transparent 1px);
+    background-position: left 0.95em;
+    background-repeat: repeat;
+    background-size: 100% 0.785em;
+   }
+
+   /* Dotted line 
+   ========================================================================== */
+
+   @mixin dotted-line {
+      background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Cdefs%3E%3Cpattern id='a' patternUnits='userSpaceOnUse' width='4' height='1'%3E%3Cpath stroke='%23000' stroke-width='2' d='M0 0v5'/%3E%3C/pattern%3E%3C/defs%3E%3Crect width='100%25' height='100%25' fill='url(%23a)'/%3E%3C/svg%3E");
+   }

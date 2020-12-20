@@ -1,0 +1,21 @@
+---
+layout: null
+---
+{%- assign first = true -%}
+[
+{%- assign documents = site.documents | where: 'master', true | sort: 'date' | reverse -%}
+{%- for post in documents -%}
+{%- if post.title != null and post.title != empty -%}
+{%- unless first -%},{%- endunless -%}{
+    "title": {{post.title | jsonify}},
+    "content": {{post.content | markdownify | strip_html | jsonify }},
+    "author": "Ufuk Kızılgedik",
+    "link": "{{ site.baseurl }}{{ post.url }}",
+    "date": "{{ post.date | date: "%d.%m.%Y" }}",
+    "excerpt": {%- if post.description -%}{{ post.description | markdownify | strip_html | jsonify }}{%- else -%}{{ post.excerpt | markdownify | strip_html | truncate: 160 | jsonify}}{%- endif -%},
+    "search_omit": "{{ post.search_omit }}"
+}
+{%- assign first = false -%}
+{%- endif -%}
+{%- endfor -%}
+]

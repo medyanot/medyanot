@@ -1,0 +1,27 @@
+{
+    "url":"{{ page.url | absolute_url }}",
+    "publisher": {
+        "@type": "Organization",
+        "name": "{{ site.title }}",
+        "sameAs": [
+            "{{ site.url }}",
+            "{{ site.twitter }}"
+        ],
+        "logo":{
+          "@type":"ImageObject",
+          "url":"{{ site.url }}/icons/avatar.png",
+          "width":"192",
+          "height":"192"
+        }
+    },
+    "headline":"{{ page.title }}",
+    "name":"{{ site.title }}",
+    "description":"{{ site.description }}",
+    "author":{
+        "@type":"Person",
+        "name":"{{ site.author.name }}",
+        "sameAs":"{{ site.author.twitter }}"
+    },
+    "@type":"WebSite",
+    "@context":"https://schema.org"
+}

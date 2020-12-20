@@ -1,0 +1,24 @@
+{%- if page.previous.url or page.next.url -%}
+<div class="PageNavigation">   
+    {%- if page.previous.url -%}
+    <div class="nav-link prev">
+        <h3 class="section-header page-nav-header">Önceki</h3>
+        <div class="pagi-link previous-link">
+            <a class="page-nav-title-link" rel="prev" href="{{ page.previous.url }}">
+                <span class="prev-title">{{ page.previous.title }}</span>
+            </a>
+        </div>
+    </div>                              
+    {%- endif -%}
+    {%- if page.next.url -%}
+    <div class="nav-link next">
+        <h3 class="section-header page-nav-header">Sonraki</h3>
+        <div class="pagi-link next-link">
+            <a class="page-nav-title-link" rel="next" href="{{ page.next.url }}">
+            <span class="next-title">{{ page.next.title }}</span>
+            </a>
+        </div>
+    </div>                    
+    {%- endif -%}
+</div>
+{%- endif -%}

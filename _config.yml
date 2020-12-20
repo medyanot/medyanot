@@ -1,0 +1,101 @@
+title:            "Medyanot"
+tagline:          "Dijital Medya Hakkında Her Şey"
+description:      "Digital Medya Hakkında Haberler, Makaleler, Analizler."
+canonical:        "https://medyanot.netlify.app"
+url: "https://medyanot.netlify.app" 
+logo: "/icons/avatar.png"
+locale: "tr_TR"
+
+# Owner/author information
+tools:
+  standards:      "HTML, SCSS, Jekyll"
+  software:       "git"
+
+# Open Graph customization
+opengraph:
+  locale:  "tr_TR"
+  
+  # Site settings
+lang: tr
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    Turkey
+future:      true
+highlighter: rouge
+
+# Jekyll configuration
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+include: [".htaccess", "_pages"]
+
+exclude: ["vendor",
+          "_assets",
+          "Gemfile",
+          "Gemfile.lock",
+          "gulpfile.js",
+          "node_modules",
+          "package.json"]
+
+# My additions  
+  
+plugins:
+  - jekyll-paginate-v2
+  - jekyll-figure
+  - jekyll-sitemap
+    
+collections:
+  blog:
+    output: true
+    permalink: /:collection/:title/
+
+defaults: 
+  - 
+    scope: 
+        path: ""
+        type: "posts"
+    values: 
+        layout: "post"
+        master: "true" #this is for looping through all documents in feed.xml
+        image: /assets/img/featured/placeholder-960.jpg
+  -
+    scope:
+      path: _pages
+      type: "pages"
+    values:
+      layout: "post"
+      image: /assets/img/featured/placeholder-960.jpg
+
+pagination:
+  enabled: true
+  debug: false
+  per_page: 10
+  permalink: '/sayfa/:num/'
+  title: ':title - Sayfa :num'
+  sort_reverse: true
+    
+autopages:
+  enabled: true
+  categories:
+    enabled: false
+  collections:
+    enabled: false
+  tags:
+    enabled: true
+    layouts:
+      - "tags.html"
+    title: ":tag" # :tag is replaced by the tag name
+    slugify:
+      mode: 'latin'
+      cased: true
+    permalink: "/etiket/:tag"
+    
+jekyll-figure:
+  paragraphs: false

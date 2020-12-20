@@ -1,0 +1,11 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "url": "{{ site.url }}",
+  "name": "{{ site.title }}",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "{{ site.url }}/ara/?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}

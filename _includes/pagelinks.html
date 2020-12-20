@@ -1,0 +1,35 @@
+{%- if paginator.total_pages > 1 -%}
+<nav aria-label="Page navigation">
+<ul class="pagination">
+{%- if paginator.page > 2 -%}
+{%- if paginator.first_page -%}
+  <li>
+      <a id="first-page" title="ilk sayfa" href="{{ paginator.first_page_path | prepend: site.baseurl }}" class="pagi-arrow first"><svg class="arrow-first" viewBox="0 0 60 51"><path d="M8.616 50.161H0V0l8.616 1.173v23.526L33.087 0l5.793 7.166-16.542 14.332 36.744-1.22v9.682l-36.744-1.22L38.88 42.995l-5.793 7.166L8.616 25.538v24.623z"/></svg></a>
+  </li>
+  {%- endif -%}
+  {%- endif -%}  
+    
+  {%- if paginator.previous_page -%}
+  <li>
+      <a id="previous-page" rel="prev" title="önceki sayfa" href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="pagi-arrow before"><svg class="arrow-before" viewBox="0 0 51 51"><path d="M24.471 50.161l5.794-7.166L13.722 28.74l36.744 1.22v-9.682l-36.744 1.22L30.265 7.166 24.471 0 0 24.699v.839l24.471 24.623z"/></svg></a>
+  </li>
+    {%- endif -%}
+    
+    <li>
+        <a id="current-page" title="güncel sayfa" href="{{ paginator.page_path | prepend: site.baseurl }}" class="pagi-current">{{ paginator.page }}</a>
+    </li>
+
+{%- if paginator.next_page -%}
+  <li>
+      <a id="next-page" rel="next" title="sonraki sayfa" href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="pagi-arrow after"><svg class="arrow-after" viewBox="0 0 51 51"><path d="m25.995 50.161 24.471-24.623v-.839l-24.471-24.699-5.869 7.166 16.618 14.332-36.744-1.22v9.682l36.744-1.22-16.618 14.255z"/></svg></a>
+  </li>
+  {%- endif -%} 
+        
+{%- if paginator.last_page > paginator.next_page -%}
+  <li>
+      <a id="last-page" title="son sayfa" href="{{ paginator.last_page_path | prepend: site.baseurl }}" class="pagi-arrow last"><svg class="arrow-last" viewBox="0 0 60 51"><path d="M50.466 1.173L59.082 0v50.161h-8.616V25.538L25.995 50.161l-5.869-7.166L36.744 28.74 0 29.96v-9.682l36.744 1.22L20.126 7.166 25.995 0l24.471 24.699V1.173z"/></svg></a>
+  </li>
+  {%- endif -%} 
+</ul>
+</nav>
+{%- endif -%}

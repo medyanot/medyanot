@@ -1,0 +1,10 @@
+{%- if page.tags[1] or page.tag -%}
+<div class="tag-section">
+    <ul class="page-tags">
+    {%- assign sorted-tags = page.tags | sort -%}
+    {%- for tag in sorted-tags -%}
+        <li class="tag-links"><a class="link-box" href="/etiket/{{ tag | slugify:"latin" }}" rel="tag"><span>{{ tag }}</span></a></li>
+    {%- endfor -%}
+    </ul>
+</div>
+{%- endif -%}

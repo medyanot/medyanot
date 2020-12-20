@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="tr" prefix="og: http://ogp.me/ns#">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">  
+<meta name="theme-color" content="#14181c">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="application-name" content="Sinemap">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="apple-mobile-web-app-title" content="Sinemap">
+<link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml">
+<!-- Title-->   
+{% include title-tag.html %}
+<!-- Meta tags and open graph-->
+{%- include graphs.html -%}
+<!-- Critical CSS -->   
+<style> 
+{% include critical.css %}
+</style> 
+{% include loadcss.html %}
+<!-- Fonts -->
+<link rel="preload" href="/fonts/sans-bold.woff2" as="font" type="font/woff" crossorigin>
+<link rel="preload" href="/fonts/text-regular.woff2" as="font" type="font/woff" crossorigin>
+<style>
+{%- include fonts.css -%}
+</style>
+{%- include favicons.html -%}
+<!-- Feed --> 
+<link type="application/atom+xml" rel="alternate" href="https://sinemap.netlify.app/feed.xml" title="Sinemap Yazıları">
+<!-- Lazyload deactivate --> 
+<noscript><style>.lazyload { display: none; }</style></noscript>
+{%- include analytics.html -%}

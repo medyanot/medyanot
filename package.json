@@ -1,0 +1,27 @@
+{
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.1.0",
+    "browser-sync": "^2.26.13",
+    "del": "^6.0.0",
+    "gulp-cached": "^1.1.1",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-debug": "^4.0.0",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-notify": "^3.2.0",
+    "gulp-postcss": "^9.0.0",
+    "gulp-pretty-data": "^0.1.2",
+    "gulp-rename": "^2.0.0",
+    "gulp-responsive": "^3.0.1",
+    "gulp-run": "^1.7.1",
+    "gulp-sass": "^4.1.0",
+    "gulp-size": "^3.0.0",
+    "gulp-uglify": "^3.0.2",
+    "gulp-util": "^3.0.8",
+    "shelljs": "^0.8.4"
+  }
+}
