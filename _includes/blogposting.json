@@ -1,0 +1,37 @@
+{
+    "url":"{{ page.url | absolute_url }}",
+    "image": {
+        "@type": "ImageObject",
+        "url": "{{ site.url }}/assets/img/placeholder.jpg",
+        "width":"1280",
+        "height":"720"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "{{ site.title }}",
+        "sameAs": [
+            "{{ site.url }}"
+        ],
+        "logo":{
+          "@type":"ImageObject",
+          "url":"{{ site.url }}/icons/avatar.png",
+          "width":"192",
+          "height":"192"
+        }
+    },
+    "headline":"{{ page.title }}",
+    "dateModified":"{{ page.date | date_to_xmlschema }}",
+    "datePublished":"{{ page.date | date_to_xmlschema }}",
+    "description":"{%- if page.description -%}{{ page.description }}{%- else -%}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{%- endif -%}",
+    "inLanguage":"{{ site.locale }}",
+    "author":{
+        "@type":"Person",
+        "name": "{{ site.author.name }}"
+    },
+    "mainEntityOfPage":{
+        "@type":"WebPage",
+        "@id":"{{ page.url | absolute_url }}"
+    },
+    "@type":"BlogPosting",
+    "@context":"https://schema.org"
+}

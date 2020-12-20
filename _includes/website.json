@@ -4,8 +4,7 @@
         "@type": "Organization",
         "name": "{{ site.title }}",
         "sameAs": [
-            "{{ site.url }}",
-            "{{ site.twitter }}"
+            "{{ site.url }}"
         ],
         "logo":{
           "@type":"ImageObject",
@@ -19,8 +18,7 @@
     "description":"{{ site.description }}",
     "author":{
         "@type":"Person",
-        "name":"{{ site.author.name }}",
-        "sameAs":"{{ site.author.twitter }}"
+        "name":"{{ site.author.name }}"
     },
     "@type":"WebSite",
     "@context":"https://schema.org"

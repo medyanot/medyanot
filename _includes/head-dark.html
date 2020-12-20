@@ -4,7 +4,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="HandheldFriendly" content="True">
 <meta name="MobileOptimized" content="320">  
-<meta name="theme-color" content="#14181c">
+<meta name="theme-color" content="#324148">
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="application-name" content="Medyanot">
 <meta name="apple-mobile-web-app-capable" content="yes">
@@ -22,13 +22,13 @@
 {% include loadcss.html %}
 <!-- Fonts -->
 <link rel="preload" href="/fonts/sans-bold.woff2" as="font" type="font/woff" crossorigin>
-<link rel="preload" href="/fonts/text-regular.woff2" as="font" type="font/woff" crossorigin>
 <style>
 {%- include fonts.css -%}
 </style>
 {%- include favicons.html -%}
 <!-- Feed --> 
 <link type="application/atom+xml" rel="alternate" href="https://medyanot.netlify.app/feed.xml" title="Medyanot Yazıları">
+{%- include structured.html -%}
 <!-- Lazyload deactivate --> 
 <noscript><style>.lazyload { display: none; }</style></noscript>
 {%- include analytics.html -%}

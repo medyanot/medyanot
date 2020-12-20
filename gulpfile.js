@@ -104,7 +104,7 @@ gulp.task('clean:styles', function(done) {
 // appropriate location.
 gulp.task('build:scripts', function(done) {
     return gulp.src([
-        paths.jsFiles + '/lazysizes.js', paths.jsFiles + '/lazy-object-fit.js', paths.jsFiles + '/lazy-blurup.js', paths.jsFiles + '/subscription.js', paths.jsFiles + '/search.js'
+        paths.jsFiles + '/lazysizes.js', paths.jsFiles + '/lazy-blurup.js', paths.jsFiles + '/subscription.js', paths.jsFiles + '/search.js'
     ])
         .pipe(concat('main.js'))
         .pipe(uglify())
@@ -120,40 +120,18 @@ gulp.task('clean:scripts', function(done) {
     done();
 });
 
-// HTML
+// IMAGES
 
-// IMAGES 
-
-// Featured
-
-gulp.task('build:images:featured', function(done) {
-    return gulp.src(paths.imageFiles + '/featured' + paths.imagePattern)
-    .pipe(gulpCached('build:images:featured'))
+gulp.task('build:images:inline', function(done) {
+    return gulp.src(paths.imageFiles + paths.imagePattern)
+    .pipe(gulpCached('build:images:inline'))
         .pipe(responsive({
       // resize all images
       '*.*': [{
         width: 32,
-        height: 18,
         rename: { suffix: '-lq' },
       }, {
-        width: 320,
-        height: 180,
-        rename: { suffix: '-320' },
-      }, {
-        width: 640,
-        height: 360,
-        rename: { suffix: '-640' },
-      }, {
-        width: 960,
-        height: 540, 
-        rename: { suffix: '-960' },
-      }, {
         width: 1280,
-        height: 720,
-        rename: { suffix: '-1280' },
-      }, {
-        width: 1600,
-        height: 900,
       }]
     }, {
       // global configuration for all images
@@ -164,74 +142,15 @@ gulp.task('build:images:featured', function(done) {
       errorOnUnusedConfig: false
     }))
         .pipe(size())
-        .pipe(gulp.dest(paths.jekyllImageFiles + '/featured'))
-        .pipe(gulp.dest(paths.siteImageFiles + '/featured'))
-
+        .pipe(gulp.dest(paths.jekyllImageFiles))
+        .pipe(gulp.dest(paths.siteImageFiles))
         .pipe(browserSync.stream());
     done();
 });
 
-// Book images
-
-gulp.task('build:images:kitap', function(done) {
-    return gulp.src(paths.imageFiles + '/kitaplik' + paths.imagePattern)
-    .pipe(gulpCached('build:images:kitap'))
-        .pipe(responsive({
-      // resize all images
-      '*.*': [{
-        width: 12,
-        height: 18,
-        rename: { suffix: '-lq' },
-      }, {
-        width: 320,
-        height: 480,
-        rename: { suffix: '-320' },
-      }, {
-        width: 640,
-        height: 960,
-        rename: { suffix: '' },
-      }]
-    }, {
-      // global configuration for all images
-      errorOnEnlargement: false,
-      withMetadata: false,
-      quality: 75,
-      progressive: true,
-      errorOnUnusedConfig: false
-    }))
-        .pipe(gulp.dest(paths.jekyllImageFiles + '/kitaplik'))
-        .pipe(gulp.dest(paths.siteImageFiles + '/kitaplik'))
-        .pipe(browserSync.stream());
-    done();
-});
-
-// Inline post images
-
-gulp.task('build:images:others', function() {
-    return gulp.src(paths.imageFiles + '/others' + paths.imagePattern, "!" + paths.imageFiles + "/others/**/*.{png, gif,svg}")
-    .pipe(gulpCached('build:images:others'))
-        .pipe(responsive({
-      // resize all images
-      '*.*': [{
-        width: 1400,
-      }]
-    }, {
-      // global configuration for all images
-      errorOnEnlargement: false,
-      withMetadata: false,
-      quality: 75,
-      progressive: true,
-      errorOnUnusedConfig: false
-    }))
-        .pipe(gulp.dest(paths.jekyllImageFiles + '/others'))
-        .pipe(gulp.dest(paths.siteImageFiles + '/others'))
-        .pipe(browserSync.stream());
-} 
-);
-
-gulp.task('build:images:others-nonjpg', function() {
-  return gulp.src(paths.imageFiles + "/others/**/*.{png,gif,svg}")
-  .pipe(gulpCached('build:images:others-nonjpg'))
+gulp.task('build:images:nonjpg', function() {
+  return gulp.src(paths.imageFiles + "/**/*.{png,gif,svg}")
+  .pipe(gulpCached('build:images:nonjpg'))
   .pipe(
     imagemin(
       [
@@ -242,47 +161,13 @@ gulp.task('build:images:others-nonjpg', function() {
       { verbose: true }
     )
   )
-      .pipe(gulp.dest(paths.jekyllImageFiles + '/others'))
-      .pipe(gulp.dest(paths.siteImageFiles + '/others'))
+      .pipe(gulp.dest(paths.jekyllImageFiles))
+      .pipe(gulp.dest(paths.siteImageFiles))
       .pipe(browserSync.stream());
 } 
 );
 
-// Inline large images
-
-gulp.task('build:images:huge', function(done) {
-    return gulp.src(paths.imageFiles + '/huge' + paths.imagePattern)
-    .pipe(gulpCached('build:images:huge'))
-        .pipe(responsive({
-      // resize all images
-      '*.*': [{
-        width: 90,
-        rename: { suffix: '-lq' },
-      }, {
-        width: 900,
-        rename: { suffix: '-900' },
-      }, {
-        width: 1400,
-        rename: { suffix: '-1400' },
-      }, {
-        width: 1900,
-      }]
-    }, {
-      // global configuration for all images
-      errorOnEnlargement: false,
-      withMetadata: false,
-      quality: 75,
-      progressive: true,
-      errorOnUnusedConfig: false
-    }))
-        .pipe(size())
-        .pipe(gulp.dest(paths.jekyllImageFiles + '/huge'))
-        .pipe(gulp.dest(paths.siteImageFiles + '/huge'))
-        .pipe(browserSync.stream());
-    done();
-});
-
-gulp.task('build:images', gulp.series('build:images:featured', 'build:images:kitap', 'build:images:others', 'build:images:others-nonjpg', 'build:images:huge' ));
+gulp.task('build:images', gulp.series('build:images:inline', 'build:images:nonjpg'));
 
 gulp.task('clean:images', function(done) {
     del([paths.jekyllImageFiles, paths.siteImageFiles]);
@@ -335,7 +220,6 @@ gulp.task('build:styles:watch', gulp.parallel('build:styles'), function(done) {
     browserSync.reload();
     done();
 });
-
 
 // Static Server + watching files.
 // Note: passing anything besides hard-coded literal paths with globs doesn't

@@ -7,6 +7,12 @@ logo: "/icons/avatar.png"
 locale: "tr_TR"
 
 # Owner/author information
+
+author:
+  name:           "BuKafa Medya"
+  bio:            "Dijital Ajans"
+  email:          "ufuk@bukafamedya.com"
+
 tools:
   standards:      "HTML, SCSS, Jekyll"
   software:       "git"
@@ -65,14 +71,14 @@ defaults:
     values: 
         layout: "post"
         master: "true" #this is for looping through all documents in feed.xml
-        image: /assets/img/featured/placeholder-960.jpg
+        image: /assets/img/placeholder.jpg
   -
     scope:
       path: _pages
       type: "pages"
     values:
       layout: "post"
-      image: /assets/img/featured/placeholder-960.jpg
+      image: /assets/img/placeholder.jpg
 
 pagination:
   enabled: true

@@ -9,7 +9,7 @@ layout: null
 {%- unless first -%},{%- endunless -%}{
     "title": {{post.title | jsonify}},
     "content": {{post.content | markdownify | strip_html | jsonify }},
-    "author": "Ufuk Kızılgedik",
+    "author": "Medyanot",
     "link": "{{ site.baseurl }}{{ post.url }}",
     "date": "{{ post.date | date: "%d.%m.%Y" }}",
     "excerpt": {%- if post.description -%}{{ post.description | markdownify | strip_html | jsonify }}{%- else -%}{{ post.excerpt | markdownify | strip_html | truncate: 160 | jsonify}}{%- endif -%},

@@ -1,0 +1,16 @@
+<!-- ld-json blogposting --> 
+{%- if page.collection == 'posts' -%}
+<script type="application/ld+json">{%- include blogposting.json -%}</script>
+{%- endif -%}
+<!-- ld-json searchlink --> 
+{%- if page.url == '/index.html' -%}
+<script type="application/ld+json">{%- include searchlink.json -%}</script>
+<!-- ld-json logo --> 
+<script type="application/ld+json">{%- include logo-structured.json -%}</script>
+<!-- ld-json website --> 
+<script type="application/ld+json">{%- include website.json -%}</script>
+{%- endif -%}
+<!-- ld-json archive itemlist --> 
+{%- if page.layout == 'home' or page.layout == 'tags' %}
+<script type="application/ld+json">{%- include archive-itemlist.json -%}</script>
+{%- endif -%}

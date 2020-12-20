@@ -1,4 +1,3 @@
-
 body {
     color: $text;
     font-family: $sans;
@@ -6,42 +5,162 @@ body {
     -webkit-font-smoothing: antialiased;
     font-kerning: normal;
     font-variant-ligatures: common-ligatures contextual;
-    font-variant-numeric: oldstyle-nums;
     text-size-adjust: 100%;
     height: 100%;
     min-height: 100vh;
-    overflow-x: hidden;
     display: flex; /* Keeps the footer at the bottom */
     flex-direction: column;
+    overflow-x: hidden;
     @include fluid-type($min_width, $max_width, $min_font, $max_font);
+    border-top: 6px solid $black;
 }
+
+html {
+    background-color: $link;
+  }
 
 input {
     font-family: $sans;
     color: $text;
 }
 
-.main {
-    padding-left: 1em;
-    padding-right: 1em;
-    .text-area {
-        display: block;
-        max-width: 640px;
-        margin-left: auto;
-        margin-right: auto;
-        .post-list {
-            .archive-post {
-                margin-bottom: 4rem;
-                h2, p {
-                    margin-bottom: 0.5rem;
-                }
-                p {
-                    font-size: $fs7;
-                }
+/* Inline Elements   
+========================================================================== */
+
+p {
+    line-height: 1.55;
+    margin: 0 0 1.55em 0;
+}
+
+h1 {
+    font-size: $fs1;
+}
+
+h2 {
+    font-size: $fs2;
+}
+
+h3 {
+    font-size: $fs3;
+}
+
+h4 {
+    font-size: $fs4;
+}
+
+h5 {
+    font-size: $fs5;
+}
+
+h6 {
+    font-size: $fs6;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 1rem 0;
+    line-height: 1.1;
+}
+
+a {
+    color: $text;
+    transition: color 0.2s ease;
+    &:hover {
+        color: $link;
+    }
+}
+
+p, .tag-links {
+    a, a:visited, a:active {
+        display: inline;
+        box-shadow: inset 0 -2px $link;
+        transition: all .2s ease;
+    }
+    @media (hover) {
+        a:hover {
+            background: $link;
+            box-shadow: none;
+            color: $white;
+        }
+    }
+}
+
+hr {
+    background-color: $grey7;
+    height: 4px;
+    margin: 1.55rem 0;
+    border: none;
+}
+
+::-moz-selection {
+    background:  $link;
+}
+
+::selection {
+    background: $link;
+}
+
+a::selection {
+    text-shadow: none;
+}
+
+/* Lists
+========================================================================== */
+
+.page-content {
+ol {
+    line-height: 1.55;
+    margin-bottom: 1.55em;
+    list-style-position: outside;
+    li {
+        margin-left: 0;
+    }
+    li::marker {
+        font-variant-numeric: lining-nums;
+        font-weight: 700;
+    }
+    ol {
+        list-style-type: lower-roman;
+        li {
+            margin-left: $lh;
+        }
+        ol {
+            list-style-type: lower-alpha;
+            li {
+                margin-left: $lh;
             }
         }
     }
 }
+ul {
+    list-style: square outside;
+    line-height: 1.55;
+    margin-bottom: 1.55em;
+    li {
+        margin-left: 0;
+    }
+    ul {
+        list-style-type: disc;
+        li{
+            margin-left: $lh;
+            }
+            ul { 
+                li {
+                list-style-type: circle;
+                margin-left: $lh;
+            }   
+        }
+    }
+}
+@media only screen and (max-width: 1024px) {
+ul li, ol li {
+    margin-left: 1em;
+}
+}
+}
+
+/* Dates
+========================================================================== */
+
 
 .archive-date {
     font-family: $sans;
@@ -65,45 +184,56 @@ input {
     }
 }
 
-p {
-    line-height: 1.55;
-    margin: 0 0 1.55em 0;
+/* Images
+========================================================================== */
+
+img {
+    max-width: 100%;
 }
 
-h1 {
-    font-size: $fs1;
-    margin: 1rem 0;
+figure {
+    margin: 1.55em auto;
 }
 
-h2 {
-    margin: 1rem 0;
-    font-size: $fs2;
+figcaption {
+    font-size: $fs9;
+    color: $grey6;
+    line-height: 1.35;
+    margin: 0.35em auto -0.5em;
+    max-width: 640px;
+    padding-bottom: 0.25em;
+    border-bottom: 1px solid $grey1;
 }
 
-h1, h2, h3, h4, h5, h6 {
-    line-height: 1.1;
+.ratio-box {
+	position: relative;
+	height: 0;
+	display: block;
+	width: 100%;
+	/* padding-bottom is calculated and rendered in to HTML */
 }
 
-a {
-    color: $text;
-    transition: color 0.2s ease;
-    &:hover {
-        color: $link;
-    }
+.ratio-box img,
+.ratio-box iframe,
+.ratio-box video {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	display: block;
 }
 
-p, .tag-links {
-    a, a:visited, a:active {
-        display: inline;
-        box-shadow: inset 0 -2px $link;
-    }
-    @media (hover) {
-        a:hover {
-            background: $link;
-            box-shadow: none;
-            color: $white;
-        }
-    }
+.lazyload,
+.lazyloading {
+	opacity: 0;
+}
+
+.loading,
+.lazyload,
+.lazyloaded {
+	opacity: 1;
+	transition: opacity 1500ms; 
 }
 
 input {
@@ -111,6 +241,35 @@ input {
     border: none;
     outline: none;
 }
+
+/* Layout
+========================================================================== */
+
+.main {
+    padding-left: 1em;
+    padding-right: 1em;
+    flex: 1 0 auto;
+    .text-area {
+        display: block;
+        max-width: 640px;
+        margin-left: auto;
+        margin-right: auto;
+        .post-list {
+            .archive-post {
+                margin-bottom: 4rem;
+                h2, p {
+                    margin-bottom: 0.5rem;
+                }
+                p {
+                    font-size: $fs7;
+                }
+            }
+        }
+    }
+}
+
+/* Header
+========================================================================== */
 
 .site-header {
     padding: 0 1em 2rem;
@@ -133,7 +292,7 @@ input {
     max-width: 640px;
     margin-left: auto;
     margin-right: auto;
-    border-bottom: 1px solid $grey1;
+    border-bottom: 1px solid $grey2;
     ul {
         display: grid;
         grid-template-columns: 1fr 1fr 1fr;
@@ -351,6 +510,9 @@ input {
     }
 }
 
+/* Page Bottom & Tags
+========================================================================= */
+
 .page-content {
     border-bottom: 1px solid $grey1;
 }
@@ -371,9 +533,8 @@ input {
 }
 
 .tag-title {
-    margin-bottom: 2rem;
+    margin-bottom: 3rem;
     padding-bottom: 0.5rem;
-    border-bottom: 1px solid $grey1;
     span{
         color: $link;
     }  
@@ -386,7 +547,7 @@ input {
     overflow: hidden;
     text-align: center;
     background-color: $grey2;
-    border-top: 1px solid $grey3;
+    border-top: 4px solid $link;
 }
 
 .subs-header {
@@ -493,7 +654,10 @@ label {
     outline: none;
 }
 
+/************ Footer *************/
+
 footer {
+    flex-shrink: 0; /* Keeps the footer at the bottom */
     background-color: $black;
     border-top: 1px solid $grey6;
     height: 4rem;
