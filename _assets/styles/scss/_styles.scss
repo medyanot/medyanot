@@ -93,10 +93,12 @@ hr {
 
 ::-moz-selection {
     background:  $link;
+    color: $white;
 }
 
 ::selection {
     background: $link;
+    color: $white;
 }
 
 a::selection {
