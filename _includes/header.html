@@ -5,11 +5,12 @@
                 {%- include logo.html -%}
             </a>
         </div>  
+        {% assign current = page.url | downcase | split: '/' %}
         <nav id="site-navigation">
           <ul>
-            <li id="menu-item-1"><a title="Anasayfa" href="/">Anasayfa</a></li>
-            <li id="menu-item-2"><a title="Blog" href="/ara">Ara</a></li>
-            <li id="menu-item-3"><a title="Filmler" href="/hakkinda">Hakkında</a></li>
+            <li id="menu-item-1"><a title="Anasayfa" href="/" {%- if current[1] == "index.html" -%}class='current'{%- endif -%}>Anasayfa</a></li>
+            <li id="menu-item-2"><a title="Ara" href="/ara" {%- if current[1] == 'ara' -%}class='current'{%- endif -%}>Ara</a></li>
+            <li id="menu-item-3"><a title="Hakkında" href="/hakkinda" {%- if current[1] == 'hakkinda' -%}class='current'{%- endif -%}>Hakkında</a></li>
           </ul>
         </nav>
     </div>    

@@ -187,7 +187,7 @@ input {
         .site-logo {
             .mn-logo {
                 height: auto;
-                width: 16em;
+                width: 7em;
                 vertical-align: middle;
             }
         }
@@ -212,10 +212,13 @@ input {
                     a:after{
                         content: '';
                         border-bottom: 2px solid transparent;
+                        position: absolute;
                         left: 0;
                         bottom: -2px;
-                        position: absolute;
                         width: 100%;
+                    }
+                    a.current:after {
+                        border-bottom: 2px solid $link;
                     }
                 }
             }
@@ -229,7 +232,7 @@ input {
             margin: 1.5em auto;
             gap: 1em 1.5em;
             .site-logo .mn-logo {
-                width: 13em;
+                width: 5em;
             }
             nav ul li {
                 font-size: $fs9;
@@ -249,7 +252,7 @@ input {
                 margin-left: 1em;
                 .mn-logo {
                     height: auto;
-                    width: 5.5em;
+                    width: 3em;
                 }
             }
             nav {
