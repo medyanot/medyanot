@@ -11,6 +11,9 @@
                 {%- endif -%}
             </header>
             <div class="page-content">
+            {%- if page.description and page.title != "Merhaba" -%}
+            <p class="description">{{ page.description }}</p>
+            {%- endif -%}
             {{ content }}
             </div>
             {%- include tagging.html -%}

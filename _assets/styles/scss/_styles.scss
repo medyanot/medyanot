@@ -60,6 +60,15 @@ h1, h2, h3, h4, h5, h6 {
     line-height: 1.1;
 }
 
+.page-content h2 {
+    color: $link;
+    margin-top: 2em;
+}
+
+.page-content h3 {
+    font-size: $fs4;
+}
+
 a {
     color: $text;
     transition: color 0.2s ease;
@@ -105,6 +114,29 @@ hr {
 
 a::selection {
     text-shadow: none;
+}
+
+p.description {
+    font-size: $fs5;
+    margin-bottom: 3rem;
+}
+
+.blocklink {
+    margin-bottom: 3em;
+    a{
+        background-color: $link;
+        color: $white;
+        font-weight: 700;
+        font-size: $fs9;
+        padding: 1em;
+        border-radius: 6px;
+    }    
+}
+
+@media (hover) {
+    .blocklink a:hover {
+        background-color: $black;
+    }
 }
 
 /* Lists
@@ -193,6 +225,8 @@ ul li, ol li {
 
 img {
     max-width: 100%;
+    border-radius: 3px;
+    box-shadow: 0 0 0 1px $grey1;
 }
 
 figure {
