@@ -1,6 +1,5 @@
 body {
     color: $text;
-    font-family: $sans;
     background-color: $white;
     -webkit-font-smoothing: antialiased;
     font-kerning: normal;
@@ -19,8 +18,11 @@ html {
   }
 
 input {
-    font-family: $sans;
     color: $text;
+}
+
+body, input, .archive-date {
+    font-family: $serif;
 }
 
 /* Inline Elements   
@@ -81,27 +83,14 @@ p, .tag-links {
 }
 
 p.description {
-    font-size: $fs5;
     margin-bottom: 3rem;
-}
-
-.blocklink {
-    margin-bottom: 3em;
-    a{
-        background-color: $link;
-        color: $white;
-        font-weight: 700;
-        font-size: $fs9;
-        padding: 1em;
-        border-radius: 6px;
-    }    
+    font-style: italic;
 }
 
 /* Dates
 ========================================================================== */
 
 .archive-date {
-    font-family: $sans;
     padding-top: 0.5rem;
     border-top: 1px solid $grey2;
     font-size: $fs9;

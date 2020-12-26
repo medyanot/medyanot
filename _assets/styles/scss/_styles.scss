@@ -1,6 +1,5 @@
 body {
     color: $text;
-    font-family: $sans;
     background-color: $white;
     -webkit-font-smoothing: antialiased;
     font-kerning: normal;
@@ -19,8 +18,11 @@ html {
   }
 
 input {
-    font-family: $sans;
     color: $text;
+}
+
+body, input, .archive-date {
+    font-family: $serif;
 }
 
 /* Inline Elements   
@@ -117,8 +119,8 @@ a::selection {
 }
 
 p.description {
-    font-size: $fs5;
     margin-bottom: 3rem;
+    font-style: italic;
 }
 
 .blocklink {
@@ -128,8 +130,8 @@ p.description {
         color: $white;
         font-weight: 700;
         font-size: $fs9;
-        padding: 1em;
-        border-radius: 6px;
+        padding: .8em 1em;
+        border-radius: 3px;
     }    
 }
 
@@ -197,9 +199,7 @@ ul li, ol li {
 /* Dates
 ========================================================================== */
 
-
 .archive-date {
-    font-family: $sans;
     padding-top: 0.5rem;
     border-top: 1px solid $grey2;
     font-size: $fs9;
@@ -455,6 +455,7 @@ input {
             justify-content: center;
             align-items: center;
             border: 2px solid $grey4;
+            font-variant-numeric: lining-nums;
         }
         svg {
             height: 13px;
