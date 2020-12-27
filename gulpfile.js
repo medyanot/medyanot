@@ -128,9 +128,6 @@ gulp.task('build:images:inline', function(done) {
         .pipe(responsive({
       // resize all images
       '*.*': [{
-        width: 32,
-        rename: { suffix: '-lq' },
-      }, {
         width: 1280,
       }]
     }, {
