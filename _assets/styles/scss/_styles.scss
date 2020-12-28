@@ -13,10 +13,6 @@ body {
     @include fluid-type($min_width, $max_width, $min_font, $max_font);
 }
 
-html {
-    background-color: $link;
-  }
-
 input {
     color: $text;
 }
@@ -105,12 +101,12 @@ hr {
 }
 
 ::-moz-selection {
-    background:  $link;
+    background: rgba(227,84,117,.9);
     color: $white;
 }
 
 ::selection {
-    background: $link;
+    background:rgba(227,84,117,.9);
     color: $white;
 }
 
@@ -125,19 +121,22 @@ p.description {
 
 .blocklink {
     margin-bottom: 3em;
-    a{
-        background-color: $link;
-        color: $white;
+    a {
         font-weight: 700;
         font-size: $fs9;
-        padding: .8em 1em;
-        border-radius: 3px;
+        padding: .5em 1em;
+        border-radius: 10em;
+        box-shadow: none;
+        border: 2px solid $grey6;
+        color: $grey7;
     }    
 }
 
 @media (hover) {
     .blocklink a:hover {
-        background-color: $black;
+        background-color: transparent;
+        border-color: $link;
+        color: $link;
     }
 }
 
@@ -201,7 +200,7 @@ ul li, ol li {
 
 .archive-date {
     padding-top: 0.5rem;
-    border-top: 1px solid $grey2;
+    border-top: 1px solid $grey1;
     font-size: $fs9;
     position: relative;
     display: block;
@@ -311,98 +310,69 @@ input {
 
 .site-header {
     .header-wrap {
-        display: grid;
-        grid-template-columns: 1fr;
-        gap: 1.5em;
         max-width: 32em;
         margin: 2em auto;
-        place-items: center;
         border-bottom: 1px solid $grey1;
+        display: grid;
         .site-logo {
+            margin: 0 auto 1em;
             .mn-logo {
                 height: auto;
                 width: 12em;
-                vertical-align: middle;
+                @media only screen and (max-width: 1024px) {
+                    width: 9em;
+                }
+                @media only screen and (max-width: 640px) {
+                    width: 6em;
+                }
             }
         }
-        nav {
+        .nav-tog {
             width: 100%;
-            ul {
-                display: grid;
-                grid-template-columns: 1fr 1fr 1fr;
-                li {
-                    font-size: $fs8;
-                    display: flex;
-                    a {
-                        text-transform: uppercase;
-                        position: relative;
-                        flex-grow: 1;
-                        text-align: center;
-                        font-weight: 700;
-                        letter-spacing: 0.04em;
-                        padding: 1rem 0;
-                        color: $text;
-                        &:hover{
-                            color: $text;
-                        }
-                    }
-                    a:after{
-                        content: '';
-                        border-bottom: 2px solid transparent;
-                        position: absolute;
-                        left: 0;
-                        bottom: -2px;
-                        width: 100%;
-                        transition: all .5s ease;
-                    }
-                    @media (hover) {
-                        a:hover:after {
-                            border-color: $grey7;
-                            transition: all .5s ease;
-                        }
-                    }
-                    a.current:after {
-                        border-bottom: 2px solid $link;
-                    }
-                }
-            }
-        }
-    }
-}
-
-@media only screen and (max-width: 1024px) {
-    .site-header {
-        .header-wrap {
-            margin: 1.5em auto;
-            gap: 1em 1.5em;
-            .site-logo .mn-logo {
-                width: 9em;
-            }
-            nav ul li {
-                font-size: $fs9;
-            }
-        }
-    }
-}
-
-@media only screen and (max-width: 640px) {
-    .site-header {
-        .header-wrap {
-            display: grid;
-            max-width: 640px;
-            margin-top: 0.2em;
-            grid-template-columns: auto 1fr;
-            .site-logo {
-                margin-left: 1em;
-                .mn-logo {
-                    height: auto;
-                    width: 4em;
-                }
-            }
+            padding: 1em 1em .5em;
+            display: flex;
+            flex-flow: row nowrap;
+            align-items: center;
             nav {
-                margin-right: 1em;
-                ul li {
-                    font-size: 0.75em;
+                width: 100%;
+                ul {
+                    display: flex;
+                    flex-flow: row nowrap;
+                    justify-content: space-between;
+                    li {
+                        font-size: $fs8;
+                        @media only screen and (max-width: 1024px) {
+                            font-size: $fs9;
+                        }
+                        @media only screen and (max-width: 640px) {
+                            font-size: $fs10;
+                        }
+                        a {
+                            text-transform: uppercase;
+                            font-weight: 700;
+                            letter-spacing: 0.04em;
+                            padding: .5rem;
+                        }
+                    }
+                }
+            }
+            .dark-toggle {
+                border: none;
+                background: none;
+                margin-left: 1.5em;
+                svg {
+                    height: 1.5em;
+                    width: 1.5em;
+                    #dark-svg {
+                        fill: $text;
+                        transition: fill .2s ease-in;
+                    }
+                }
+                &:hover {
+                    cursor:pointer;
+                    svg #dark-svg {
+                        fill: $link;
+                    }
                 }
             }
         }
@@ -569,18 +539,6 @@ input {
                 text-transform: uppercase;
                 font-size: $fs9;
                 white-space: nowrap;
-                .tag-line {
-                    @include dotted-line;
-                    height: 1px;
-                    width: 100%;
-                    align-self: flex-end;
-                    margin: 0 0.3em;
-                }
-            }
-            @media (hover) { // prevent touch device hover
-            a:hover {
-                color: $link;
-                }
             }
         }
     }
@@ -743,4 +701,154 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+/* Dark Theme
+========================================================================== */
+
+body.dark-theme {
+    color: $dark-text;
+    background: $dark-body;
+    a, p, input {
+        color: $dark-text;
+    }
+    @media (hover) {
+        a:hover {
+            color: $dark-link;
+        }
+    }
+    p, .tag-links {
+        a, a:visited, a:active {
+            box-shadow: inset 0 -2px $dark-link;
+        }
+        @media (hover) {
+            a:hover {
+                background: $dark-link;
+                color: $dark-text;
+            }
+        }
+    }
+    .page-content h2, .tag-title span {
+        color: $dark-link;
+    }
+    .blocklink a {
+        color: $dark-grey2;
+        box-shadow: none;
+        border-color: $dark-grey3;
+        &:hover {
+            border-color: $dark-link;
+            background-color: transparent;
+            color: $dark-link;
+        }
+    }
+    .archive-date {
+        border-color: $dark-grey5;
+    }
+    #searchform input[type=search]:focus {
+        border-color: $dark-link;
+    }
+    .search-info h6{
+        color: $dark-grey2;
+    }
+    .subs-form {
+        background: #222C30;
+        border-color: $dark-link;
+        #mce-EMAIL, #mce-FNAME {
+            background: $dark-body;
+            &:active {
+                border-color: $dark-link;
+            }
+            &:focus {
+                border-color: $dark-link;
+            }
+        }
+        .success-message {
+            color: $dark-link;
+        }
+        .subs-header {
+            color: $dark-text;
+        }
+        #mc-embedded-subscribe {
+            background: $dark-grey6;
+            &:hover {
+                background-color: $dark-link;
+            }
+        }
+        p {
+            color: $dark-grey1;
+        }
+    }
+    img {
+        box-shadow: 0 0 0 1px $dark-grey6;
+        filter: brightness(.8) contrast(1.2);
+    }
+    .page-content {
+        border-bottom: 1px solid $dark-grey5;
+    }
+    figcaption {
+        border-bottom: 1px solid $dark-grey6;
+        color: $dark-grey2;
+    }
+    .site-header {
+        .header-wrap {
+            border-bottom: 1px solid $dark-grey5;
+            .site-logo {
+                svg {
+                    #logo-m, #logo-n {
+                        fill: $dark-text;
+                    }
+                    #logo-ast {
+                        fill: $dark-link;
+                    }
+                }
+            }
+            .nav-tog {
+                .dark-toggle {
+                    #dark-svg {
+                        fill: $dark-text;
+                        transition: fill .2s ease-in;
+                    }
+                    &:hover {
+                        #dark-svg {
+                            fill: $dark-link;
+                        }
+                    }
+                }
+            }
+        }
+    }
+    footer {
+        background-color: $dark-black;
+        border-color: $dark-body;
+        #footer-ast {
+            fill: $dark-link;
+        }
+    }
+    .pagination {
+        li {
+            a {
+                border-color: $dark-grey4;
+            }
+            svg {
+                fill: $dark-grey4;
+            }
+        }
+        @media (hover) { // prevent touch device hover
+            li:hover {
+                a:not(.pagi-current) {
+                    border-color: $dark-link;
+                }
+                svg {
+                    fill: $dark-link;
+                }
+            }
+        }
+        li .pagi-current {
+            border: 2px solid $dark-grey2;
+            color: $dark-grey2;
+        }  
+    }
+    .PageNavigation {
+        border-top: 1px solid $dark-grey5;
+    }
 }

@@ -4,14 +4,16 @@
             <a class="site-home" title="Anasayfa" href="/">
                 {%- include logo.html -%}
             </a>
-        </div>  
-        {% assign current = page.url | downcase | split: '/' %}
-        <nav id="site-navigation">
-          <ul>
-            <li id="menu-item-1"><a title="Anasayfa" href="/" {%- if current[1] == "index.html" -%}class='current'{%- endif -%}>Anasayfa</a></li>
-            <li id="menu-item-2"><a title="Ara" href="/ara" {%- if current[1] == 'ara' -%}class='current'{%- endif -%}>Ara</a></li>
-            <li id="menu-item-3"><a title="Hakkında" href="/hakkinda" {%- if current[1] == 'hakkinda' -%}class='current'{%- endif -%}>Hakkında</a></li>
-          </ul>
-        </nav>
+        </div>
+        <div class="nav-tog">
+          <nav id="site-navigation">
+            <ul>
+              <li id="menu-item-1"><a title="Anasayfa" href="/">Anasayfa</a></li>
+              <li id="menu-item-2"><a title="Ara" href="/ara">Ara</a></li>
+              <li id="menu-item-3"><a title="Hakkında" href="/hakkinda">Hakkında</a></li>
+            </ul>
+          </nav>
+          <button class="dark-toggle"><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"  role="img" viewBox="0 0 512 512"><path id="dark-svg" fill="#435660" d="M8 256c0 136.966 111.033 248 248 248s248-111.034 248-248S392.966 8 256 8 8 119.033 8 256zm248 184V72c101.705 0 184 82.311 184 184 0 101.705-82.311 184-184 184z"/></svg></button>
+        </div>
     </div>    
 </header>
