@@ -1,6 +1,64 @@
+html, html[data-theme="light"] {
+    --link-color: #ef476f;
+    --main-background-color: #F3F5F7;
+    --main-text-color: #435660;
+    --grey-6: #5a6b74;
+    --grey-5: #728088;
+    --grey-4: #8b979e;
+    --grey-3: #a4adb3;
+    --grey-2: #bec5c9;
+    --grey-1: #d8dde0;
+    --grey-1a: #E6E9EC;
+    --black-color: #324148;
+}
+
+html[data-theme="dark"] {
+  --link-color: #D95E7B;
+  --main-background-color: #1D2528;
+  --main-text-color: #C3CFD5;
+  --grey-6: #a9b4ba;
+  --grey-5: #8f9a9f;
+  --grey-4: #768185;
+  --grey-3: #5e686c;
+  --grey-2: #475054;
+  --grey-1: #2b3437;
+  --grey-1a: #222c30;
+  --black-color: #192124;
+}
+
+@media (prefers-color-scheme: dark) {
+    html, html[data-theme="dark"] {
+        --link-color: #D95E7B;
+        --main-background-color: #1D2528;
+        --main-text-color: #C3CFD5;
+        --grey-6: #a9b4ba;
+        --grey-5: #8f9a9f;
+        --grey-4: #768185;
+        --grey-3: #5e686c;
+        --grey-2: #475054;
+        --grey-1: #2b3437;
+        --grey-1a: #222c30;
+        --black-color: #192124;
+    }
+
+    html[data-theme="light"] {
+        --link-color: #ef476f;
+        --main-background-color: #F3F5F7;
+        --main-text-color: #435660;
+        --grey-6: #5a6b74;
+        --grey-5: #728088;
+        --grey-4: #8b979e;
+        --grey-3: #a4adb3;
+        --grey-2: #bec5c9;
+        --grey-1: #d8dde0;
+        --grey-1a: #E6E9EC;
+        --black-color: #324148;
+  } 
+}
+
 body {
-    color: $text;
-    background-color: $white;
+    color: var(--main-text-color);
+    background-color: var(--main-background-color);
     -webkit-font-smoothing: antialiased;
     font-kerning: normal;
     font-variant-ligatures: common-ligatures contextual;
@@ -14,7 +72,7 @@ body {
 }
 
 input {
-    color: $text;
+    color: var(--main-text-color);
 }
 
 body, input, .archive-date {
@@ -59,7 +117,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .page-content h2 {
-    color: $link;
+    color: var(--link-color);
     margin-top: 2em;
 }
 
@@ -68,33 +126,33 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a {
-    color: $text;
+    color: var(--main-text-color);
     transition: color 0.2s ease;
 }
 
 @media (hover) {
     a:hover {
-        color: $link;
+        color: var(--link-color);
     }
 }
 
 p, .tag-links {
     a, a:visited, a:active {
         display: inline;
-        box-shadow: inset 0 -2px $link;
+        box-shadow: inset 0 -2px var(--link-color);
         transition: all .2s ease;
     }
     @media (hover) {
         a:hover {
-            background: $link;
+            background: var(--link-color);
             box-shadow: none;
-            color: $white;
+            color: var(--main-background-color);
         }
     }
 }
 
 hr {
-    background-color: $grey7;
+    background-color: var(--grey-6);
     height: 4px;
     margin: 1.55rem 0;
     border: none;
@@ -102,12 +160,12 @@ hr {
 
 ::-moz-selection {
     background: rgba(227,84,117,.9);
-    color: $white;
+    color: var(--main-background-color);
 }
 
 ::selection {
     background:rgba(227,84,117,.9);
-    color: $white;
+    color: var(--main-background-color);
 }
 
 a::selection {
@@ -127,16 +185,16 @@ p.description {
         padding: .5em 1em;
         border-radius: 10em;
         box-shadow: none;
-        border: 2px solid $grey6;
-        color: $grey7;
+        border: 2px solid var(--grey-5);
+        color: var(--grey-6);
     }    
 }
 
 @media (hover) {
     .blocklink a:hover {
         background-color: transparent;
-        border-color: $link;
-        color: $link;
+        border-color: var(--link-color);
+        color: var(--link-color);
     }
 }
 
@@ -200,7 +258,7 @@ ul li, ol li {
 
 .archive-date {
     padding-top: 0.5rem;
-    border-top: 1px solid $grey1;
+    border-top: 1px solid var(--grey-1);
     font-size: $fs9;
     position: relative;
     display: block;
@@ -225,7 +283,7 @@ ul li, ol li {
 img {
     max-width: 100%;
     border-radius: 3px;
-    box-shadow: 0 0 0 1px $grey1;
+    box-shadow: 0 0 0 1px var(--grey-1);
 }
 
 figure {
@@ -234,12 +292,12 @@ figure {
 
 figcaption {
     font-size: $fs9;
-    color: $grey6;
+    color: var(--grey-6);
     line-height: 1.35;
     margin: 0.35em auto -0.5em;
     max-width: 100%;
     padding-bottom: 0.25em;
-    border-bottom: 1px solid $grey1;
+    border-bottom: 1px solid var(--grey-1);
 }
 
 .ratio-box {
@@ -312,7 +370,7 @@ input {
     .header-wrap {
         max-width: 32em;
         margin: 2em auto;
-        border-bottom: 1px solid $grey1;
+        border-bottom: 1px solid var(--grey-1);
         display: grid;
         .site-logo {
             margin: 0 auto 1em;
@@ -324,6 +382,12 @@ input {
                 }
                 @media only screen and (max-width: 640px) {
                     width: 6em;
+                }
+                #logo-m, #logo-n {
+                    fill: var(--main-text-color);
+                }
+                #logo-ast {
+                    fill: var(--link-color);
                 }
             }
         }
@@ -356,22 +420,18 @@ input {
                     }
                 }
             }
-            .dark-toggle {
+            #theme-toggle {
                 border: none;
                 background: none;
                 margin-left: 1.5em;
-                svg {
+                .light-sun {
                     height: 1.5em;
                     width: 1.5em;
-                    #dark-svg {
-                        fill: $text;
-                        transition: fill .2s ease-in;
-                    }
-                }
-                &:hover {
-                    cursor:pointer;
-                    svg #dark-svg {
-                        fill: $link;
+                    fill: var(--main-text-color);
+                    transition: fill .2s ease-in;
+                    &:hover {
+                        cursor:pointer;
+                        fill: var(--link-color);
                     }
                 }
             }
@@ -388,7 +448,7 @@ input {
     grid-template-columns: 1fr 1fr;
     gap: 0.5rem;
     margin: 2em 0 3em;
-    border-top: 1px solid $grey1;
+    border-top: 1px solid var(--grey-1);
     .nav-link {
         .page-nav-header {
             font-size: $fs7;
@@ -424,13 +484,13 @@ input {
             display: flex;
             justify-content: center;
             align-items: center;
-            border: 2px solid $grey4;
+            border: 2px solid var(--grey-4);
             font-variant-numeric: lining-nums;
         }
         svg {
             height: 13px;
             width: auto;
-            fill: $grey4;
+            fill: var(--grey-4);
         }
     }
     li:first-of-type {
@@ -442,18 +502,18 @@ input {
     @media (hover) { // prevent touch device hover
         li:hover {
             a:not(.pagi-current) {
-                border-color: $link;
+                border-color: var(--link-color);
             }
             svg {
-                fill: $link;
+                fill: var(--link-color);
             }
         }
     }
     li .pagi-current {
         pointer-events: none;
         cursor: default;
-        border: 2px solid $text;
-        color: $text;
+        border: 2px solid var(--main-text-color);
+        color: var(--main-text-color);
         font-weight: 700;
         font-size: 18px;
     }  
@@ -468,9 +528,9 @@ input {
     -webkit-appearance: none;
     border-radius: 0;
     margin: 2em 0 1em;
-    border: 2px solid $grey6;
+    border: 2px solid var(--grey-5);
     border-radius: 20em;
-    padding: 1rem;
+    padding: 1rem 1.5rem;
     text-decoration: none;
     transition: border-color 0.2s;
   }
@@ -480,11 +540,11 @@ input {
   }
   
   #searchform input::placeholder {
-      color: $grey4;
+      color: var(--grey-4);
   }
   
   #searchform input[type=search]:focus {
-      border-color: $link;
+      border-color: var(--link-color);
   }
   
   .search-item {
@@ -503,7 +563,7 @@ input {
   }
   
   .search-results p{
-      color: $text;
+      color: var(--main-text-color);
       font-size: $fs7;
   }
   
@@ -511,7 +571,7 @@ input {
       h6 {
           display: inline-block;
           margin: 0 0 0.5rem 0;
-          color: $text;
+          color: var(--main-text-color);
           font-size: $fs9;
           font-weight: 400;
       }
@@ -551,7 +611,7 @@ input {
 ========================================================================= */
 
 .page-content {
-    border-bottom: 1px solid $grey1;
+    border-bottom: 1px solid var(--grey-1);
 }
 
 .tag-section {
@@ -573,7 +633,7 @@ input {
     margin-bottom: 3rem;
     padding-bottom: 0.5rem;
     span{
-        color: $link;
+        color: var(--link-color);
     }  
 }
 
@@ -583,8 +643,8 @@ input {
     padding: 1em;
     overflow: hidden;
     text-align: center;
-    background-color: $grey2;
-    border-top: 4px solid $link;
+    background-color: var(--grey-1a);
+    border-top: 4px solid var(--link-color);
 }
 
 .subs-header {
@@ -592,7 +652,6 @@ input {
     letter-spacing: 0.05em;
     text-transform: uppercase;
     margin: 0;
-    color: $black;
 }
 
 .subs-text {
@@ -611,8 +670,8 @@ input {
 #mce-EMAIL, #mce-FNAME {
     font-size: $fsp;
     padding: 0.6em 0;
-    border: 1px solid $grey3;
-    background: $grey1;
+    border: 1px solid var(--grey-3);
+    background: var(--grey-1);
     margin-bottom: 1em;
     text-indent: 0.6em;
     border-radius: 4px;
@@ -632,14 +691,14 @@ label {
 #mce-EMAIL:focus, 
 #mce-FNAME:active,
 #mce-FNAME:focus {
-    border-color: $link;
-    background: $white;
+    border-color: var(--link-color);
+    background: var(--main-background-color);
 }
 
 #mc-embedded-subscribe {
-    background: $text;
-    border: 1px solid $grey3;
-    color: $grey1;
+    background: var(--main-text-color);
+    border: 1px solid var(--grey-3);
+    color: var(--grey-1);
     font-size: $fsp;
     padding: 0.6em 1em;
     width: 100%;
@@ -652,7 +711,7 @@ label {
 #mc-embedded-subscribe:active,
 #mc-embedded-subscribe:focus,
 #mc-embedded-subscribe:hover {
-    background-color: $link;
+    background-color: var(--link-color);
     text-decoration: none;
     cursor:pointer;
 }
@@ -661,7 +720,7 @@ label {
  * Errors
  */
 .error {
-    border-color: $link;
+    border-color: var(--link-color);
 }
 
 .error-message {
@@ -674,7 +733,7 @@ label {
 
 .error-message:before {
     content: "!";
-    color: $link;
+    color: var(--link-color);
     padding-right: 0.2em;
     font-style: normal;
 }
@@ -684,7 +743,7 @@ label {
   margin: 1em auto;
   text-align: left;
   line-height: 1.4;
-  color: $link;
+  color: var(--link-color);
 }
 
 .mc-status:focus {
@@ -695,160 +754,12 @@ label {
 
 footer {
     flex-shrink: 0; /* Keeps the footer at the bottom */
-    background-color: $black;
-    border-top: 1px solid $grey6;
+    background-color: var(--black-color);
     height: 4rem;
     display: flex;
     justify-content: center;
     align-items: center;
-}
-
-/* Dark Theme
-========================================================================== */
-
-body.dark-theme {
-    color: $dark-text;
-    background: $dark-body;
-    a, p, input {
-        color: $dark-text;
-    }
-    @media (hover) {
-        a:hover {
-            color: $dark-link;
-        }
-    }
-    p, .tag-links {
-        a, a:visited, a:active {
-            box-shadow: inset 0 -2px $dark-link;
-        }
-        @media (hover) {
-            a:hover {
-                background: $dark-link;
-                color: $dark-text;
-            }
-        }
-    }
-    .page-content h2, .tag-title span {
-        color: $dark-link;
-    }
-    .blocklink a {
-        color: $dark-grey2;
-        box-shadow: none;
-        border-color: $dark-grey3;
-        &:hover {
-            border-color: $dark-link;
-            background-color: transparent;
-            color: $dark-link;
-        }
-    }
-    .archive-date {
-        border-color: $dark-grey5;
-    }
-    #searchform input[type=search]:focus {
-        border-color: $dark-link;
-    }
-    .search-info h6{
-        color: $dark-grey2;
-    }
-    .subs-form {
-        background: #222C30;
-        border-color: $dark-link;
-        #mce-EMAIL, #mce-FNAME {
-            background: $dark-body;
-            &:active {
-                border-color: $dark-link;
-            }
-            &:focus {
-                border-color: $dark-link;
-            }
-        }
-        .success-message {
-            color: $dark-link;
-        }
-        .subs-header {
-            color: $dark-text;
-        }
-        #mc-embedded-subscribe {
-            background: $dark-grey6;
-            &:hover {
-                background-color: $dark-link;
-            }
-        }
-        p {
-            color: $dark-grey1;
-        }
-    }
-    img {
-        box-shadow: 0 0 0 1px $dark-grey6;
-        filter: brightness(.8) contrast(1.2);
-    }
-    .page-content {
-        border-bottom: 1px solid $dark-grey5;
-    }
-    figcaption {
-        border-bottom: 1px solid $dark-grey6;
-        color: $dark-grey2;
-    }
-    .site-header {
-        .header-wrap {
-            border-bottom: 1px solid $dark-grey5;
-            .site-logo {
-                svg {
-                    #logo-m, #logo-n {
-                        fill: $dark-text;
-                    }
-                    #logo-ast {
-                        fill: $dark-link;
-                    }
-                }
-            }
-            .nav-tog {
-                .dark-toggle {
-                    #dark-svg {
-                        fill: $dark-text;
-                        transition: fill .2s ease-in;
-                    }
-                    &:hover {
-                        #dark-svg {
-                            fill: $dark-link;
-                        }
-                    }
-                }
-            }
-        }
-    }
-    footer {
-        background-color: $dark-black;
-        border-color: $dark-body;
-        #footer-ast {
-            fill: $dark-link;
-        }
-    }
-    .pagination {
-        li {
-            a {
-                border-color: $dark-grey4;
-            }
-            svg {
-                fill: $dark-grey4;
-            }
-        }
-        @media (hover) { // prevent touch device hover
-            li:hover {
-                a:not(.pagi-current) {
-                    border-color: $dark-link;
-                }
-                svg {
-                    fill: $dark-link;
-                }
-            }
-        }
-        li .pagi-current {
-            border: 2px solid $dark-grey2;
-            color: $dark-grey2;
-        }  
-    }
-    .PageNavigation {
-        border-top: 1px solid $dark-grey5;
+    #footer-ast {
+        fill: var(--link-color);
     }
 }
