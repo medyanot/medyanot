@@ -1,61 +1,57 @@
 html, html[data-theme="light"] {
     --link-color: #ef476f;
     --main-background-color: #F3F5F7;
-    --main-text-color: #435660;
-    --grey-6: #5a6b74;
-    --grey-5: #728088;
-    --grey-4: #8b979e;
-    --grey-3: #a4adb3;
-    --grey-2: #bec5c9;
-    --grey-1: #d8dde0;
-    --grey-1a: #E6E9EC;
-    --black-color: #324148;
+    --main-text-color: #353739;
+    --grey-6: #4d4f51;
+    --grey-5: #66686a;
+    --grey-4: #808285;
+    --grey-3: #9c9ea0;
+    --grey-2: #b8babc;
+    --grey-1: #d5d7d9;
+    --black-color: #2A2C2E;
     --img-filter: brightness(1) contrast(1);
 }
 
 html[data-theme="dark"] {
   --link-color: #D95E7B;
-  --main-background-color: #1D2528;
-  --main-text-color: #C3CFD5;
-  --grey-6: #a9b4ba;
-  --grey-5: #8f9a9f;
-  --grey-4: #768185;
-  --grey-3: #5e686c;
-  --grey-2: #475054;
-  --grey-1: #2b3437;
-  --grey-1a: #222c30;
-  --black-color: #192124;
+  --main-background-color: #1F2123;
+  --main-text-color: #D5D6D7;
+  --grey-6: #b8b9ba;
+  --grey-5: #9c9d9f;
+  --grey-4: #808284;
+  --grey-3: #66686a;
+  --grey-2: #4d4f51;
+  --grey-1: #353739;
+  --black-color: #131416;
   --img-filter: brightness(.8) contrast(1.2);
 }
 
 @media (prefers-color-scheme: dark) {
     html, html[data-theme="dark"] {
         --link-color: #D95E7B;
-        --main-background-color: #1D2528;
-        --main-text-color: #C3CFD5;
-        --grey-6: #a9b4ba;
-        --grey-5: #8f9a9f;
-        --grey-4: #768185;
-        --grey-3: #5e686c;
-        --grey-2: #475054;
-        --grey-1: #2b3437;
-        --grey-1a: #222c30;
-        --black-color: #192124;
+        --main-background-color: #1F2123;
+        --main-text-color: #D5D6D7;
+        --grey-6: #b8b9ba;
+        --grey-5: #9c9d9f;
+        --grey-4: #808284;
+        --grey-3: #66686a;
+        --grey-2: #4d4f51;
+        --grey-1: #353739;
+        --black-color: #131416;
         --img-filter: brightness(.8) contrast(1.2);
     }
 
     html[data-theme="light"] {
         --link-color: #ef476f;
         --main-background-color: #F3F5F7;
-        --main-text-color: #435660;
-        --grey-6: #5a6b74;
-        --grey-5: #728088;
-        --grey-4: #8b979e;
-        --grey-3: #a4adb3;
-        --grey-2: #bec5c9;
-        --grey-1: #d8dde0;
-        --grey-1a: #E6E9EC;
-        --black-color: #324148;
+        --main-text-color: #353739;
+        --grey-6: #4d4f51;
+        --grey-5: #66686a;
+        --grey-4: #808285;
+        --grey-3: #9c9ea0;
+        --grey-2: #b8babc;
+        --grey-1: #d5d7d9;
+        --black-color: #2A2C2E;
         --img-filter: brightness(1) contrast(1);
   } 
 }
@@ -149,7 +145,6 @@ hr {
 
 p.description {
     margin-bottom: 3rem;
-    font-style: italic;
 }
 
 /* Dates
@@ -312,8 +307,8 @@ figcaption {
                 background: none;
                 margin-left: 1.5em;
                 .light-sun {
-                    height: 1.5em;
-                    width: 1.5em;
+                    height: 1.3em;
+                    width: 1.3em;
                     fill: var(--main-text-color);
                 }
             }
@@ -331,13 +326,14 @@ figcaption {
     border-radius: 0;
     margin: 2em 0 1em;
     border: 2px solid var(--grey-5);
+    background-color: var(--grey-1);
     border-radius: 20em;
     padding: 1rem 1.5rem;
     text-decoration: none;
   }
   
   #searchform input::placeholder {
-      color: var(--grey-4);
+      color: var(--grey-5);
   }
   
 /* Tag Cloud 
