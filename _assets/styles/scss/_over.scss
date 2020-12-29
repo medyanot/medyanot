@@ -118,11 +118,16 @@ h1, h2, h3, h4, h5, h6 {
 
 .page-content h2 {
     color: var(--link-color);
-    margin-top: 2em;
+    margin-top: 3.9rem;
 }
 
 .page-content h3 {
     font-size: $fs4;
+    margin-top: 3.4rem;
+}
+
+.page-content h2 + h3 {
+    margin-top: 1.9rem;
 }
 
 a {
@@ -139,7 +144,8 @@ p, .tag-links {
 hr {
     background-color: var(--grey-6);
     height: 4px;
-    margin: 1.55rem 0;
+    width: 6em;
+    margin: 3rem auto;
     border: none;
 }
 
