@@ -56,6 +56,10 @@ html[data-theme="dark"] {
   } 
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     color: var(--main-text-color);
     background-color: var(--main-background-color);
@@ -82,9 +86,9 @@ body, input, .archive-date {
 /* Inline Elements   
 ========================================================================== */
 
-p {
+p, .page-content ol, .page-content ul {
     line-height: 1.55;
-    margin: 0 0 1.55em 0;
+    margin-bottom: 1.55em;
 }
 
 h1 {
@@ -134,7 +138,7 @@ a {
     color: var(--main-text-color);
 }
 
-p, .tag-links {
+p, .tag-links, .page-content ul li {
     a, a:visited, a:active {
         display: inline;
         box-shadow: inset 0 -2px var(--link-color);
@@ -151,6 +155,27 @@ hr {
 
 p.description {
     margin-bottom: 3rem;
+}
+
+/* Lists
+========================================================================== */
+
+.page-content {
+    ol {
+        list-style-position: outside;
+        li::marker {
+            font-variant-numeric: lining-nums;
+            font-weight: 700;
+        }
+    }
+    ul {
+        list-style: square outside;
+    }
+    @media only screen and (max-width: 640px) {
+        ul, ol {
+            list-style-position: inside;
+        }
+    }
 }
 
 /* Dates

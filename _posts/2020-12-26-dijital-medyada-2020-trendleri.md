@@ -4,6 +4,13 @@ tags: [Rapor, Trendler]
 description: "Medyanot’tan selamlar! Web, sosyal medya, dijital iletişim ve daha birçok konuda 2020’de yükselen trendlere dair kapsamlı raporlar birbiri ardına yayınlanıyor. İlk bültenimiz şanslı bir zamana denk geldi!"
 ---
 
+İlgilendiğiniz başlığa atlamak için:
+- [Web Tasarımı](#web-tasarımı)
+- [İnternet Trendleri](#i̇nternet-trendleri)
+- [Pazarlama](#pazarlama)
+- [Sosyal Medya](#sosyal-medya)
+- [Haftanın İçerik Üreticisi](#haftanın-i̇çerik-üreticisi)
+
 ## Web Tasarımı
 
 ### HTTP Archive Web Yıllığı 2020
