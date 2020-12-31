@@ -11,26 +11,29 @@
 <meta name="apple-mobile-web-app-status-bar-style" content="black">
 <meta name="apple-mobile-web-app-title" content="Medyanot">
 <meta name="color-scheme" content="dark light">
-
+<!-- Title-->   
+{% include title-tag.html %}
+<!-- Dark theme blocker -->   
 <script>
  if (sessionStorage.theme) document.documentElement.setAttribute("data-theme", sessionStorage.theme);
 </script>
-
-<link rel="sitemap" type="application/xml" title="Medyanot" href="/sitemap.xml">
-<!-- Title-->   
-{% include title-tag.html %}
-<!-- Meta tags and open graph-->
-{%- include graphs.html -%}
 <!-- Critical CSS -->   
 <style> 
 {% include critical.css %}
-</style> 
-{% include loadcss.html %}
+</style>
+<!-- Async load main.css -->
+<link rel="stylesheet" href="/assets/styles/main.css" media="print" onload="this.media='all'">
+<noscript><link rel="stylesheet" href="/assets/styles/main.css"></noscript>
 <!-- Fonts -->
 <link rel="preload" href="/fonts/serif.woff2" as="font" type="font/woff" crossorigin>
+<link rel="preload" href="/fonts/serif-bold.woff2" as="font" type="font/woff" crossorigin>
 <style>
 {%- include fonts.css -%}
 </style>
+<!-- Sitemap -->
+<link rel="sitemap" type="application/xml" title="Medyanot" href="/sitemap.xml">
+<!-- Meta tags and open graph-->
+{%- include graphs.html -%}
 {%- include favicons.html -%}
 <!-- Feed --> 
 <link type="application/atom+xml" rel="alternate" href="https://medyanot.netlify.app/feed.xml" title="Medyanot Yazıları">
