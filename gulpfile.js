@@ -104,7 +104,7 @@ gulp.task('clean:styles', function(done) {
 // appropriate location.
 gulp.task('build:scripts', function(done) {
     return gulp.src([
-        paths.jsFiles + '/lazysizes.js', paths.jsFiles + '/lazy-blurup.js', paths.jsFiles + '/subscription.js', paths.jsFiles + '/search.js'
+        paths.jsFiles + '/lazysizes.js', paths.jsFiles + '/lazy-unveil.js', paths.jsFiles + '/subscription.js', paths.jsFiles + '/search.js'
     ])
         .pipe(concat('main.js'))
         .pipe(uglify())
@@ -164,7 +164,16 @@ gulp.task('build:images:nonjpg', function() {
 } 
 );
 
-gulp.task('build:images', gulp.series('build:images:inline', 'build:images:nonjpg'));
+gulp.task('build:images:videos', function() {
+    return gulp.src(paths.imageFiles + "/**/*.mp4")
+    .pipe(gulpCached('build:images:videos'))
+        .pipe(gulp.dest(paths.jekyllImageFiles))
+        .pipe(gulp.dest(paths.siteImageFiles))
+        .pipe(browserSync.stream());
+  } 
+);
+
+gulp.task('build:images', gulp.series('build:images:inline', 'build:images:nonjpg', 'build:images:videos'));
 
 gulp.task('clean:images', function(done) {
     del([paths.jekyllImageFiles, paths.siteImageFiles]);

@@ -156,7 +156,9 @@ Twitter, Periscope’u kapatıyor. Mart 2021’den itibaren Periscope, app mağa
 {% endblocklink %}
 
 {% figure caption: "Twitter Spaces" %}
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">aye we’re live! what up y’all, we&#39;re the team behind Spaces––a small experiment focused on the intimacy of the human voice🧵</p>&mdash; Spaces (@TwitterSpaces) <a href="https://twitter.com/TwitterSpaces/status/1339639767089238019?ref_src=twsrc%5Etfw">December 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div class="ratio-box" style="padding-bottom: 44.0833333%">
+<img alt="Twitter Spaces screenshot" class="lazyload" data-src="/assets/img/twitter-spaces.png">
+</div>
 {% endfigure %}
 
 Twitter, “Spaces” adını verdiği yeni bir uygulama için deneme yapıyor. “Sohbet odası” konseptindeki bu uygulamada kullanıcılar izin verdikleri kişilerle sesli olarak muhabbet edebilecek. Henüz Beta aşamasında olan bu projenin kendine ait bir [Twitter hesabı](https://twitter.com/twitterspaces) da var. 
@@ -179,7 +181,19 @@ Telegram kurucusu Pavel Durov’un açıklamasına göre 500 milyon aktif kullan
 
 ## Haftanın İçerik Üreticisi
 
-<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/CIkn0m5H5xj/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="13" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:100%; min-width:200px; padding:0; width:80%;"><div style="padding:16px;"> <a href="https://www.instagram.com/p/CIkn0m5H5xj/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank"></a></div></blockquote> <script async src="//www.instagram.com/embed.js"></script>
+{% figure caption: "arc4g Instagram Postu" %}
+<div class="ratio-box" style="padding-bottom: 125%;">
+ <video
+	class="lazyload"
+	preload="none"
+	muted=""
+    loop=""
+	data-autoplay=""
+	data-poster="/assets/img/arc4g-ss.png"
+	src="/assets/img/arc4g-cat.mp4">
+</video>
+</div>
+{% endfigure %}
 
 Instagram’da arc4g ismiyle içerik üreten bu şahıs, kısa videolar, 3D simülasyonlar ve looplar yayınlıyor. İçerikler hem renk hem de hareket olarak rahatlatıcı bir etki yaratıyor.
 
@@ -190,3 +204,8 @@ Instagram’da arc4g ismiyle içerik üreten bu şahıs, kısa videolar, 3D sim�
 {% endblocklink %}
 
 Şimdilik bu kadar, haftaya görüşürüz.
+
+{% notice %}
+## Hey!
+Medyanot bülteni için içerik ve kaynak önerilerinizi [Google Drive dosyamıza](https://docs.google.com/spreadsheets/d/1PCEDWQJGaGNxii0fJQQM9KXUIX0q351pkJ0j54eNePs/edit?usp=drive_web&ouid=104308408560275161827) ekleyebilirsiniz. Bültenin formatı, içerikleri gibi konulardaki daha kapsamlı görüşleriniz için [mailimizden](mailto:medyanotblog@gmail.com) bizimle iletişime geçebilirsiniz.
+{% endnotice %}

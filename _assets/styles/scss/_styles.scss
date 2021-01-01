@@ -9,7 +9,7 @@ html, html[data-theme="light"] {
     --grey-2: #b8babc;
     --grey-1: #d5d7d9;
     --black-color: #2A2C2E;
-    --img-filter: brightness(1) contrast(1);
+    --img-filter: none;
 }
 
 html[data-theme="dark"] {
@@ -52,7 +52,7 @@ html[data-theme="dark"] {
         --grey-2: #b8babc;
         --grey-1: #d5d7d9;
         --black-color: #2A2C2E;
-        --img-filter: brightness(1) contrast(1);
+        --img-filter: none;
   } 
 }
 
@@ -280,7 +280,7 @@ ul {
 /* Images
 ========================================================================== */
 
-img {
+img, video {
     max-width: 100%;
     border-radius: 3px;
     box-shadow: 0 0 0 1px var(--grey-1);
@@ -642,13 +642,48 @@ input {
     }  
 }
 
+/************ Notice *************/
+
+.notice {
+    background-color: var(--main-background-color);
+    padding: 1rem 8%;
+    margin: 1.55em auto;
+    max-width: 90%;
+    display: flex;
+    position: relative;
+    border: solid 6px transparent;
+    background-clip: padding-box;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    h2 {
+        margin: 1rem 0;
+        color: var(--main-text-color);
+    }
+    p {
+        font-size: $fs7;
+    }
+}
+
+.notice::before {
+    content: "";
+    background: linear-gradient(126deg, rgba(239,71,111,1) 20%, rgba(233,176,73,1) 46%, rgba(49,155,194,1) 84%);
+    position: absolute;
+    top: -5px;
+    left: -5px;
+    width: calc(100% + 10px);
+    height: calc(100% + 10px);
+    z-index: -1;
+    border-radius: 8px;
+}
+
 /************ Subscription *************/
 
 .subs-form {
     padding: 1em;
     overflow: hidden;
     text-align: center;
-    background-color: var(--grey-1);
+    background-color: rgba(102,104,106,0.1);
     border-top: 4px solid var(--grey-4);
 }
 
@@ -661,7 +696,7 @@ input {
 
 .subs-text {
     line-height: 1.4;
-    font-size: 1em;
+    font-size: $fs7;
     margin-bottom: 1.5em;
     margin-top: 1rem;
     color: var(--grey-6);
@@ -676,8 +711,8 @@ input {
 #mce-EMAIL, #mce-FNAME {
     font-size: $fsp;
     padding: 0.6em 0;
-    border: 1px solid var(--grey-3);
-    background: var(--grey-2);
+    border: 1px solid var(--grey-2);
+    background: var(--grey-1);
     margin-bottom: 1em;
     text-indent: 0.6em;
     border-radius: 4px;
