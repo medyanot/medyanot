@@ -63,6 +63,7 @@ html {
 body {
     color: var(--main-text-color);
     background-color: var(--main-background-color);
+    font-family: $serif;
     -webkit-font-smoothing: antialiased;
     font-kerning: normal;
     font-variant-ligatures: common-ligatures contextual;
@@ -79,8 +80,8 @@ input {
     color: var(--main-text-color);
 }
 
-body, input, .archive-date {
-    font-family: $serif;
+h1, h2, h3, input, .archive-date, .site-header, .tag-cloud {
+    font-family: $sans;
 }
 
 /* Inline Elements   
@@ -160,9 +161,9 @@ p, .page-content ul li {
 ========================================================================== */
 
 .archive-date {
-    padding-top: 0.5rem;
+    padding-top: 0.4rem;
     border-top: 1px solid var(--grey-1);
-    font-size: $fs9;
+    font-size: $fs10;
     color: var(--grey-6);
     position: relative;
     display: block;

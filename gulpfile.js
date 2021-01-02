@@ -145,6 +145,30 @@ gulp.task('build:images:inline', function(done) {
     done();
 });
 
+gulp.task('build:images:placeholder', function(done) {
+    return gulp.src(paths.imageFiles + paths.imagePattern)
+    .pipe(gulpCached('build:images:placeholder'))
+        .pipe(responsive({
+      // resize all images
+      '*.*': [{
+        width: 1200,
+        height: 628,
+      }]
+    }, {
+      // global configuration for all images
+      errorOnEnlargement: false,
+      withMetadata: false,
+      quality: 75,
+      progressive: true,
+      errorOnUnusedConfig: false
+    }))
+        .pipe(size())
+        .pipe(gulp.dest(paths.jekyllImageFiles))
+        .pipe(gulp.dest(paths.siteImageFiles))
+        .pipe(browserSync.stream());
+    done();
+});
+
 gulp.task('build:images:nonjpg', function() {
   return gulp.src(paths.imageFiles + "/**/*.{png,gif,svg}")
   .pipe(gulpCached('build:images:nonjpg'))
@@ -173,7 +197,7 @@ gulp.task('build:images:videos', function() {
   } 
 );
 
-gulp.task('build:images', gulp.series('build:images:inline', 'build:images:nonjpg', 'build:images:videos'));
+gulp.task('build:images', gulp.series('build:images:inline', 'build:images:placeholder','build:images:nonjpg', 'build:images:videos'));
 
 gulp.task('clean:images', function(done) {
     del([paths.jekyllImageFiles, paths.siteImageFiles]);
