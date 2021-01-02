@@ -456,6 +456,17 @@ input {
     }
 }
 
+@media only screen and (max-width: 640px) {
+    .site-header {
+        .header-wrap {
+            margin: 1.5em auto;
+            .site-logo {
+                margin-bottom: .5em;
+            }
+        }
+    }
+}
+
 /* Navigation   
 ========================================================================== */
 
