@@ -1,6 +1,6 @@
 ---
 title: Dijital Medyada 2020 Trendleri
-tags: [Rapor, Trendler]
+tag: [Rapor, Trendler]
 description: "Medyanot’tan selamlar! Web, sosyal medya, dijital iletişim ve daha birçok konuda 2020’de yükselen trendlere dair kapsamlı raporlar birbiri ardına yayınlanıyor. İlk bültenimiz şanslı bir zamana denk geldi!"
 ---
 

@@ -117,7 +117,7 @@ h6 {
 
 h1, h2, h3, h4, h5, h6 {
     margin: 1rem 0;
-    line-height: 1.1;
+    line-height: 1.15;
 }
 
 .page-content h2 {
@@ -145,7 +145,7 @@ a {
     }
 }
 
-p, .tag-links, .page-content ul li {
+p, .page-content ul li {
     a, a:visited, a:active {
         display: inline;
         box-shadow: inset 0 -2px var(--link-color);
@@ -186,24 +186,35 @@ p.description {
     margin-bottom: 3rem;
 }
 
+blockquote p{
+    font-style: italic;
+    color: var(--grey-6);
+    margin-left: 5%;
+    padding-left: 1em;
+    border-left: 4px solid var(--grey-2);
+}
+
+/************ Blocklink *************/
+
 .blocklink {
     margin-bottom: 3em;
+    font-size: $fs8;
+    font-weight: 700;
     a {
-        font-weight: 700;
-        font-size: $fs9;
-        padding: .5em 1em;
-        border-radius: 10em;
-        box-shadow: none;
-        border: 2px solid var(--grey-6);
+        background-color: var(--grey-1);
         color: var(--grey-6);
+        box-shadow: none;
+        padding: 0.4em 0.8em;
+        border-radius: 3px;
+        border: 1px solid var(--grey-3);
+        transition: .2s all ease-in;
     }    
 }
 
 @media (hover) {
     .blocklink a:hover {
-        background-color: transparent;
-        border-color: var(--link-color);
-        color: var(--link-color);
+        color: var(--main-text-color);
+        background-color: var(--grey-2);
     }
 }
 
@@ -260,6 +271,7 @@ ul {
     padding-top: 0.5rem;
     border-top: 1px solid var(--grey-1);
     font-size: $fs9;
+    color: var(--grey-6);
     position: relative;
     display: block;
     left: -12em;
@@ -348,6 +360,7 @@ input {
     .text-area {
         display: block;
         max-width: 32em;
+        padding-bottom: 2em;
         margin-left: auto;
         margin-right: auto;
         .post-list {
@@ -451,17 +464,17 @@ input {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 0.5rem;
-    margin: 2em 0 3em;
+    margin: 2rem 0;
     border-top: 1px solid var(--grey-1);
     .nav-link {
         .page-nav-header {
             font-size: $fs7;
-            margin-bottom: 0.5rem;
-            margin-top: 1rem;
+            margin-bottom: .8rem;
+            margin-top: 1.6rem;
         }
         a {
-            font-size: $fs8;
-            line-height: 1.1;
+            font-size: $fsp;
+            line-height: 1.2;
         }
     }
     .nav-link:nth-of-type(2){
@@ -473,8 +486,7 @@ input {
 ========================================================================== */
 
 .pagination {
-    margin: 0 auto 3rem;
-    padding: 1em 0;
+    margin: 0 auto 1.5em;
     max-width: 88vw;
     display: flex;
     flex-flow: row nowrap;
@@ -607,9 +619,6 @@ input {
             }
         }
     }
-    #tag-list li:first-of-type {
-        display: none;
-    }
 }
 
 /* Page Bottom & Tags
@@ -620,7 +629,7 @@ input {
 }
 
 .tag-section {
-    margin: 1rem 0;
+    margin: 2rem 0;
     .page-tags {
         margin: 1em 0 !important;
         display: flex;
@@ -630,6 +639,17 @@ input {
             display: flex;
             margin-right: 0.5em;
             font-size: $fs9;
+            a {
+                background-color: var(--grey-1);
+                padding: 0.4em 0.8em;
+                border-radius: 3px;
+                border: 1px solid var(--grey-3);
+                transition: .2s all ease-in;
+                &:hover {
+                    color: var(--main-text-color);
+                    background-color: var(--grey-2);
+                }
+            }
         }
     }
 }
@@ -688,7 +708,7 @@ input {
 }
 
 .subs-header {
-    font-size: $fs7;
+    font-size: $fs6;
     letter-spacing: 0.05em;
     text-transform: uppercase;
     margin: 0;
@@ -739,7 +759,7 @@ label {
 #mc-embedded-subscribe {
     background: var(--main-text-color);
     border: 1px solid var(--grey-3);
-    color: var(--grey-1);
+    color: var(--main-background-color);
     font-size: $fsp;
     padding: 0.6em 1em;
     width: 100%;
