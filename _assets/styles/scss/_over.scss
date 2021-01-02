@@ -408,3 +408,11 @@ figcaption {
         }
     }
 }
+
+.tag-title {
+    margin-bottom: 3rem;
+    padding-bottom: 0.5rem;
+    span{
+        color: var(--link-color);
+    }  
+}
