@@ -91,6 +91,13 @@ p, .page-content ol, .page-content ul {
     margin-bottom: 1.55em;
 }
 
+/************ Titles *************/
+
+h1, h2, h3 {
+    margin: 1rem 0;
+    line-height: 1.15;
+}
+
 h1 {
     font-size: $fs1;
 }
@@ -103,36 +110,21 @@ h3 {
     font-size: $fs3;
 }
 
-h4 {
-    font-size: $fs4;
-}
-
-h5 {
-    font-size: $fs5;
-}
-
-h6 {
-    font-size: $fs6;
-}
-
-h1, h2, h3, h4, h5, h6 {
-    margin: 1rem 0;
-    line-height: 1.15;
-}
-
 .page-content h2 {
-    color: var(--link-color);
-    margin-top: 3.9rem;
+    margin-top: 4rem;
 }
 
 .page-content h3 {
     font-size: $fs4;
-    margin-top: 3.4rem;
+    margin-top: 3.6rem;
+    color: var(--grey-6);
 }
 
 .page-content h2 + h3 {
-    margin-top: 1.9rem;
+    margin-top: 0;
 }
+
+/************ Links *************/
 
 a {
     color: var(--main-text-color);
@@ -164,7 +156,7 @@ hr {
     background-color: var(--grey-6);
     height: 4px;
     width: 6em;
-    margin: 3rem auto;
+    margin: 3rem 0;
     border: none;
 }
 
@@ -180,10 +172,6 @@ hr {
 
 a::selection {
     text-shadow: none;
-}
-
-p.description {
-    margin-bottom: 3rem;
 }
 
 blockquote p{
@@ -577,31 +565,17 @@ input {
   
   .search-item {
       margin-bottom: 4rem;
-      .search-item-title {
-          font-size: $fs2;
-          margin-bottom: 0.2rem;
+      h2 {
+          margin-bottom: 0.5rem;
       }
-  }
-  
-  .search-results a{
-      margin: 1em 0 0 0;
-      line-height: 1.1;
-      font-weight: 700;
-      background: none !important;
-  }
-  
-  .search-results p{
-      color: var(--main-text-color);
-      font-size: $fs7;
-  }
-  
-  .search-results .search-info {
-      h6 {
-          display: inline-block;
-          margin: 0 0 0.5rem 0;
-          color: var(--grey-5);
-          font-size: $fs9;
-          font-weight: 400;
+      p {
+        font-size: $fs7;
+      }
+      span {
+        display: block;
+        margin: 0 0 1em 0;
+        color: var(--grey-5);
+        font-size: $fs9;
       }
   }
 

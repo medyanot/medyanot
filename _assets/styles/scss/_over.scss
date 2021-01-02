@@ -91,6 +91,11 @@ p, .page-content ol, .page-content ul {
     margin-bottom: 1.55em;
 }
 
+h1, h2, h3 {
+    margin: 1rem 0;
+    line-height: 1.15;
+}
+
 h1 {
     font-size: $fs1;
 }
@@ -103,36 +108,21 @@ h3 {
     font-size: $fs3;
 }
 
-h4 {
-    font-size: $fs4;
-}
-
-h5 {
-    font-size: $fs5;
-}
-
-h6 {
-    font-size: $fs6;
-}
-
-h1, h2, h3, h4, h5, h6 {
-    margin: 1rem 0;
-    line-height: 1.15;
-}
-
 .page-content h2 {
-    color: var(--link-color);
-    margin-top: 3.9rem;
+    margin-top: 4rem;
 }
 
 .page-content h3 {
     font-size: $fs4;
-    margin-top: 3.4rem;
+    margin-top: 3.6rem;
+    color: var(--grey-6);
 }
 
 .page-content h2 + h3 {
-    margin-top: 1.9rem;
+    margin-top: 0;
 }
+
+/************ Links *************/
 
 a {
     color: var(--main-text-color);
@@ -143,18 +133,6 @@ p, .page-content ul li {
         display: inline;
         box-shadow: inset 0 -2px var(--link-color);
     }
-}
-
-hr {
-    background-color: var(--grey-6);
-    height: 4px;
-    width: 6em;
-    margin: 3rem auto;
-    border: none;
-}
-
-p.description {
-    margin-bottom: 3rem;
 }
 
 /* Lists
