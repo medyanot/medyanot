@@ -13,7 +13,12 @@
             <div class="page-content">
             {{ content }}
             </div>
-            {%- include tagging.html -%}
+                {%- if page.collection == "posts" -%}
+                <div class = "page-bottom">
+                {%- include tagging.html -%}
+                {%- include share-buttons.html -%}
+                </div>
+                {%- endif -%}
             {%- include page-navigation.html -%}
         </div>  
     </article>

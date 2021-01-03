@@ -80,11 +80,7 @@ body {
     @include fluid-type($min_width, $max_width, $min_font, $max_font);
 }
 
-input {
-    color: var(--main-text-color);
-}
-
-h1, h2, h3, input, .archive-date, .blocklink, .tag-links, figcaption, .site-header, .tag-cloud, .search-item span, .subs-form, .archive-post, .pagination, .notice {
+h1, h2, h3, input, .archive-date, .blocklink, .tag-links, figcaption, .site-header, .tag-cloud, .search-item span, .subs-form, .pagination, .notice {
     font-family: $sans;
 }
 
@@ -125,6 +121,20 @@ h3 {
 
 .page-content h2 + h3 {
     margin-top: 1.5rem;
+}
+
+.tag-title {
+    margin-bottom: 4.64rem;
+    span{
+        color: var(--link-color);
+    }  
+}
+
+input {
+    color: var(--main-text-color);
+    background: none;
+    border: none;
+    outline: none;
 }
 
 /************ Links *************/
@@ -196,7 +206,7 @@ blockquote p{
         color: var(--grey-6);
         box-shadow: none;
         padding: 8px 12px;
-        border-radius: 5px;
+        border-radius: 3px;
         border: 1px solid var(--grey-2);
         transition: .2s all ease-in;
     }    
@@ -254,30 +264,6 @@ ul {
     }
 }
 }
-/* Dates
-========================================================================== */
-
-.archive-date {
-    padding-top: 0.5rem;
-    border-top: 1px solid var(--grey-1);
-    font-size: $fs5;
-    color: var(--grey-5);
-    position: relative;
-    display: block;
-    left: -12em;
-    width: 8em;
-    top: 2em;
-    margin-top: -1em;
-    text-align: right;
-    @media only screen and (max-width: 1024px) {
-        left: 0;
-        top: 0;
-        margin-top: -0.5em;
-        margin-bottom: 1em;
-        border-top: none;
-        text-align: left;
-    }
-}
 
 /* Images
 ========================================================================== */
@@ -334,12 +320,6 @@ figcaption {
 	transition: opacity 1500ms; 
 }
 
-input {
-    background: none;
-    border: none;
-    outline: none;
-}
-
 /* Layout
 ========================================================================== */
 
@@ -355,18 +335,47 @@ input {
         margin-right: auto;
         .post-list {
             .archive-post {
-                margin-bottom: 4rem;
-                h2, p, h1 {
-                    margin-bottom: 0.5rem;
-                }
-                p {
-                    font-size: $fs4;
-                }
-                h1 {
-                    font-size: $fs2;
+                margin-bottom: 4.64rem;
+                h1, h2 {
+                    font-size: $fsa1;
+                    margin-bottom: -.5rem;
                 }
             }
         }
+    }
+}
+
+.post-header h1 {
+    margin-bottom: .5rem;
+}
+
+@media only screen and (max-width: 1024px) {
+.post-header {
+    margin-bottom: 2rem;
+    h1 {
+        margin-bottom: -.5rem;
+    }
+}}
+
+
+/************ Dates *************/
+
+.archive-date {
+    padding-top: 0.5rem;
+    border-top: 1px solid var(--grey-1);
+    font-size: $fs5;
+    color: var(--grey-5);
+    position: relative;
+    display: block;
+    left: -12em;
+    width: 8em;
+    top: 2rem;
+    @media only screen and (max-width: 1024px) {
+        left: 0;
+        top: 0;
+        border-top: none;
+        margin-bottom: 1rem;
+        padding-top: 1rem;
     }
 }
 
@@ -467,6 +476,7 @@ input {
     .nav-link {
         .page-nav-header {
             font-size: $fs4;
+            color: var(--grey-6);
             margin-bottom: .8rem;
             margin-top: 1.6rem;
         }
@@ -484,7 +494,7 @@ input {
 ========================================================================== */
 
 .pagination {
-    margin: 0 auto 1.5em;
+    margin: 0 auto 3rem;
     max-width: 88vw;
     display: flex;
     flex-flow: row nowrap;
@@ -611,42 +621,63 @@ input {
 /* Page Bottom & Tags
 ========================================================================= */
 
-.page-content {
-    border-bottom: 1px solid var(--grey-1);
-}
-
-.tag-section {
-    margin: 2rem 0;
-    .page-tags {
-        margin: 1em 0 !important;
+.page-bottom {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 1px solid var(--grey-1);
+    .share-icons{
+        padding-top: 2rem;
         display: flex;
-        flex-flow: row wrap;
-        .tag-links {
-            list-style: none;
+        flex-flow: row nowrap;
+        a {
+            margin-left: .5em;
             display: flex;
-            margin-right: 0.5em;
-            font-size: $fs5;
-            a {
-                background-color: var(--grey-a1);
-                padding: 0.4em 0.8em;
-                border-radius: 3px;
-                border: 1px solid var(--grey-2);
-                transition: .2s all ease-in;
-                &:hover {
-                    color: var(--main-text-color);
-                    background-color: var(--grey-1);
+            align-items: center;
+            svg {
+                height: 34px;
+                width: 34px;
+                fill: var(--grey-2);
+                transition: fill .2s;
+            }
+        }
+        a:first-of-type {
+            margin-left: -2px;
+        }
+        @media (hover) {
+            a:hover {
+                svg {
+                    fill: var(--grey-3);
                 }
             }
         }
     }
-}
-
-.tag-title {
-    margin-bottom: 3rem;
-    padding-bottom: 0.5rem;
-    span{
-        color: var(--link-color);
-    }  
+    .tag-section {
+        padding-top: 2rem;
+        .page-tags {
+            .tag-links {
+                margin-right: .5em;
+                display: inline-block;
+                .link-box {
+                    padding: 6px 8px;
+                    font-size: 13px;
+                    line-height: 3;
+                    color: var(--grey-6);
+                    background-color: var(--grey-a1);
+                    border: 1px solid var(--grey-2);
+                    border-radius: 3px;
+                    transition: all .2s;
+                }
+                @media (hover) {
+                    a:hover {
+                        color: var(--main-text-color);
+                        background-color: var(--grey-1);
+                    }
+                }
+            }
+        }
+    }
 }
 
 /************ Notice *************/
