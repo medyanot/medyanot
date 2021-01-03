@@ -1,5 +1,5 @@
 
-@font-face{font-family:"serifs";font-display:swap;src:url("/fonts/serif.woff2") format("woff2"), url("/fonts/serif.woff") format("woff");font-style:normal;font-weight:400}
-@font-face{font-family:"serifs";font-display:swap;src:url("/fonts/serif-italic.woff2") format("woff2"), url("/fonts/serif-italic.woff") format("woff");font-style:italic;font-weight:400}
-@font-face{font-family:"sans";font-display:swap;src:url("/fonts/sans-regular.woff2") format("woff2"), url("/fonts/sans-regular.woff") format("woff");font-style:normal;font-weight:400}
-@font-face{font-family:"sans";font-display:swap;src:url("/fonts/sans-bold.woff2") format("woff2"), url("/fonts/sans-bold.woff") format("woff");font-style:normal;font-weight:700}
+@font-face{font-family:"serifs";font-display:swap;src:url("/fonts/serif-font-regular.woff2") format("woff2"), url("/fonts/serif-font-regular-.woff") format("woff");font-style:normal;font-weight:400}
+@font-face{font-family:"serifs";font-display:swap;src:url("/fonts/serif-font-italic.woff2") format("woff2"), url("/fonts/serif-font-italic.woff") format("woff");font-style:italic;font-weight:400}
+@font-face{font-family:"sans";font-display:swap;src:url("/fonts/sans-font-regular.woff2") format("woff2"), url("/fonts/sans-font-regular.woff") format("woff");font-style:normal;font-weight:400}
+@font-face{font-family:"sans";font-display:swap;src:url("/fonts/sans-font-bold.woff2") format("woff2"), url("/fonts/sans-font-bold.woff") format("woff");font-style:normal;font-weight:700}
