@@ -188,14 +188,14 @@ blockquote p{
 /************ Blocklink *************/
 
 .blocklink {
-    margin-bottom: 3em;
-    font-size: $fs4;
+    margin-bottom: 4rem;
+    font-size: 14px;
     font-weight: 700;
     a {
         background-color: var(--grey-a1);
         color: var(--grey-6);
         box-shadow: none;
-        padding: 0.4em 0.8em;
+        padding: 8px 12px;
         border-radius: 5px;
         border: 1px solid var(--grey-2);
         transition: .2s all ease-in;
