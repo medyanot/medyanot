@@ -146,7 +146,7 @@ gulp.task('build:images:inline', function(done) {
 });
 
 gulp.task('build:images:placeholder', function(done) {
-    return gulp.src(paths.imageFiles + paths.imagePattern)
+    return gulp.src(paths.imageFiles + "/placeholder.jpg")
     .pipe(gulpCached('build:images:placeholder'))
         .pipe(responsive({
       // resize all images

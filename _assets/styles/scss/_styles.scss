@@ -8,6 +8,7 @@ html, html[data-theme="light"] {
     --grey-3: #9c9ea0;
     --grey-2: #b8babc;
     --grey-1: #d5d7d9;
+    --grey-a1: #E4E6E8;
     --black-color: #2A2C2E;
     --img-filter: none;
 }
@@ -22,6 +23,7 @@ html[data-theme="dark"] {
   --grey-3: #66686a;
   --grey-2: #4d4f51;
   --grey-1: #353739;
+  --grey-a1: #2A2C2E;
   --black-color: #131416;
   --img-filter: brightness(.8) contrast(1.2);
 }
@@ -37,6 +39,7 @@ html[data-theme="dark"] {
         --grey-3: #66686a;
         --grey-2: #4d4f51;
         --grey-1: #353739;
+        --grey-a1: #2A2C2E;
         --black-color: #131416;
         --img-filter: brightness(.8) contrast(1.2);
     }
@@ -51,6 +54,7 @@ html[data-theme="dark"] {
         --grey-3: #9c9ea0;
         --grey-2: #b8babc;
         --grey-1: #d5d7d9;
+        --grey-a1: #E4E6E8;
         --black-color: #2A2C2E;
         --img-filter: none;
   } 
@@ -63,6 +67,7 @@ html {
 body {
     color: var(--main-text-color);
     background-color: var(--main-background-color);
+    font-family: $serif;
     -webkit-font-smoothing: antialiased;
     font-kerning: normal;
     font-variant-ligatures: common-ligatures contextual;
@@ -79,11 +84,7 @@ input {
     color: var(--main-text-color);
 }
 
-body {
-    font-family: $serif;
-}
-
-h1, h2, h3, input, .archive-date, .blocklink, .tag-links, figcaption, .site-header, .tag-cloud, .search-item span, .subs-form {
+h1, h2, h3, input, .archive-date, .blocklink, .tag-links, figcaption, .site-header, .tag-cloud, .search-item span, .subs-form, .archive-post, .pagination, .notice {
     font-family: $sans;
 }
 
@@ -111,7 +112,7 @@ h2 {
 }
 
 h3 {
-    font-size: $fs3;
+    font-size: $fsp;
 }
 
 .page-content h2 {
@@ -119,13 +120,11 @@ h3 {
 }
 
 .page-content h3 {
-    font-size: $fs4;
-    margin-top: 3.6rem;
-    color: var(--grey-6);
+    margin-top: 3.4rem;
 }
 
 .page-content h2 + h3 {
-    margin-top: 0;
+    margin-top: 1.5rem;
 }
 
 /************ Links *************/
@@ -190,15 +189,15 @@ blockquote p{
 
 .blocklink {
     margin-bottom: 3em;
-    font-size: $fs8;
+    font-size: $fs4;
     font-weight: 700;
     a {
-        background-color: var(--grey-1);
+        background-color: var(--grey-a1);
         color: var(--grey-6);
         box-shadow: none;
         padding: 0.4em 0.8em;
-        border-radius: 3px;
-        border: 1px solid var(--grey-3);
+        border-radius: 5px;
+        border: 1px solid var(--grey-2);
         transition: .2s all ease-in;
     }    
 }
@@ -206,7 +205,7 @@ blockquote p{
 @media (hover) {
     .blocklink a:hover {
         color: var(--main-text-color);
-        background-color: var(--grey-2);
+        background-color: var(--grey-1);
     }
 }
 
@@ -259,10 +258,10 @@ ul {
 ========================================================================== */
 
 .archive-date {
-    padding-top: 0.4rem;
+    padding-top: 0.5rem;
     border-top: 1px solid var(--grey-1);
-    font-size: $fs10;
-    color: var(--grey-6);
+    font-size: $fs5;
+    color: var(--grey-5);
     position: relative;
     display: block;
     left: -12em;
@@ -295,7 +294,7 @@ figure {
 }
 
 figcaption {
-    font-size: $fs9;
+    font-size: $fs5;
     color: var(--grey-6);
     line-height: 1.35;
     margin: 0.35em auto -0.5em;
@@ -361,7 +360,7 @@ input {
                     margin-bottom: 0.5rem;
                 }
                 p {
-                    font-size: $fs7;
+                    font-size: $fs4;
                 }
                 h1 {
                     font-size: $fs2;
@@ -412,12 +411,9 @@ input {
                     flex-flow: row nowrap;
                     justify-content: space-between;
                     li {
-                        font-size: $fs8;
+                        font-size: $fs4;
                         @media only screen and (max-width: 1024px) {
-                            font-size: $fs9;
-                        }
-                        @media only screen and (max-width: 640px) {
-                            font-size: $fs10;
+                            font-size: $fs5;
                         }
                         a {
                             text-transform: uppercase;
@@ -470,7 +466,7 @@ input {
     border-top: 1px solid var(--grey-1);
     .nav-link {
         .page-nav-header {
-            font-size: $fs7;
+            font-size: $fs4;
             margin-bottom: .8rem;
             margin-top: 1.6rem;
         }
@@ -547,7 +543,7 @@ input {
     border-radius: 0;
     margin: 2em 0 1em;
     border: 2px solid var(--grey-5);
-    background-color: var(--grey-1);
+    background-color: var(--grey-a1);
     border-radius: 20em;
     padding: 1rem 1.5rem;
     text-decoration: none;
@@ -572,13 +568,13 @@ input {
           margin-bottom: 0.5rem;
       }
       p {
-        font-size: $fs7;
+        font-size: $fs4;
       }
       span {
         display: block;
-        margin: 0 0 1em 0;
+        margin: 0.5rem 0 1em;
         color: var(--grey-5);
-        font-size: $fs9;
+        font-size: $fs5;
       }
   }
 
@@ -587,6 +583,9 @@ input {
 
 .tag-area {
     margin: 2em 0 4em;
+    h3 {
+        border-bottom: 1px solid var(--grey-6);
+    }
     .tag-cloud {
         display: grid;
         grid-template-columns: repeat(auto-fill, minmax(6em, 1fr));
@@ -602,7 +601,7 @@ input {
                 flex-flow: row nowrap;
                 justify-content: space-between;
                 text-transform: uppercase;
-                font-size: $fs9;
+                font-size: $fs5;
                 white-space: nowrap;
             }
         }
@@ -626,16 +625,16 @@ input {
             list-style: none;
             display: flex;
             margin-right: 0.5em;
-            font-size: $fs9;
+            font-size: $fs5;
             a {
-                background-color: var(--grey-1);
+                background-color: var(--grey-a1);
                 padding: 0.4em 0.8em;
                 border-radius: 3px;
-                border: 1px solid var(--grey-3);
+                border: 1px solid var(--grey-2);
                 transition: .2s all ease-in;
                 &:hover {
                     color: var(--main-text-color);
-                    background-color: var(--grey-2);
+                    background-color: var(--grey-1);
                 }
             }
         }
@@ -669,7 +668,7 @@ input {
         color: var(--main-text-color);
     }
     p {
-        font-size: $fs7;
+        font-size: $fs4;
     }
 }
 
@@ -691,12 +690,12 @@ input {
     padding: 1em;
     overflow: hidden;
     text-align: center;
-    background-color: rgba(102,104,106,0.1);
+    background-color: var(--grey-a1);
     border-top: 4px solid var(--grey-4);
 }
 
 .subs-header {
-    font-size: $fs6;
+    font-size: $fsp;
     letter-spacing: 0.05em;
     text-transform: uppercase;
     margin: 0;
@@ -704,7 +703,7 @@ input {
 
 .subs-text {
     line-height: 1.4;
-    font-size: $fs7;
+    font-size: $fs4;
     margin-bottom: 1.5em;
     margin-top: 1rem;
     color: var(--grey-6);
@@ -729,7 +728,7 @@ input {
 
 label {
     display:block;
-    font-size: $fs7;
+    font-size: $fs4;
     text-align: left;
     padding-bottom: 0.4rem;
     font-weight: 700;
@@ -774,11 +773,12 @@ label {
 }
 
 .error-message {
-    font-size: $fs7;
+    font-size: $fs4;
     line-height: 1.1;
     margin: -0.8em 0 1em;
     display: none;
     text-align: left;
+    color: var(--grey-6);
 }
 
 .error-message:before {
@@ -789,7 +789,7 @@ label {
 }
 
 .success-message {
-  font-size: $fs7;
+  font-size: $fs4;
   margin: 1em auto;
   text-align: left;
   line-height: 1.4;
