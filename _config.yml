@@ -20,6 +20,9 @@ tools:
 # Open Graph customization
 opengraph:
   locale:  "tr_TR"
+
+twitter:
+  name: "@Medyanot1"
   
   # Site settings
 lang: tr

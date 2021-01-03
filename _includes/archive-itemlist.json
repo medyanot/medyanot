@@ -7,7 +7,8 @@
     "@type": "Organization",
     "name": "{{ site.title }}",
     "sameAs": [
-      "{{ site.url }}"
+      "{{ site.url }}",
+      "https://twitter.com/Medyanot1"
     ],
     "logo":{
       "@type":"ImageObject",

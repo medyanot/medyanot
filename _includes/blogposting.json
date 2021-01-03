@@ -3,14 +3,15 @@
     "image": {
         "@type": "ImageObject",
         "url": "{{ site.url }}/assets/img/placeholder.jpg",
-        "width":"1280",
-        "height":"720"
+        "width":"1200",
+        "height":"628"
     },
     "publisher": {
         "@type": "Organization",
         "name": "{{ site.title }}",
         "sameAs": [
-            "{{ site.url }}"
+            "{{ site.url }}",
+            "https://twitter.com/Medyanot1"
         ],
         "logo":{
           "@type":"ImageObject",
