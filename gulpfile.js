@@ -102,9 +102,9 @@ gulp.task('clean:styles', function(done) {
 
 // Concatenates and uglifies global JS files and outputs result to the
 // appropriate location.
-gulp.task('build:scripts', function(done) {
+gulp.task('build:scripts:main', function(done) {
     return gulp.src([
-        paths.jsFiles + '/lazysizes.js', paths.jsFiles + '/lazy-unveil.js', paths.jsFiles + '/subscription.js', paths.jsFiles + '/search.js'
+        paths.jsFiles + '/lazysizes.js', paths.jsFiles + '/lazy-unveil.js', paths.jsFiles + '/subscription.js'
     ])
         .pipe(concat('main.js'))
         .pipe(uglify())
@@ -115,8 +115,22 @@ gulp.task('build:scripts', function(done) {
     done();
 });
 
+gulp.task('build:scripts:search', function(done) {
+  return gulp.src([
+      paths.jsFiles + '/search.js'
+  ])
+      .pipe(concat('search.js'))
+      .pipe(uglify())
+      .pipe(gulp.dest(paths.jekyllJsFiles))
+      .pipe(gulp.dest(paths.siteJsFiles))
+      .on('error', gutil.log);
+  done();
+});
+
+gulp.task('build:scripts', gulp.series('build:scripts:main', 'build:scripts:search'));
+
 gulp.task('clean:scripts', function(done) {
-    del([paths.jekyllJsFiles + 'main.js', paths.siteJsFiles + 'main.js']);
+    del([paths.jekyllJsFiles, paths.siteJsFiles]);
     done();
 });
 

@@ -91,7 +91,7 @@ p, .page-content ol, .page-content ul {
 /************ Titles *************/
 
 h1, h2, h3 {
-    margin: 1rem 0;
+    margin-bottom: 1rem;
     line-height: 1.15;
 }
 
@@ -120,14 +120,14 @@ h3 {
 }
 
 .tag-title {
-    margin-bottom: 4.64rem;
+    margin-bottom: 3rem;
+    font-size: $fsp;
     span{
         color: var(--link-color);
     }  
 }
 
 input {
-    color: var(--main-text-color);
     background: none;
     border: none;
     outline: none;
@@ -216,12 +216,10 @@ figure {
     .text-area {
         display: block;
         max-width: 32em;
-        padding-bottom: 2em;
-        margin-left: auto;
-        margin-right: auto;
+        margin: 3em auto;
         .post-list {
             .archive-post {
-                margin-bottom: 4.64rem;
+                margin-bottom: 3rem;
                 h1, h2 {
                     font-size: $fsa1;
                     margin-bottom: -.5rem;
@@ -243,14 +241,14 @@ figure {
     }
 }}
 
-
 /************ Dates *************/
 
 .archive-date {
     padding-top: 0.5rem;
     border-top: 1px solid var(--grey-1);
     font-size: $fs5;
-    color: var(--grey-5);
+    font-weight: 700;
+    color: var(--grey-4);
     position: relative;
     display: block;
     left: -12em;
@@ -270,20 +268,18 @@ figure {
 
 .site-header {
     .header-wrap {
-        max-width: 32em;
-        margin: 2em auto;
-        border-bottom: 1px solid var(--grey-1);
-        display: grid;
+        padding: .5em 1em;
+        border-bottom: 1px solid;
+        display: flex;
+        flex-flow: row wrap;
+        align-items: center;
         .site-logo {
-            margin: 0 auto 1em;
-            .mn-logo {
-                height: auto;
-                width: 12em;
-                @media only screen and (max-width: 1024px) {
-                    width: 9em;
-                }
-                @media only screen and (max-width: 640px) {
-                    width: 6em;
+            a {
+                display: flex;
+                align-items: center;
+                svg {
+                    height: auto;
+                    width: 3.5em;
                 }
                 #logo-m, #logo-n {
                     fill: var(--main-text-color);
@@ -293,52 +289,85 @@ figure {
                 }
             }
         }
-        .nav-tog {
-            width: 100%;
-            padding: 1em 1em .5em;
-            display: flex;
-            flex-flow: row nowrap;
-            align-items: center;
-            nav {
-                width: 100%;
-                ul {
-                    display: flex;
-                    flex-flow: row nowrap;
-                    justify-content: space-between;
-                    li {
-                        font-size: $fs4;
-                        @media only screen and (max-width: 1024px) {
-                            font-size: $fs5;
+        nav {
+            margin-left: auto;
+            flex-shrink: 1;
+            ul {
+                display: flex;
+                flex-flow: row nowrap;
+                align-items: center;
+                li {
+                    margin-left: 5vw;
+                    a {
+                        font-size: $fs5;
+                        font-weight: 700;
+                        vertical-align: middle;
+                        text-transform: uppercase;
+                        @media only screen and (max-width: 320px) {
+                            font-size: .65em;
                         }
-                        a {
-                            text-transform: uppercase;
-                            font-weight: 700;
-                            letter-spacing: 0.04em;
-                            padding: .5rem;
+                        .light-sun {
+                            height: auto;
+                            width: 2em;
+                            fill: var(--main-text-color);
+                            transition: .2s fill ease-in;
                         }
                     }
                 }
             }
-            #theme-toggle {
-                border: none;
-                background: none;
-                margin-left: 1.5em;
-                .light-sun {
-                    height: 1.3em;
-                    width: 1.3em;
-                    fill: var(--main-text-color);
+        }
+    }
+ }
+
+ @media only screen and (min-width: 680px) {
+    .site-header {
+        padding-top: 1em;
+        .header-wrap {
+            max-width: 32em;
+            margin: 0 auto;
+            flex-flow: column nowrap;
+            .site-logo {
+                a {
+                    svg {
+                        width: 8em;
+                        margin: 0 0 1.5em;
+                    }
+                }
+            }
+            nav {
+                width: 100%;
+                margin-left: 0;
+                ul {
+                    justify-content: space-between;
+                    li {
+                        margin-left: 0;
+                    }
                 }
             }
         }
     }
 }
 
-@media only screen and (max-width: 640px) {
+@media only screen and (min-width: 1024px) {
     .site-header {
         .header-wrap {
-            margin: 1.5em auto;
             .site-logo {
-                margin-bottom: .5em;
+                a {
+                    svg {
+                        width: 12em;
+                        margin: 0.5em 0 2em;
+                    }
+                }
+            }
+            nav {
+                ul {
+                    li a {
+                        font-size: $fs4;
+                        .light-sun {
+                            width: 1.5em;
+                        }
+                    }
+                }
             }
         }
     }
@@ -358,6 +387,7 @@ figure {
     border-radius: 20em;
     padding: 1rem 1.5rem;
     text-decoration: none;
+    transition: border-color 0.2s;
   }
   
   #searchform input::placeholder {
