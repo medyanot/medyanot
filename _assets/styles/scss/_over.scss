@@ -100,23 +100,23 @@ h1 {
 }
 
 h2 {
-    font-size: $fs2;
+    font-size: $fsa1;
 }
 
 h3 {
-    font-size: $fsp;
+    font-size: $fs3;
 }
 
 .page-content h2 {
-    margin-top: 4rem;
+    margin-top: 3.65rem;
 }
 
 .page-content h3 {
-    margin-top: 3.4rem;
+    margin-top: 3.25rem;
 }
 
 .page-content h2 + h3 {
-    margin-top: 1.5rem;
+    margin-top: 1.34rem;
 }
 
 .tag-title {
@@ -223,6 +223,9 @@ figure {
                 h1, h2 {
                     font-size: $fsa1;
                     margin-bottom: -.5rem;
+                }
+                p {
+                    font-size: $fs4;
                 }
             }
         }
