@@ -204,7 +204,7 @@ blockquote p{
 
 .blocklink {
     margin-bottom: 4rem;
-    font-size: 14px;
+    font-size: 15px;
     font-weight: 700;
     a {
         background-color: var(--grey-a1);
@@ -285,9 +285,9 @@ figure {
 }
 
 figcaption {
-    font-size: $fs5;
+    font-size: $fs4;
     color: var(--grey-6);
-    line-height: 1.35;
+    line-height: 1.25;
     margin: 0.35em auto -0.5em;
     max-width: 100%;
     padding-bottom: 0.25em;
@@ -422,12 +422,12 @@ figcaption {
                 li {
                     margin-left: 5vw;
                     a {
-                        font-size: $fs5;
+                        font-size: $fs4;
                         font-weight: 700;
                         vertical-align: middle;
                         text-transform: uppercase;
-                        @media only screen and (max-width: 320px) {
-                            font-size: .65em;
+                        @media only screen and (max-width: 355px) {
+                            font-size: $fs5;
                         }
                         .light-sun {
                             height: auto;
@@ -492,7 +492,6 @@ figcaption {
             nav {
                 ul {
                     li a {
-                        font-size: $fs4;
                         .light-sun {
                             width: 1.5em;
                         }
@@ -701,7 +700,7 @@ figcaption {
                 display: inline-block;
                 .link-box {
                     padding: 6px 8px;
-                    font-size: 13px;
+                    font-size: 14px;
                     line-height: 3;
                     color: var(--grey-6);
                     background-color: var(--grey-a1);
@@ -738,9 +737,6 @@ figcaption {
         margin: .9rem 0 1rem;
         color: var(--main-text-color);
     }
-    p {
-        font-size: $fs4;
-    }
 }
 
 .notice::before {
@@ -766,7 +762,6 @@ figcaption {
 }
 
 .subs-header {
-    font-size: $fsp;
     letter-spacing: 0.05em;
     text-transform: uppercase;
     margin: 0;
@@ -774,7 +769,6 @@ figcaption {
 
 .subs-text {
     line-height: 1.4;
-    font-size: $fs4;
     margin-bottom: 1.5em;
     margin-top: 1rem;
     color: var(--grey-6);
@@ -819,7 +813,7 @@ label {
     border: 1px solid var(--grey-3);
     color: var(--main-background-color);
     font-size: $fsp;
-    padding: 0.6em 1em;
+    padding: 0.7em 1em;
     width: 100%;
     transition: all 0.25s ease-out;
     font-weight: 700;

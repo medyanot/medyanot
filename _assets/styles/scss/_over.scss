@@ -302,18 +302,17 @@ figure {
                 li {
                     margin-left: 5vw;
                     a {
-                        font-size: $fs5;
+                        font-size: $fs4;
                         font-weight: 700;
                         vertical-align: middle;
                         text-transform: uppercase;
-                        @media only screen and (max-width: 320px) {
-                            font-size: .65em;
+                        @media only screen and (max-width: 355px) {
+                            font-size: $fs5;
                         }
                         .light-sun {
                             height: auto;
                             width: 2em;
                             fill: var(--main-text-color);
-                            transition: .2s fill ease-in;
                         }
                     }
                 }
@@ -365,7 +364,6 @@ figure {
             nav {
                 ul {
                     li a {
-                        font-size: $fs4;
                         .light-sun {
                             width: 1.5em;
                         }
@@ -390,7 +388,6 @@ figure {
     border-radius: 20em;
     padding: 1rem 1.5rem;
     text-decoration: none;
-    transition: border-color 0.2s;
   }
   
   #searchform input::placeholder {
