@@ -108,15 +108,17 @@ h3 {
 }
 
 .page-content h2 {
-    margin-top: 3.65rem;
+    margin-top: 3.9rem;
+    font-size: $fs2;
 }
 
 .page-content h3 {
-    margin-top: 3.25rem;
+    margin-top: 3.45rem;
+    font-size: $fsp;
 }
 
 .page-content h2 + h3 {
-    margin-top: 1.34rem;
+    margin-top: 1.58rem;
 }
 
 .tag-title {
@@ -219,7 +221,7 @@ figure {
         margin: 3em auto;
         .post-list {
             .archive-post {
-                margin-bottom: 3rem;
+                margin-bottom: 3.4rem;
                 h1, h2 {
                     font-size: $fsa1;
                     margin-bottom: -.5rem;
@@ -283,6 +285,14 @@ figure {
                 svg {
                     height: auto;
                     width: 3.5em;
+                    @media only screen and (min-width: 680px) {
+                        width: 8em;
+                        margin: 0 0 1.5em;
+                    }
+                    @media only screen and (min-width: 1024px) {
+                        width: 12em;
+                        margin: 0.5em 0 2em;
+                    }
                 }
                 #logo-m, #logo-n {
                     fill: var(--main-text-color);
@@ -302,16 +312,21 @@ figure {
                 li {
                     margin-left: 5vw;
                     a {
-                        font-size: .84em;
+                        font-size: $fs4;
                         font-weight: 700;
+                        line-height: 1;
                         vertical-align: middle;
                         text-transform: uppercase;
-                        @media only screen and (max-width: 355px) {
+                        @media only screen and (max-width: 480px) {
                             font-size: $fs5;
+                        }
+                        @media only screen and 
+                        (max-width: 320px) {
+                            font-size: $fs6;
                         }
                         .light-sun {
                             height: auto;
-                            width: 2em;
+                            width: 1.5em;
                             fill: var(--main-text-color);
                         }
                     }
@@ -328,14 +343,6 @@ figure {
             max-width: 32em;
             margin: 0 auto;
             flex-flow: column nowrap;
-            .site-logo {
-                a {
-                    svg {
-                        width: 8em;
-                        margin: 0 0 1.5em;
-                    }
-                }
-            }
             nav {
                 width: 100%;
                 margin-left: 0;
@@ -343,30 +350,6 @@ figure {
                     justify-content: space-between;
                     li {
                         margin-left: 0;
-                    }
-                }
-            }
-        }
-    }
-}
-
-@media only screen and (min-width: 1024px) {
-    .site-header {
-        .header-wrap {
-            .site-logo {
-                a {
-                    svg {
-                        width: 12em;
-                        margin: 0.5em 0 2em;
-                    }
-                }
-            }
-            nav {
-                ul {
-                    li a {
-                        .light-sun {
-                            width: 1.5em;
-                        }
                     }
                 }
             }

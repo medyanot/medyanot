@@ -116,15 +116,17 @@ h3 {
 }
 
 .page-content h2 {
-    margin-top: 3.65rem;
+    margin-top: 3.9rem;
+    font-size: $fs2;
 }
 
 .page-content h3 {
-    margin-top: 3.25rem;
+    margin-top: 3.45rem;
+    font-size: $fsp;
 }
 
 .page-content h2 + h3 {
-    margin-top: 1.34rem;
+    margin-top: 1.58rem;
 }
 
 .tag-title {
@@ -204,7 +206,7 @@ blockquote p{
 
 .blocklink {
     margin-bottom: 4rem;
-    font-size: 15px;
+    font-size: 14px;
     font-weight: 700;
     a {
         background-color: var(--grey-a1);
@@ -286,7 +288,7 @@ figure {
 }
 
 figcaption {
-    font-size: $fs4;
+    font-size: $fs5;
     color: var(--grey-6);
     line-height: 1.25;
     margin: 0.35em auto -0.5em;
@@ -339,7 +341,7 @@ figcaption {
         margin: 3em auto;
         .post-list {
             .archive-post {
-                margin-bottom: 3rem;
+                margin-bottom: 3.4rem;
                 h1, h2 {
                     font-size: $fsa1;
                     margin-bottom: -.5rem;
@@ -404,6 +406,14 @@ figcaption {
                 svg {
                     height: auto;
                     width: 3.5em;
+                    @media only screen and (min-width: 680px) {
+                        width: 8em;
+                        margin: 0 0 1.5em;
+                    }
+                    @media only screen and (min-width: 1024px) {
+                        width: 12em;
+                        margin: 0.5em 0 2em;
+                    }
                 }
                 #logo-m, #logo-n {
                     fill: var(--main-text-color);
@@ -423,16 +433,21 @@ figcaption {
                 li {
                     margin-left: 5vw;
                     a {
-                        font-size: .84em;
+                        font-size: $fs4;
                         font-weight: 700;
+                        line-height: 1;
                         vertical-align: middle;
                         text-transform: uppercase;
-                        @media only screen and (max-width: 355px) {
+                        @media only screen and (max-width: 480px) {
                             font-size: $fs5;
+                        }
+                        @media only screen and 
+                        (max-width: 320px) {
+                            font-size: $fs6;
                         }
                         .light-sun {
                             height: auto;
-                            width: 2em;
+                            width: 1.5em;
                             fill: var(--main-text-color);
                             transition: .2s fill ease-in;
                         }
@@ -457,14 +472,6 @@ figcaption {
             max-width: 32em;
             margin: 0 auto;
             flex-flow: column nowrap;
-            .site-logo {
-                a {
-                    svg {
-                        width: 8em;
-                        margin: 0 0 1.5em;
-                    }
-                }
-            }
             nav {
                 width: 100%;
                 margin-left: 0;
@@ -472,30 +479,6 @@ figcaption {
                     justify-content: space-between;
                     li {
                         margin-left: 0;
-                    }
-                }
-            }
-        }
-    }
-}
-
-@media only screen and (min-width: 1024px) {
-    .site-header {
-        .header-wrap {
-            .site-logo {
-                a {
-                    svg {
-                        width: 12em;
-                        margin: 0.5em 0 2em;
-                    }
-                }
-            }
-            nav {
-                ul {
-                    li a {
-                        .light-sun {
-                            width: 1.5em;
-                        }
                     }
                 }
             }
@@ -701,7 +684,7 @@ figcaption {
                 display: inline-block;
                 .link-box {
                     padding: 6px 8px;
-                    font-size: 14px;
+                    font-size: 13px;
                     line-height: 3;
                     color: var(--grey-6);
                     background-color: var(--grey-a1);
@@ -734,6 +717,8 @@ figcaption {
     border-radius: 12px;
     display: flex;
     flex-direction: column;
+    font-size: $fs4;
+    color: var(--grey-6);
     h2 {
         margin: .9rem 0 1rem;
         color: var(--main-text-color);
@@ -770,6 +755,7 @@ figcaption {
 
 .subs-text {
     line-height: 1.4;
+    font-size: $fs4;
     margin-bottom: 1.5em;
     margin-top: 1rem;
     color: var(--grey-6);
