@@ -2,9 +2,9 @@
     "url":"{{ page.url | absolute_url }}",
     "image": {
         "@type": "ImageObject",
-        "url": "{{ site.url }}/assets/img/placeholder.jpg",
-        "width":"1200",
-        "height":"628"
+        "url": "{{ site.url }}{{ page.image }}",
+        "width":"1600",
+        "height":"900"
     },
     "publisher": {
         "@type": "Organization",

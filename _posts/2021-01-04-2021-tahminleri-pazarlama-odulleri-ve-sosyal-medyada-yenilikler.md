@@ -1,5 +1,6 @@
 ---
 title: 2021 Tahminleri, Pazarlama Ödülleri ve Sosyal Medyada Yenilikler
+image: assets/img/featured/feature1.jpg
 tag: [Trendler, Ödüller]
 description: "Bu haftaki bültenimiz başarılı tasarım çalışmalarına, pazarlama sektöründe verilen ödüllere, 2021 trendlerine dair öngörülere ve sosyal medya mecralarındaki bir dizi yeniliğe bakıyor."
 ---
@@ -20,7 +21,7 @@ Koronavirüsle birlikte, veriye erişim belki de hiç olmadığı kadar önem ka
 
 {% figure caption: "Financial Times Coronavirus Tracker sayfasından bir grafik" %}
 <div class="ratio-box" style="padding-bottom: 56.8125%">
-<img alt="Financial Times Koronavirüs grafiği" class="lazyload" data-src="/assets/img/ft-infografik.jpg">
+<img alt="Financial Times Koronavirüs grafiği" class="lazyload" data-src="/assets/img/content/ft-infografik.jpg">
 </div>
 {% endfigure %}
 
@@ -38,7 +39,7 @@ Eye On Design sitesi, sağlık sektöründe gelişmekte olan bir trendin altın�
 
 {% figure caption: "Sage Therapeutics Marka Kimliği Çalışması" %}
 <div class="ratio-box" style="padding-bottom: 56.25%">
-<img alt="Reklam panoları" class="lazyload" data-src="/assets/img/sage-image-billboard.jpg">
+<img alt="Reklam panoları" class="lazyload" data-src="/assets/img/content/sage-image-billboard.jpg">
 </div>
 {% endfigure %}
 
@@ -66,7 +67,7 @@ Yazı ayrıca, tasarımlarda organik ve düzensiz formların, çizimlerin ve el 
 
 {% figure caption: "The Guardian Reklam Çalışması" %}
 <div class="ratio-box" style="padding-bottom: 51.2585812%">
-<img alt="The Guardian reklam panoları" class="lazyload" data-src="/assets/img/guardian-reklam.jpg">
+<img alt="The Guardian reklam panoları" class="lazyload" data-src="/assets/img/content/guardian-reklam.jpg">
 </div>
 {% endfigure %}
 
@@ -94,7 +95,7 @@ The Dieline sitesi 2021’de hakim olacak tasarım trendlerine dair çıkarımla
 
 {% figure caption: "KFC'nin Parmak Yalatan Reklam Kampanyası" %}
 <div class="ratio-box" style="padding-bottom: 56.25%">
-<img alt="KFC finger lickin ad" class="lazyload" data-src="/assets/img/kfc-finger.jpg">
+<img alt="KFC finger lickin ad" class="lazyload" data-src="/assets/img/content/kfc-finger.jpg">
 </div>
 {% endfigure %}
 
@@ -108,7 +109,7 @@ The Drum magazininin editörleri 2020’nin en iyi pazarlama kampanyalarını s�
 
 {% figure caption: "Burger King'in Küflü Whopper Reklamı" %}
 <div class="ratio-box" style="padding-bottom: 66.6666667%">
-<img alt="Küflü Burger" class="lazyload" data-src="/assets/img/BKWhopperAd.jpg">
+<img alt="Küflü Burger" class="lazyload" data-src="/assets/img/content/BKWhopperAd.jpg">
 </div>
 {% endfigure %}
 
@@ -144,7 +145,7 @@ Google, “Covid-19 Topluluk Hareket Raporları” adıyla, cihazlarında konum 
 
 {% figure caption: "Google Covid-19 Topluluk Hareket Raporu İstanbul Verileri" %}
 <div class="ratio-box" style="padding-bottom: 68.2254197%">
-<img alt="Google Covid-19 Topluluk Hareket Raporu Grafikleri" class="lazyload" data-src="/assets/img/google-covid-veri.jpg">
+<img alt="Google Covid-19 Topluluk Hareket Raporu Grafikleri" class="lazyload" data-src="/assets/img/content/google-covid-veri.jpg">
 </div>
 {% endfigure %}
 
@@ -158,7 +159,7 @@ Google, “Covid-19 Topluluk Hareket Raporları” adıyla, cihazlarında konum 
 
 {% figure caption: "Yemeksepeti 2020 Alışveriş Verileri" %}
 <div class="ratio-box" style="padding-bottom: 56.25%">
-<img alt="Yemeksepeti infografik" class="lazyload" data-src="/assets/img/yemeksepeti-info.jpg">
+<img alt="Yemeksepeti infografik" class="lazyload" data-src="/assets/img/content/yemeksepeti-info.jpg">
 </div>
 {% endfigure %}
 
@@ -188,7 +189,7 @@ Google, arama sonuçlarında Instagram ve TikTok kısa videolarına yer vermeye 
 
 {% figure caption: "Dropbox Instagram Blog Yönlendirme Hikayeleri" %}
 <div class="ratio-box" style="padding-bottom: 90.1315789%">
-<img alt="Dropbox Instagram hikayeleri" class="lazyload" data-src="/assets/img/dropbox-hikayeler.jpg">
+<img alt="Dropbox Instagram hikayeleri" class="lazyload" data-src="/assets/img/content/dropbox-hikayeler.jpg">
 </div>
 {% endfigure %}
 

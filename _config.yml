@@ -74,14 +74,12 @@ defaults:
     values: 
         layout: "post"
         master: "true" #this is for looping through all documents in feed.xml
-        image: /assets/img/placeholder.jpg
   -
     scope:
       path: _pages
       type: "pages"
     values:
-      layout: "post"
-      image: /assets/img/placeholder.jpg
+      layout: "page"
 
 pagination:
   enabled: true

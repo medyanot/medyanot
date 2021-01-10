@@ -9,7 +9,13 @@
                 {%- if post.date or page.date -%}
                 <div class="archive-date">{%- include date-page.html -%}</div>
                 {%- endif -%}
+                {%- if page.description -%}
+                <p class="description">{{ page.description }}</p>
+                {%- endif -%}
             </header>
+            {%- if page.image -%}
+                {%- include page-image.html -%}
+            {%- endif -%}
             <div class="page-content">
             {{ content }}
             </div>

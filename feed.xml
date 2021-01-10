@@ -49,7 +49,18 @@ layout: null
       <id>{{ post.id | absolute_url | xml_escape }}</id>
       <content type="html" xml:base="{{ post.url | relative_url | xml_escape }}">
 
-        {{ post.content | strip | xml_escape | replace: "/assets/img/", "https://medyanot.netlify.app/assets/img/" | replace: "padding-bottom:", "bottom:" | replace: "data-src=", "src=" | replace: "&lt;noscript&gt;", "&lt;noscript style=&quot;display:none&quot;&gt;" }}
+        {%- if post.description -%}{{ post.description | strip | xml_escape }}{%- endif -%}
+
+        {%- assign post_image = post.image -%}
+        {%- if post_image -%}
+          {%- assign post_image = post_image | relative_url | xml_escape -%}
+          {%- capture post_image_html -%}<img src="{{ site.url }}{{ post_image }}" alt="">{%- endcapture -%}
+        {%- else -%}
+          {%- capture post_image_html -%}<img src="{{ site.url }}/assets/img/content/placeholder.jpg" alt="">{%- endcapture -%}
+        {%- endif -%}
+        {{ post_image_html | markdownify | xml_escape }}
+
+        {{ post.content | strip | xml_escape | replace: "/assets/img/content/", "https://medyanot.netlify.app/assets/img/content/" | replace: "padding-bottom:", "width: 100%; max-width:600px; bottom:" | replace: "data-src=", "src=" }}
 
         {%- capture post_footer -%}<a href="{{ post.url | absolute_url }}" rel="nofollow">{{ post.title }}</a> ilk olarak {{ site.title }}'te yayınlandı.{%- endcapture -%}
         {{ post_footer | markdownify | xml_escape }}
@@ -86,7 +97,7 @@ layout: null
       {%- if post.image -%}
         <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="{{ site.url }}/{{ post.image }}" />
       {%- else -%}
-        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="{{ site.url }}/assets/img/placeholder.jpg" />
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="{{ site.url }}/assets/img/content/placeholder.jpg" />
       {%- endif -%}
 
     </entry>

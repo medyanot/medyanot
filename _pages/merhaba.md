@@ -1,6 +1,5 @@
 ---
 title: Merhaba
-description: Bu site hakkında bazı bilgiler.
 search_omit: true
 permalink: /hakkinda/
 ---

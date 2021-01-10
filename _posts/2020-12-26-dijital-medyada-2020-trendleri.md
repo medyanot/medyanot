@@ -1,5 +1,6 @@
 ---
 title: Dijital Medyada 2020 Trendleri
+image: assets/img/featured/feature2.jpg
 tag: [Rapor, Trendler]
 description: "Medyanot'un ilk bülteni web tasarımı, internet trendleri, pazarlama ve sosyal medyada öne çıkanları paylaşıyor."
 ---
@@ -19,7 +20,7 @@ Medyanot’tan selamlar! Web, sosyal medya, dijital iletişim ve daha birçok ko
 
 {% figure caption: "HTTP Archive Web Almanac" %}
 <div class="ratio-box" style="padding-bottom: 61.48%">
-<img alt="HTTP Archive Web Almanac screenshot" class="lazyload" data-src="/assets/img/web-almanac.jpg">
+<img alt="HTTP Archive Web Almanac screenshot" class="lazyload" data-src="/assets/img/content/web-almanac.jpg">
 </div>
 {% endfigure %}
 
@@ -39,7 +40,7 @@ Rapor 4 bölüme ayrılmış. Birinci bölüm olan “Sayfa İçeriği”, CSS, 
 
 {% figure caption: "State of CSS 2020 Raporu" %}
 <div class="ratio-box" style="padding-bottom: 45.0980392%">
-<img alt="State of CSS 2020 screenshot" class="lazyload" data-src="/assets/img/state-of-css-2020.png">
+<img alt="State of CSS 2020 screenshot" class="lazyload" data-src="/assets/img/content/state-of-css-2020.png">
 </div>
 {% endfigure %}
 
@@ -69,7 +70,7 @@ Bu araştırma, 4000’in üzerinde tasarımcıyla görüşerek, tasarımcılar�
 
 {% figure caption: "Google Arama Trendleri 2020" %}
 <div class="ratio-box" style="padding-bottom: 54.6875%">
-<img alt="Google Arama Trendleri 2020 screenshot" class="lazyload" data-src="/assets/img/google-search-trends-2020.jpg">
+<img alt="Google Arama Trendleri 2020 screenshot" class="lazyload" data-src="/assets/img/content/google-search-trends-2020.jpg">
 </div>
 {% endfigure %}
 
@@ -87,7 +88,7 @@ Bu araştırma, 4000’in üzerinde tasarımcıyla görüşerek, tasarımcılar�
 
 {% figure caption: "Campaign Monitor 2020 Benchmarkları" %}
 <div class="ratio-box" style="padding-bottom: 66.640625%">
-<img alt="Campaign Monitor 2020 Benchmarkları infografik" class="lazyload" data-src="/assets/img/Global-Benchmarks-infographic.png">
+<img alt="Campaign Monitor 2020 Benchmarkları infografik" class="lazyload" data-src="/assets/img/content/Global-Benchmarks-infographic.png">
 </div>
 {% endfigure %}
 
@@ -125,7 +126,7 @@ Google yöneticilerinin 2021’e dair öngörülerini içeren bu yazıda, veri e
 
 {% figure caption: "YouTube 2020 Trendleri" %}
 <div class="ratio-box" style="padding-bottom: 59.921875%">
-<img alt="YouTube 2020 Trendleri screenshot" class="lazyload" data-src="/assets/img/Youtube-Culture-trends-2020.png">
+<img alt="YouTube 2020 Trendleri screenshot" class="lazyload" data-src="/assets/img/content/Youtube-Culture-trends-2020.png">
 </div>
 {% endfigure %}
 
@@ -159,7 +160,7 @@ Twitter, Periscope’u kapatıyor. Mart 2021’den itibaren Periscope, app mağa
 
 {% figure caption: "Twitter Spaces" %}
 <div class="ratio-box" style="padding-bottom: 44.0833333%">
-<img alt="Twitter Spaces screenshot" class="lazyload" data-src="/assets/img/twitter-spaces.png">
+<img alt="Twitter Spaces screenshot" class="lazyload" data-src="/assets/img/content/twitter-spaces.png">
 </div>
 {% endfigure %}
 
@@ -191,8 +192,8 @@ Telegram kurucusu Pavel Durov’un açıklamasına göre 500 milyon aktif kullan
 	muted=""
     loop=""
 	data-autoplay=""
-	data-poster="/assets/img/arc4g-ss.png"
-	src="/assets/img/arc4g-cat.mp4">
+	data-poster="/assets/img/content/arc4g-ss.png"
+	src="/assets/img/content/arc4g-cat.mp4">
 </video>
 </div>
 {% endfigure %}

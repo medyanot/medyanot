@@ -104,7 +104,7 @@ gulp.task('clean:styles', function(done) {
 // appropriate location.
 gulp.task('build:scripts:main', function(done) {
     return gulp.src([
-        paths.jsFiles + '/lazysizes.js', paths.jsFiles + '/lazy-unveil.js', paths.jsFiles + '/subscription.js'
+        paths.jsFiles + '/lazysizes.js', paths.jsFiles + '/lazy-unveil.js', paths.jsFiles + '/lazy-blur.js', paths.jsFiles + '/subscription.js'
     ])
         .pipe(concat('main.js'))
         .pipe(uglify())
@@ -136,8 +136,55 @@ gulp.task('clean:scripts', function(done) {
 
 // IMAGES
 
+// Featured
+
+gulp.task('build:images:featured', function(done) {
+  return gulp.src(paths.imageFiles + '/featured' + paths.imagePattern)
+  .pipe(gulpCached('build:images:featured'))
+      .pipe(responsive({
+    // resize all images
+    '*.*': [{
+      width: 32,
+      height: 18,
+      rename: { suffix: '-lq' },
+    }, {
+      width: 320,
+      height: 180,
+      rename: { suffix: '-320' },
+    }, {
+      width: 640,
+      height: 360,
+      rename: { suffix: '-640' },
+    }, {
+      width: 960,
+      height: 540, 
+      rename: { suffix: '-960' },
+    }, {
+      width: 1280,
+      height: 720,
+      rename: { suffix: '-1280' },
+    }, {
+      width: 1600,
+      height: 900,
+    }]
+  }, {
+    // global configuration for all images
+    errorOnEnlargement: false,
+    withMetadata: false,
+    quality: 75,
+    progressive: true,
+    errorOnUnusedConfig: false
+  }))
+      .pipe(size())
+      .pipe(gulp.dest(paths.jekyllImageFiles + '/featured'))
+      .pipe(gulp.dest(paths.siteImageFiles + '/featured'))
+
+      .pipe(browserSync.stream());
+  done();
+});
+
 gulp.task('build:images:inline', function(done) {
-    return gulp.src(paths.imageFiles + paths.imagePattern)
+    return gulp.src(paths.imageFiles + '/content' + paths.imagePattern)
     .pipe(gulpCached('build:images:inline'))
         .pipe(responsive({
       // resize all images
@@ -153,38 +200,14 @@ gulp.task('build:images:inline', function(done) {
       errorOnUnusedConfig: false
     }))
         .pipe(size())
-        .pipe(gulp.dest(paths.jekyllImageFiles))
-        .pipe(gulp.dest(paths.siteImageFiles))
-        .pipe(browserSync.stream());
-    done();
-});
-
-gulp.task('build:images:placeholder', function(done) {
-    return gulp.src(paths.imageFiles + "/placeholder.jpg")
-    .pipe(gulpCached('build:images:placeholder'))
-        .pipe(responsive({
-      // resize all images
-      '*.*': [{
-        width: 1200,
-        height: 628,
-      }]
-    }, {
-      // global configuration for all images
-      errorOnEnlargement: false,
-      withMetadata: false,
-      quality: 75,
-      progressive: true,
-      errorOnUnusedConfig: false
-    }))
-        .pipe(size())
-        .pipe(gulp.dest(paths.jekyllImageFiles))
-        .pipe(gulp.dest(paths.siteImageFiles))
+        .pipe(gulp.dest(paths.jekyllImageFiles + '/content'))
+        .pipe(gulp.dest(paths.siteImageFiles + '/content'))
         .pipe(browserSync.stream());
     done();
 });
 
 gulp.task('build:images:nonjpg', function() {
-  return gulp.src(paths.imageFiles + "/**/*.{png,gif,svg}")
+  return gulp.src(paths.imageFiles + '/content' + "/**/*.{png,gif,svg}")
   .pipe(gulpCached('build:images:nonjpg'))
   .pipe(
     imagemin(
@@ -196,22 +219,22 @@ gulp.task('build:images:nonjpg', function() {
       { verbose: true }
     )
   )
-      .pipe(gulp.dest(paths.jekyllImageFiles))
-      .pipe(gulp.dest(paths.siteImageFiles))
+      .pipe(gulp.dest(paths.jekyllImageFiles + '/content'))
+      .pipe(gulp.dest(paths.siteImageFiles + '/content'))
       .pipe(browserSync.stream());
 } 
 );
 
 gulp.task('build:images:videos', function() {
-    return gulp.src(paths.imageFiles + "/**/*.mp4")
+    return gulp.src(paths.imageFiles + '/content' + "/**/*.mp4")
     .pipe(gulpCached('build:images:videos'))
-        .pipe(gulp.dest(paths.jekyllImageFiles))
-        .pipe(gulp.dest(paths.siteImageFiles))
+        .pipe(gulp.dest(paths.jekyllImageFiles + '/content'))
+        .pipe(gulp.dest(paths.siteImageFiles + '/content'))
         .pipe(browserSync.stream());
   } 
 );
 
-gulp.task('build:images', gulp.series('build:images:inline', 'build:images:placeholder','build:images:nonjpg', 'build:images:videos'));
+gulp.task('build:images', gulp.series('build:images:featured', 'build:images:inline', 'build:images:nonjpg', 'build:images:videos'));
 
 gulp.task('clean:images', function(done) {
     del([paths.jekyllImageFiles, paths.siteImageFiles]);
