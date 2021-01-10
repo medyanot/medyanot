@@ -2,7 +2,7 @@
     "url":"{{ page.url | absolute_url }}",
     "image": {
         "@type": "ImageObject",
-        "url": "{{ site.url }}{{ page.image }}",
+        "url": "{{ site.url }}/{{ page.image }}",
         "width":"1600",
         "height":"900"
     },
