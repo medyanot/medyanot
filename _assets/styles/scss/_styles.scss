@@ -130,8 +130,9 @@ h3 {
 }
 
 .tag-title {
-    margin-bottom: 3rem;
+    margin-bottom: 2rem;
     font-size: $fsp;
+    color: var(--grey-4);
     span{
         color: var(--link-color);
     }  
