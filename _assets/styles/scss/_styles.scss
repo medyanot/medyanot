@@ -80,7 +80,7 @@ body {
     @include fluid-type($min_width, $max_width, $min_font, $max_font);
 }
 
-h1, h2, h3, input, .archive-date, .blocklink, .tag-links, figcaption, .site-header, .tag-cloud, .search-item span, .subs-form, .pagination, .notice, .description, .summary {
+h1, h2, h3, input, .archive-date, .blocklink, .tag-links, figcaption, .site-header, .tag-cloud, .search-item span, .subs-form, .pagination, .PageNavigation, .notice, .description, .summary {
     font-family: $sans;
 }
 
@@ -492,6 +492,7 @@ h1.page-title {
                         display: flex;
                         font-weight: 700;
                         line-height: 1;
+                        margin-top: 2px;
                         text-transform: uppercase;
                         @media only screen and (max-width: 480px) {
                             font-size: $fs5;
@@ -534,7 +535,7 @@ h1.page-title {
             margin-top: 1.6rem;
         }
         a {
-            font-size: $fsp;
+            font-size: $fs4;
             line-height: 1.2;
         }
     }
