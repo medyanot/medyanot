@@ -100,7 +100,7 @@ h1 {
 }
 
 h2 {
-    font-size: $fsa1;
+    font-size: $fs2;
 }
 
 h3 {
@@ -109,16 +109,14 @@ h3 {
 
 .page-content h2 {
     margin-top: 3.9rem;
-    font-size: $fs2;
 }
 
 .page-content h3 {
-    margin-top: 3.45rem;
-    font-size: $fsp;
+    margin-top: 3.35rem;
 }
 
 .page-content h2 + h3 {
-    margin-top: 1.58rem;
+    margin-top: 1.451rem;
 }
 
 .tag-title {
@@ -282,7 +280,7 @@ h1.page-title {
 .archive-date {
     padding-top: 0.5rem;
     border-top: 1px solid var(--grey-1);
-    font-size: $fs5;
+    font-size: $fs7;
     font-weight: 700;
     color: var(--grey-4);
     text-transform: uppercase;
@@ -333,7 +331,7 @@ h1.page-title {
         }
         nav {
             width: 100%;
-            padding: 0.8rem 0;
+            padding: 0.9rem 0;
             border-top: 1px solid var(--grey-1);
             border-bottom: 1px solid var(--main-text-color);
             ul {
@@ -344,15 +342,11 @@ h1.page-title {
                 padding: 0 1rem;
                 li {
                     a {
-                        font-size: $fs4;
+                        font-size: $fs5;
                         display: flex;
                         font-weight: 700;
-                        line-height: 1;
-                        margin-top: 2px;
+                        line-height: normal;
                         text-transform: uppercase;
-                        @media only screen and (max-width: 480px) {
-                            font-size: $fs5;
-                        }
                         .light-sun {
                             height: 1.5em;
                             width: 1.5em;
@@ -392,6 +386,7 @@ h1.page-title {
     margin: 2em 0 4em;
     h3 {
         border-bottom: 1px solid var(--grey-6);
+        text-transform: uppercase;
     }
     .tag-cloud {
         display: grid;
@@ -408,7 +403,7 @@ h1.page-title {
                 flex-flow: row nowrap;
                 justify-content: space-between;
                 text-transform: uppercase;
-                font-size: $fs5;
+                font-size: $fs7;
                 white-space: nowrap;
             }
         }
