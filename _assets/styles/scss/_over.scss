@@ -76,7 +76,7 @@ body {
     @include fluid-type($min_width, $max_width, $min_font, $max_font);
 }
 
-h1, h2, h3, input, .archive-date, .site-header, .tag-cloud, .description, .summary {
+h1, h2, h3, input, .archive-date, .site-header, .tag-cloud {
     font-family: $sans;
 }
 

@@ -80,7 +80,7 @@ body {
     @include fluid-type($min_width, $max_width, $min_font, $max_font);
 }
 
-h1, h2, h3, input, .archive-date, .blocklink, .tag-links, figcaption, .site-header, .tag-cloud, .search-item span, .subs-form, .pagination, .PageNavigation, .notice, .description, .summary {
+h1, h2, h3, input, .archive-date, .blocklink, .tag-links, figcaption, .site-header, .tag-cloud, .search-item span, .subs-form, .pagination, .PageNavigation, .notice {
     font-family: $sans;
 }
 
