@@ -1,4 +1,4 @@
-html, html[data-theme="light"] {
+html {
     --link-color: #ef476f;
     --main-background-color: #F3F5F7;
     --main-text-color: #353739;
@@ -13,23 +13,8 @@ html, html[data-theme="light"] {
     --img-filter: none;
 }
 
-html[data-theme="dark"] {
-  --link-color: #D95E7B;
-  --main-background-color: #1F2123;
-  --main-text-color: #D5D6D7;
-  --grey-6: #b8b9ba;
-  --grey-5: #9c9d9f;
-  --grey-4: #808284;
-  --grey-3: #66686a;
-  --grey-2: #4d4f51;
-  --grey-1: #353739;
-  --grey-a1: #2A2C2E;
-  --black-color: #131416;
-  --img-filter: brightness(.8) contrast(1.2);
-}
-
 @media (prefers-color-scheme: dark) {
-    html, html[data-theme="dark"] {
+    html {
         --link-color: #D95E7B;
         --main-background-color: #1F2123;
         --main-text-color: #D5D6D7;
@@ -43,21 +28,6 @@ html[data-theme="dark"] {
         --black-color: #131416;
         --img-filter: brightness(.8) contrast(1.2);
     }
-
-    html[data-theme="light"] {
-        --link-color: #ef476f;
-        --main-background-color: #F3F5F7;
-        --main-text-color: #353739;
-        --grey-6: #4d4f51;
-        --grey-5: #66686a;
-        --grey-4: #808285;
-        --grey-3: #9c9ea0;
-        --grey-2: #b8babc;
-        --grey-1: #d5d7d9;
-        --grey-a1: #E4E6E8;
-        --black-color: #2A2C2E;
-        --img-filter: none;
-  } 
 }
 
 html {
@@ -398,7 +368,7 @@ figcaption {
         margin: 2em auto 3em;
         .post-list {
             .archive-post {
-                margin-bottom: 3.4rem;
+                margin-bottom: 4rem;
                 h1, h2 {
                     font-size: $fsa1;
                     margin-bottom: -.5rem;
@@ -491,19 +461,6 @@ h1.page-title {
                         font-weight: 700;
                         line-height: normal;
                         text-transform: uppercase;
-                        .light-sun {
-                            height: 1.5em;
-                            width: 1.5em;
-                            fill: var(--main-text-color);
-                            transition: .2s fill ease-in;
-                        }
-                    }
-                    @media (hover) {
-                        a:hover {
-                            .light-sun {
-                                fill: var(--link-color);
-                            }
-                        }
                     }
                 }
             }
