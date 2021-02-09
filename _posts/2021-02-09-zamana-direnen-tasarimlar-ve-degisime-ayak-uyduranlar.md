@@ -95,7 +95,7 @@ The Drum, oyuncu personaları üzerine detaylı bir sunumu YouTube kanalından p
 </div>
 {% endfigure %}
 
-Mediacat, 2021 yılının trendleri üzerine konuşmak üzere sektörün önce gelen akademisyen, araştırmacı ve iş insanlarını canlı yayın platformunda bir araya getiriyor. 18 Şubat’ta gerçekleşecek olan yayını izlemek için [buradan](https://live.mediacat.com) kayıt olabilirsiniz. Daha fazla bilgi için:
+Mediacat, 2021 yılının trendleri üzerine konuşmak üzere sektörün önde gelen akademisyen, araştırmacı ve iş insanlarını canlı yayın platformunda bir araya getiriyor. 18 Şubat’ta gerçekleşecek olan yayını izlemek için [buradan](https://live.mediacat.com) kayıt olabilirsiniz. Daha fazla bilgi için:
 
 {% blocklink %}
 [Daha Fazla](https://digitalage.com.tr/mediacat-live-2021-trendleri/)
