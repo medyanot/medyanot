@@ -184,7 +184,7 @@ gulp.task('build:images:featured', function(done) {
 });
 
 gulp.task('build:images:inline', function(done) {
-    return gulp.src(paths.imageFiles + '/content' + paths.imagePattern)
+    return gulp.src(paths.imageFiles + '/content' + "/**/*.{jpg,jpeg}")
     .pipe(gulpCached('build:images:inline'))
         .pipe(responsive({
       // resize all images
