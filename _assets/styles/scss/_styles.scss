@@ -267,6 +267,10 @@ figure {
     margin: 1.55em auto;
 }
 
+.twitter-tweet iframe {
+    background: var(--main-background-color) !important;
+}
+
 @media only screen and (max-width: 680px) {
     .feature-img {
         width: auto;
