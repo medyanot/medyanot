@@ -861,6 +861,7 @@ footer {
             display: flex;
             align-content:flex-end;
             flex-flow: row nowrap;
+            color: var(--main-text-color);
             svg {
                 fill: #FF6C00;
                 height: $fsp;
