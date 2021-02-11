@@ -50,7 +50,7 @@ body {
     @include fluid-type($min_width, $max_width, $min_font, $max_font);
 }
 
-h1, h2, h3, input, .archive-date, .blocklink, .tag-links, figcaption, .site-header, .tag-cloud, .search-item span, .subs-form, .pagination, .PageNavigation, .notice {
+h1, h2, h3, input, .archive-date, .blocklink, .tag-links, figcaption, .site-header, .tag-cloud, .search-item span, .subs-form, .pagination, .PageNavigation, .notice, footer {
     font-family: $sans;
 }
 
@@ -848,10 +848,25 @@ footer {
     flex-shrink: 0; /* Keeps the footer at the bottom */
     background-color: var(--black-color);
     height: 4rem;
+    padding: 0 1em;
     display: flex;
-    justify-content: center;
+    flex-flow: row nowrap;
+    justify-content: space-between;
     align-items: center;
     #footer-ast {
         fill: var(--link-color);
+    }
+    .owner {
+        span {
+            display: flex;
+            align-content:flex-end;
+            flex-flow: row nowrap;
+            svg {
+                fill: #FF6C00;
+                height: $fsp;
+                width: auto;
+                margin: 0 0.4em;
+            }
+        }
     }
 }
