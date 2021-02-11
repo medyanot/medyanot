@@ -853,9 +853,6 @@ footer {
     flex-flow: row nowrap;
     justify-content: space-between;
     align-items: center;
-    #footer-ast {
-        fill: var(--link-color);
-    }
     .owner {
         span {
             display: flex;
@@ -866,8 +863,29 @@ footer {
                 fill: #FF6C00;
                 height: $fsp;
                 width: auto;
-                margin: 0 0.4em;
+                margin: 0 0.4em 0 .35em;
+                transition: .2s opacity;
+                &:hover {
+                    opacity: .8;
+                }
             }
         }
+    }
+    .follow-icons {
+        display: flex;
+        flex-flow: row nowrap;
+        align-items: center;
+        a {
+            margin-left: .5em;
+            svg {
+                fill: #FF6C00;
+                height: 32px;
+                width: 32px;
+                transition: .2s opacity;
+                &:hover {
+                    opacity: .8;
+                }
+            }
+        } 
     }
 }
