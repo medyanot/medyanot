@@ -50,7 +50,7 @@ body {
     @include fluid-type($min_width, $max_width, $min_font, $max_font);
 }
 
-h1, h2, h3, input, .archive-date, .blocklink, .tag-links, figcaption, .site-header, .tag-cloud, .search-item span, .subs-form, .pagination, .PageNavigation, .notice, footer {
+h1, h2, h3, input, .archive-date, .blocklink, .tag-links, figcaption, .site-header, .tag-cloud, .search-item span, .subs-form, .pagination, .PageNavigation, footer {
     font-family: $sans;
 }
 
@@ -706,11 +706,13 @@ h1.page-title {
     flex-direction: column;
     font-size: $fs4;
     h2 {
+        font-size: $fs3;
         margin: .9rem 0 1rem;
         color: var(--main-text-color);
     }
     p {
         line-height: 1.5;
+        font-size: .92em;
     }
 }
 
@@ -861,8 +863,8 @@ footer {
             color: var(--main-text-color);
             svg {
                 fill: #FF6C00;
-                height: $fsp;
-                width: auto;
+                height: 1em;
+                width: 4,823529412em;
                 margin: 0 0.4em 0 .35em;
                 transition: .2s opacity;
                 &:hover {
