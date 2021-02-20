@@ -11,6 +11,7 @@ html {
     --grey-a1: #E4E6E8;
     --black-color: #2A2C2E;
     --img-filter: none;
+    --logo-color: #1D1F20;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -27,6 +28,7 @@ html {
         --grey-a1: #2A2C2E;
         --black-color: #131416;
         --img-filter: brightness(.8) contrast(1.2);
+        --logo-color: #F5F5F5;
     }
 }
 
@@ -429,20 +431,20 @@ h1.page-title {
             margin: 1em 0;
             a {
                 svg {
-                    height: auto;
-                    width: 5em;
+                    height: 100%;
+                    width: 9em;
                     @media only screen and (min-width: 680px) {
-                        width: 7em;
-                        margin: 1em 0;
+                        width: 11em;
+                        padding: 1em 0;
                     }
                     @media only screen and (min-width: 1024px) {
-                        width: 9em;
+                        width: 13em;
                     }
                 }
-                #logo-m, #logo-n {
-                    fill: var(--main-text-color);
+                #mlogo-text {
+                    fill: var(--logo-color);
                 }
-                #logo-ast {
+                #mlogo-ast {
                     fill: var(--link-color);
                 }
             }
@@ -860,15 +862,16 @@ footer {
             display: flex;
             align-content:flex-end;
             flex-flow: row nowrap;
-            color: var(--main-text-color);
+            color: #ccc;
+            font-size: .9em;
             svg {
-                fill: #FF6C00;
-                height: 1em;
-                width: 4,823529412em;
+                fill: #F57D27;
+                height: 1.1em;
+                width: auto;
                 margin: 0 0.4em 0 .35em;
-                transition: .2s opacity;
+                transition: .2s fill;
                 &:hover {
-                    opacity: .8;
+                    fill: #FF6C00;
                 }
             }
         }
@@ -880,7 +883,7 @@ footer {
         a {
             margin-left: .5em;
             svg {
-                fill: #FF6C00;
+                fill: #ccc;
                 height: 32px;
                 width: 32px;
                 transition: .2s opacity;

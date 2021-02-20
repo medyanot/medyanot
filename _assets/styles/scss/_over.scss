@@ -11,6 +11,7 @@ html {
     --grey-a1: #E4E6E8;
     --black-color: #2A2C2E;
     --img-filter: none;
+    --logo-color: #1D1F20;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -27,6 +28,7 @@ html {
         --grey-a1: #2A2C2E;
         --black-color: #131416;
         --img-filter: brightness(.8) contrast(1.2);
+        --logo-color: #F5F5F5;
     }
 }
 
@@ -281,20 +283,20 @@ h1.page-title {
             margin: 1em 0;
             a {
                 svg {
-                    height: auto;
-                    width: 5em;
+                    height: 100%;
+                    width: 9em;
                     @media only screen and (min-width: 680px) {
-                        width: 7em;
-                        margin: 1em 0;
+                        width: 11em;
+                        padding: 1em 0;
                     }
                     @media only screen and (min-width: 1024px) {
-                        width: 9em;
+                        width: 13em;
                     }
                 }
-                #logo-m, #logo-n {
-                    fill: var(--main-text-color);
+                #mlogo-text {
+                    fill: var(--logo-color);
                 }
-                #logo-ast {
+                #mlogo-ast {
                     fill: var(--link-color);
                 }
             }
