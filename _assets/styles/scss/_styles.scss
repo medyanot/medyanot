@@ -211,7 +211,7 @@ ol {
     list-style-position: outside;
     li::marker {
         font-variant-numeric: lining-nums;
-        font-weight: 700;
+        font-weight: 400;
     }
     ol {
         list-style-type: lower-roman;
@@ -271,6 +271,7 @@ figure {
 
 .twitter-tweet iframe {
     background: var(--main-background-color) !important;
+    border-radius: .9em;
 }
 
 @media only screen and (max-width: 680px) {
