@@ -35,7 +35,6 @@ html {
 body {
     color: var(--main-text-color);
     background-color: var(--main-background-color);
-    font-family: $serif;
     -webkit-font-smoothing: antialiased;
     font-kerning: normal;
     font-variant-ligatures: common-ligatures contextual;
@@ -48,7 +47,7 @@ body {
     @include fluid-type($min_width, $max_width, $min_font, $max_font);
 }
 
-h1, h2, h3, input, .archive-date, .site-header, .tag-cloud {
+body, input, textarea {
     font-family: $sans;
 }
 
@@ -253,7 +252,6 @@ h1.page-title {
     padding-top: 0.5rem;
     border-top: 1px solid var(--grey-1);
     font-size: $fs7;
-    font-weight: 700;
     color: var(--grey-4);
     text-transform: uppercase;
     position: relative;
