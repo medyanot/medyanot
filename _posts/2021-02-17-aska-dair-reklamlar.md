@@ -19,7 +19,7 @@ description: "Super Bowl ve Sevgililer Günü reklamlarının çoğu fos çıkt�
 Veri görselleştirmelerinden faydalanan uzun formattaki araştırma yazılarına zaafımız var. Google himayesindeki Jigsaw magazininin bu son sayısı bize hoşlandığımız bir yerden, etkili grafikleri ve başarılı tipografisi ile yaklaşıyor. Sitedeki sans fontlar marka için özel tasarlanmışken, serif olarak Grilli Type’tan sıradışı fakat kullanışlı bir font olan [GT Sectra](https://www.grillitype.com/typeface/gt-sectra) seçilmiş.
 
 {% blocklink %}
-[Daha Fazla](https://jigsaw.google.com/the-current/white-supremacy/data-visualization/)
+[Daha Fazla](https://jigsaw.google.com/the-current/white-supremacy/data-visualization/){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 Daha önceki bültenlerimizde de altını çizdiğimiz üzere, 2020 birçok büyük markanın logolarında geometrik sans fontlara geçiş yaptığı bir yıl oldu. Burada, görsel kimliklerini yenilerken bu büyük trende direnç gösterebilen iki kurumsal logoyu seyrinize sunuyoruz. Belki hoşunuza gider.
@@ -41,7 +41,7 @@ Daha önceki bültenlerimizde de altını çizdiğimiz üzere, 2020 birçok büy
 Tüketici profilini tanımlamak için inşa edilen “ideal tipleri” ifade eden personalar hakkında genişçe ve hayli bilgilendirici bir yazı. Persona oluşturmanın artıları ve eksileri, personaların tüketici segmentlerinden farkları ve konu hakkında danışabileceğimiz bazı kaynaklar için bu yazıya göz gezdirebilirsiniz. Aposto’ya da buradan selamlar. 👋
 
 {% blocklink %}
-[Daha Fazla](https://apos.to/i/bulten-17-personalar)
+[Daha Fazla](https://apos.to/i/bulten-17-personalar){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 Nielsen, 2021 yılında spor sektöründe gelişecek pazarlama trendlerine dair bir rapor yayınladı. Raporun verilere dayanan önemli bulguları ve tahminleri var, bunlardan bazılarını burada aktarmak istiyoruz. 
@@ -51,13 +51,13 @@ Rapor, ilk olarak Çin’in sponsorluk alanındaki varlığının daha da güçl
 Spor sektörünün geleceğinde etkili olacak bir başka trend, atletlerin influencerlar olarak ön plana çıkması. Nielsen’in raporuna göre sporcuların endorse ettiği sosyal medya içerikleri, diğer sosyal medya içeriklerine kıyasla %63 daha fazla etkileşim alıyor. Son olarak, aşı yaygınlaştıktan sonra bile, pandeminin spor seyircisinin davranışlarında kalıcı bir etki bırakacağı öne sürülüyor. Araştırmaya göre, spor takipçilerinin yalnızca %19’u aşı bulunduktan sonra canlı etkinliklere katılmayı planlıyor. Bu ise sanal spor deneyimlerin markalar için değerini ciddi şekilde artıran bir bulgu. 🏀
 
 {% blocklink %}
-[Daha Fazla](https://www.nielsen.com/us/en/insights/report/2021/the-changing-value-of-sponsorship-2021-sports-marketing-trends/)
+[Daha Fazla](https://www.nielsen.com/us/en/insights/report/2021/the-changing-value-of-sponsorship-2021-sports-marketing-trends/){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 Amazon.com.tr, 2020’nin en çok satan kitaplarını açıkladı. Listede klasikler ve özellikle İş Bankası Kültür Yayınları’nca basılan “Hasan Ali Yücel Klasikleri” dikkat çekiyor.
 
 {% blocklink %}
-[Daha Fazla](https://digitalage.com.tr/amazon-com-tr-2020nin-en-cok-satan-kitaplarini-acikladi/)
+[Daha Fazla](https://digitalage.com.tr/amazon-com-tr-2020nin-en-cok-satan-kitaplarini-acikladi/){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 {% notice %}
@@ -76,7 +76,7 @@ Twitter CEO’su Jack Dorsey ve rapçi Jay Z, Afrika ve Hindistan’da bitcoin s
 Super Bowl etkinliği kapsamında ilk kez gösterilen reklamlardan en fazla izlenme sayısına ulaşanlar YouTube’un blog sayfasında yayınlandı. Genel olarak pek başarılı reklamlar değiller. Örneğin, Shaggy’nin “It wasn’t me” adlı hit şarkısını uyarlayan, Shaggy’nin yanı sıra Mila Kunis ve Ashton Kutcher’ın da sahne aldığı [Cheetos reklamı](https://www.youtube.com/watch?v=o7yvrDTtsHw&feature=emb_title) bir facia. En çok izlenen reklam ise, Michael B. Jordan'ın teşrif ettiği Amazon Alexa reklamı olmuş.
 
 {% blocklink %}
-[Daha Fazla](https://blog.youtube/news-and-events/2021-youtube-adblitz-awards/)
+[Daha Fazla](https://blog.youtube/news-and-events/2021-youtube-adblitz-awards/){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 ### Sevgililer Günü
@@ -116,13 +116,13 @@ Yeni Zelanda turizminin yeni kampanyası farklı ve biraz da kışkırtıcı bir
 Portekiz’in güçlü turizm ekonomisi şimdilerde zor zamanlardan geçiyor. 2020’de yüzde 76 küçülmeyle 4 milyondan az yabancı turist ağırlayan ülkede, virüs sebepli vakaların yeniden yükselmesiyle 2021 de kötü başladı. Şu ana dek, Covid-19 sebebiyle 15 binin üzerinde kişinin hayatını kaybettiği ülkede gözler, devletin işletmelere yapacağı yardım paketinde.
 
 {% blocklink %}
-[Daha Fazla](https://skift.com/2021/02/15/portugals-once-booming-tourism-sector-suffers-worst-slump-since-1980s/)
+[Daha Fazla](https://skift.com/2021/02/15/portugals-once-booming-tourism-sector-suffers-worst-slump-since-1980s/){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 GWI’nın, ABD ve İngiltere vatandaşlarının Covid sonrası seyahat planlarını anlamak için yaptığı araştırmada, seyahat markalarının güvenilir sağlık sigortaları sunmasını en çok isteyen yaş grubu olarak Z kuşağı ön plana çıkmış.
 
 {% blocklink %}
-[Daha Fazla](https://blog.globalwebindex.com/trends/vacationers-have-changed-in-2021/)
+[Daha Fazla](https://blog.globalwebindex.com/trends/vacationers-have-changed-in-2021/){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 ## Araştırma
@@ -146,13 +146,13 @@ Tabi, yukarıdaki grafikte göstermediğimiz filin adı Facebook. Aşağıdaki g
 Google, pandemi sürecinde değişen yeme-içme alışkanlıklarına dair rapor yayınladı. Rapor, ABD toplumundan elde edilen veriler üzerine kurulu olsa da, gözlemlenen online alışverişteki yaygınlaşma ve sağlıklı beslenme ve kişisel bakımın popülerleşmesi gibi trendler dünyanın geri kalanı için de bir fikir veriyor.
 
 {% blocklink %}
-[Daha Fazla](https://www.thinkwithgoogle.com/consumer-insights/trending-data-shorts/food-mealtime-data-insights)
+[Daha Fazla](https://www.thinkwithgoogle.com/consumer-insights/trending-data-shorts/food-mealtime-data-insights){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 Microsoft, 2021 tüketici trendleri üzerine bir rapor yayınladı. Raporda, perakende satış, sağlık, seyahat, teknoloji ve finansal hizmetler başlıkları altında gelişen tüketici eğilimleri mercek altına alınıyor.
 
 {% blocklink %}
-[Daha Fazla](https://about.ads.microsoft.com/en-us/insights/g/consumer-trends-2021-report)
+[Daha Fazla](https://about.ads.microsoft.com/en-us/insights/g/consumer-trends-2021-report){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 ## Teknoloji
@@ -166,7 +166,7 @@ Microsoft, 2021 tüketici trendleri üzerine bir rapor yayınladı. Raporda, per
 Oyun grafikleri alanında çalışan Unreal Engine gelecek aylarda test sürüşüne çıkaracağı “MetaHuman Creator” projesini duyurdu. Bulut bazlı olacak bu uygulama sayesinde, hayal ettiğiniz “dijital insanı” en küçük ayrıntısına kadar tasarlayabilecek ve anime edebileceksiniz. Bu uygulama sayesinde, Unreal Engine ultra-gerçekçi dijital karakter oluşturma sürecini haftalardan dakikalara indirmeyi hedefliyor. Yukarıdaki videodan anlaşıldığı kadarıyla sonuçlar oldukça etkileyici. Unreal Engine’in sitesindeki açıklamayı okumak için böyle buyrun:
 
 {% blocklink %}
-[Daha Fazla](https://www.unrealengine.com/en-US/blog/a-sneak-peek-at-metahuman-creator-high-fidelity-digital-humans-made-easy)
+[Daha Fazla](https://www.unrealengine.com/en-US/blog/a-sneak-peek-at-metahuman-creator-high-fidelity-digital-humans-made-easy){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 ## Sosyal Medya
@@ -174,7 +174,7 @@ Oyun grafikleri alanında çalışan Unreal Engine gelecek aylarda test sürüş
 LinkedIn, “Return to Growth 2021” adıyla 47 sayfalık yeni bir dijital magazin yayınladı. Başarılı kampanya örnekleri ve uzman görüşlerini içeren yayında ayrıca LinkedIn’e dair en güncel veriler de bulunuyor. Buna göre LinkedIn’in 200 ülkede 706 milyonun üzerinde kullanıcısı var. Bir diğer ilginç veri ise sosyal medyadan şirket sitelerine yapılan tüm yönlendirmelerin yüzde 45’inin LinkedIn üzerinden yapılması. Bu, devasa bir oran.
 
 {% blocklink %}
-[Daha Fazla](https://www.flipsnack.com/SophisticatedMarketerQuarterly/return-to-growth-2021.html/full-view.html)
+[Daha Fazla](https://www.flipsnack.com/SophisticatedMarketerQuarterly/return-to-growth-2021.html/full-view.html){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 {% figure caption: "TikTok: Türkiye'de müzik kategorisinde en popüler hashtagler" %}
@@ -186,7 +186,7 @@ LinkedIn, “Return to Growth 2021” adıyla 47 sayfalık yeni bir dijital maga
 TikTok, yayınladığı trend raporuyla, 2020’nin en popüler içerik kategorilerini [açıkladı](https://www.tiktok.com/business/en/blog/our-tiktok-trend-report-is-here-discover-whats-next?fbclid=IwAR0oU541M_XbvL6cOJM0FK_c-jjcDGZAAJtyo2uLZMCrWUTMTBOz5d8yAPE). Uygulama, Türkiye’nin de içerisinde olduğu bir dizi ülkeye dair lokal trendleri de raporlaştırmış. Türkiye üzerine olan raporda en dikkat çekici veri, müzik kategorisinde en popüler iki hashtag’in Blackpink ve BTS olması. Raporda da belirtildiği gibi K-Pop’u yaygın olarak tüketen ve TikTok’un hakim profilini oluşturan Z kuşağı çoktan önemli bir segment haline çoktan geldi. Türkiye raporuna buradan erişebilirsiniz:
 
 {% blocklink %}
-[Daha Fazla](https://mcusercontent.com/3117629644bee594803598241/files/3c90fb07-8d83-4f00-8e57-bb1bc74e020d/TikTok__What_s_Next_Trend_Report___TR.pdf)
+[Daha Fazla](https://mcusercontent.com/3117629644bee594803598241/files/3c90fb07-8d83-4f00-8e57-bb1bc74e020d/TikTok__What_s_Next_Trend_Report___TR.pdf){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 ### Sosyal Medyadan Kısa Kısa

@@ -29,8 +29,7 @@ Fast Company’de yayınlanan bu yazı, medya ve sosyal medya kanallarının çe
 
 {% blocklink %}
 
-[Daha Fazla](https://www.fastcompany.com/90588298/how-data-designers-helped-us-make-sense-of-2020s-chaos)
-
+[Daha Fazla](https://www.fastcompany.com/90588298/how-data-designers-helped-us-make-sense-of-2020s-chaos){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 ### Sağlık Endüstrisinde Görsel Kimlik Çalışmaları
@@ -47,8 +46,7 @@ Yazıda öne çıkarılan görsel kimliklerde bazı ortak noktalar dikkat çekiy
 
 {% blocklink %}
 
-[Daha Fazla](https://eyeondesign.aiga.org/high-design-healthcare-is-getting-the-millennial-branding-treatment/)
-
+[Daha Fazla](https://eyeondesign.aiga.org/high-design-healthcare-is-getting-the-millennial-branding-treatment/){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 ### 2020 Trendlerine Devam
@@ -59,8 +57,7 @@ Yazı ayrıca, tasarımlarda organik ve düzensiz formların, çizimlerin ve el 
 
 {% blocklink %}
 
-[Daha Fazla](https://creativecloud.adobe.com/tr/discover/article/year-in-review-2020-trends-on-adobe-stock)
-
+[Daha Fazla](https://creativecloud.adobe.com/tr/discover/article/year-in-review-2020-trends-on-adobe-stock){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 İngiltere merkezli tasarım magazini Designweek, ürün, dijital, iletişim, mekan gibi çeşitli kategorilerde tasarım sektörünün 2020’deki en başarılı çalışmalarını seçmiş. Editörlerin büyük ödülüne Twitch’in yeni marka kimliği çalışması layık görülmüş. Yeni fontu ve daha renkli görsel diliyle Twitch, kullanıcılarına “Bizden birisin!” diyerek doğrudan seslenmeyi tercih etmiş.
@@ -75,8 +72,7 @@ Kazananların arasındaki bir diğer dikkat çekici örnek ise The Guardian gaze
 
 {% blocklink %}
 
-[Daha Fazla](https://www.designweek.co.uk/awards-2020-results/)
-
+[Daha Fazla](https://www.designweek.co.uk/awards-2020-results/){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 ### Tasarımda 2021 Öngörüleri
@@ -85,8 +81,7 @@ The Dieline sitesi 2021’de hakim olacak tasarım trendlerine dair çıkarımla
 
 {% blocklink %}
 
-[Daha Fazla](https://thedieline.com/blog/2020/12/15/dielines-2021-trend-report?)
-
+[Daha Fazla](https://thedieline.com/blog/2020/12/15/dielines-2021-trend-report?){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 ## Pazarlama
@@ -103,8 +98,7 @@ The Drum magazininin editörleri 2020’nin en iyi pazarlama kampanyalarını s�
 
 {% blocklink %}
 
-[Daha Fazla](https://www.thedrum.com/news/2020/12/28/kfc-its-slogan-solution-the-drum-editorial-team-s-best-2020)
-
+[Daha Fazla](https://www.thedrum.com/news/2020/12/28/kfc-its-slogan-solution-the-drum-editorial-team-s-best-2020){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 {% figure caption: "Burger King'in Küflü Whopper Reklamı" %}
@@ -117,8 +111,7 @@ Creative Review websitesi, [2020’nin en iyi reklamlarını](https://www.creati
 
 {% blocklink %}
 
-[Daha Fazla](https://www.youtube.com/watch?v=oSDC4C3_16Y)
-
+[Daha Fazla](https://www.youtube.com/watch?v=oSDC4C3_16Y){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 ### Türkiye’de 2020’nin Kazananları
@@ -127,16 +120,14 @@ Doğrudan Pazarlama İletişimcileri Derneği (DPİD)’in 12.’sini düzenledi
 
 {% blocklink %}
 
-[Daha Fazla](https://www.marketingturkiye.com.tr/haberler/dogrudan-pazarlamanin-en-iyileri/)
-
+[Daha Fazla](https://www.marketingturkiye.com.tr/haberler/dogrudan-pazarlamanin-en-iyileri/){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 Pazarlama ve iletişim alanlarında verilen Kristal Elma Ödülleri’ni kazananlar açıklandı. Listenin tamamına PDF olarak erişmek için aşağıdaki linke tıklayın. 
 
 {% blocklink %}
 
-[Daha Fazla](https://kristalelma.org.tr/media/12086/kri-stal-elma-2020-kazananlar.pdf)
-
+[Daha Fazla](https://kristalelma.org.tr/media/12086/kri-stal-elma-2020-kazananlar.pdf){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 ## Araştırma ve Veri
@@ -153,8 +144,7 @@ Google, “Covid-19 Topluluk Hareket Raporları” adıyla, cihazlarında konum 
 
 {% blocklink %}
 
-[Daha Fazla](https://www.google.com.tr/covid19/mobility/)
-
+[Daha Fazla](https://www.google.com.tr/covid19/mobility/){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 {% figure caption: "Yemeksepeti 2020 Alışveriş Verileri" %}
@@ -167,8 +157,7 @@ Google, “Covid-19 Topluluk Hareket Raporları” adıyla, cihazlarında konum 
 
 {% blocklink %}
 
-[Daha Fazla](https://webrazzi.com/2020/12/28/kullanici-sayisi-19-milyonu-gecen-yemeksepeti-nin-rakamlarla-2020-yili/)
-
+[Daha Fazla](https://webrazzi.com/2020/12/28/kullanici-sayisi-19-milyonu-gecen-yemeksepeti-nin-rakamlarla-2020-yili/){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 ## Sosyal Medya
@@ -176,13 +165,13 @@ Google, “Covid-19 Topluluk Hareket Raporları” adıyla, cihazlarında konum 
 Twitter, 2017’de alımları sona erdirdiği mavi rozetli hesaplar için başvuruları bu ay yeniden başlatıyor. 22.000 kullanıcıyla yapılan bir anketin sonuçlarına uygun olarak, mavi rozeti almak için kullanıcının bio veya header fotosuna sahip olmasına gerek kalmayacak.
 
 {% blocklink %}
-[Daha Fazla](https://wersm.com/twitter-is-bringing-back-its-verification-program/)
+[Daha Fazla](https://wersm.com/twitter-is-bringing-back-its-verification-program/){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 Google, arama sonuçlarında Instagram ve TikTok kısa videolarına yer vermeye başlayacak. Şu an sadece sınırlı sayıda kullanıcıya açık olan ve sadece mobilde geçerli olan uygulama sayesinde, kullanıcılar Google arayüzünü terk etmeden içerikleri görebilecekler.
 
 {% blocklink %}
-[Daha Fazla](https://webrazzi.com/2020/12/30/google-yeni-kisa-videolar-sekmesi/)
+[Daha Fazla](https://webrazzi.com/2020/12/30/google-yeni-kisa-videolar-sekmesi/){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 ### Haftanın İçerik Üreticisi
@@ -196,7 +185,7 @@ Google, arama sonuçlarında Instagram ve TikTok kısa videolarına yer vermeye 
 Bu haftanın beğenilen içerik üreticisi Dropbox. Marka, Instagram sayfasındaki hikayelerde kullanıcılarına yanıtı şaşırtıcı olan sorular soruyor ve daha fazlası için Swipe Up ile bloguna yönlendiriyor.
 
 {% blocklink %}
-[Daha Fazla](https://www.instagram.com/stories/highlights/17853544589306990/?hl=en)
+[Daha Fazla](https://www.instagram.com/stories/highlights/17853544589306990/?hl=en){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 Okuduğunuz için teşekkürler. Hala izlemediyseniz Boston Dynamics robotlarının dansına [göz atın](https://www.youtube.com/watch?v=fn3KWM1kuAw).

@@ -31,9 +31,7 @@ Rapor 4 bölüme ayrılmış. Birinci bölüm olan “Sayfa İçeriği”, CSS, 
 İsterseniz internet sayfasından isterseniz de PDF olarak erişebileceğiz bu mükemmel referans şu an için Türkçe mevcut değil.
 
 {% blocklink %}
-
 [Daha Fazla](https://almanac.httparchive.org/en/2020/table-of-contents)
-
 {% endblocklink %}
 
 ### CSS 2020
@@ -49,9 +47,7 @@ Bu araştırma, 102 ülkeden 11.492 web tasarımcısının katıldığı bir ank
 Sitedeki veri görselleştirmeleri interaktif bir biçimde yapılmış. O yüzden konuyla doğrudan ilginiz olmasa bile, siteyi ziyaret etmekten zevk alacağınızı düşünüyoruz. Dahası sitenin Türkçe bir versiyonu da mevcut.
 
 {% blocklink %}
-
-[Daha Fazla](https://2020.stateofcss.com/tr-TR/demographics/)
-
+[Daha Fazla](https://2020.stateofcss.com/tr-TR/demographics/){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 ### 2020 Tasarım Araçları Anketi
@@ -60,8 +56,7 @@ Bu araştırma, 4000’in üzerinde tasarımcıyla görüşerek, tasarımcılar�
 
 {% blocklink %}
 
-[Daha Fazla](https://uxtools.co/survey-2020)
-
+[Daha Fazla](https://uxtools.co/survey-2020){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 ## İnternet Trendleri
@@ -78,8 +73,7 @@ Bu araştırma, 4000’in üzerinde tasarımcıyla görüşerek, tasarımcılar�
 
 {% blocklink %}
 
-[Daha Fazla](https://trends.google.com/trends/yis/2020/TR/)
-
+[Daha Fazla](https://trends.google.com/trends/yis/2020/TR/){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 ## Pazarlama
@@ -96,8 +90,7 @@ Bu araştırma, 4000’in üzerinde tasarımcıyla görüşerek, tasarımcılar�
 
 {% blocklink %}
 
-[Daha Fazla](https://www.campaignmonitor.com/resources/guides/email-marketing-benchmarks/)
-
+[Daha Fazla](https://www.campaignmonitor.com/resources/guides/email-marketing-benchmarks/){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 ### Google Dijital Pazarlama Tahminleri
@@ -106,8 +99,7 @@ Google yöneticilerinin 2021’e dair öngörülerini içeren bu yazıda, veri e
 
 {% blocklink %}
 
-[Daha Fazla](https://www.thinkwithgoogle.com/intl/tr-tr/icgoruler/tuketici-trendleri/dijital-pazarlama-trendleri-tahminleri/)
-
+[Daha Fazla](https://www.thinkwithgoogle.com/intl/tr-tr/icgoruler/tuketici-trendleri/dijital-pazarlama-trendleri-tahminleri/){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 ## Sosyal Medya
@@ -118,8 +110,7 @@ Google yöneticilerinin 2021’e dair öngörülerini içeren bu yazıda, veri e
 
 {% blocklink %}
 
-[Daha Fazla](https://www.digitaltrends.com/social-media/stories-takeover-social-media-apps/)
-
+[Daha Fazla](https://www.digitaltrends.com/social-media/stories-takeover-social-media-apps/){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 ### YouTube Trendleri 2020
@@ -134,8 +125,7 @@ YouTube’un 2020 trendlerini video formatında anlattığı bu rapor “Zor Zam
 
 {% blocklink %}
 
-[Daha Fazla](https://www.youtube.com/trends/report/)
-
+[Daha Fazla](https://www.youtube.com/trends/report/){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 ### Twitter Trendleri 2020
@@ -144,8 +134,7 @@ YouTube’un 2020 trendlerini video formatında anlattığı bu rapor “Zor Zam
 
 {% blocklink %}
 
-[Daha Fazla](https://blog.twitter.com/en_us/topics/insights/2020/spending-2020-together-on-twitter.html)
-
+[Daha Fazla](https://blog.twitter.com/en_us/topics/insights/2020/spending-2020-together-on-twitter.html){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 ### Twitter’da Değişim
@@ -154,8 +143,7 @@ Twitter, Periscope’u kapatıyor. Mart 2021’den itibaren Periscope, app mağa
 
 {% blocklink %}
 
-[Daha Fazla](https://wersm.com/twitter-is-shutting-down-periscope/)
-
+[Daha Fazla](https://wersm.com/twitter-is-shutting-down-periscope/){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 {% figure caption: "Twitter Spaces" %}
@@ -168,8 +156,7 @@ Twitter, “Spaces” adını verdiği yeni bir uygulama için deneme yapıyor. 
 
 {% blocklink %}
 
-[Daha Fazla](https://techcrunch.com/2020/12/17/twitter-launches-its-voice-based-spaces-social-networking-feature-into-beta-testing/)
-
+[Daha Fazla](https://techcrunch.com/2020/12/17/twitter-launches-its-voice-based-spaces-social-networking-feature-into-beta-testing/){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 ### Telegram Premium
@@ -178,8 +165,7 @@ Telegram kurucusu Pavel Durov’un açıklamasına göre 500 milyon aktif kullan
 
 {% blocklink %}
 
-[Daha Fazla](https://www.forbes.com/sites/barrycollins/2020/12/23/telegram-to-start-charging-in-2021/?sh=59dbc7dc29a1)
-
+[Daha Fazla](https://www.forbes.com/sites/barrycollins/2020/12/23/telegram-to-start-charging-in-2021/?sh=59dbc7dc29a1){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 ## Haftanın İçerik Üreticisi
@@ -202,8 +188,7 @@ Instagram’da arc4g ismiyle içerik üreten bu şahıs, kısa videolar, 3D sim�
 
 {% blocklink %}
 
-[Daha Fazla](https://www.instagram.com/arc4g/)
-
+[Daha Fazla](https://www.instagram.com/arc4g/){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 Şimdilik bu kadar, haftaya görüşürüz.

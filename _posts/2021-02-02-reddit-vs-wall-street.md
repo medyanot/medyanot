@@ -31,7 +31,7 @@ Bu örnekte olduğu gibi, tasarım tercihlerinin arkasındaki rasyonellere eriş
 Shaping Design’ın yazısında çok kapsamlı, en küçük detayı bile atlamayan tasarım sistemleri örnekleri mevcut. Fakat burada, daha sade bir içeriğe sahip olmasına rağmen, [The Guardian gazetesinin tasarım sayfasına](https://design.theguardian.com) göz atmanızı tavsiye ederiz. Hem eğlenceli hem de kısa ve öğretici bir sayfa. Shaping Design’ın yazısı içinse:
 
 {% blocklink %}
-[Daha Fazla](https://www.editorx.com/shaping-design/article/design-system-examples)
+[Daha Fazla](https://www.editorx.com/shaping-design/article/design-system-examples){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 ## Araştırma
@@ -39,7 +39,7 @@ Shaping Design’ın yazısında çok kapsamlı, en küçük detayı bile atlama
 Google, 2020 Ramazan ayının pandemiye denk gelmesinin yol açtığı tüketici trendlerine eğilen bir yazı dizisi başlattı. Ramazan, Kuzey Afrika ve Ortadoğu bölgesinde online alışverişin en yoğun şekilde yapıldığı dönem olmuş. 2019’a kıyasla, market alışverişi uygulamalarında yüzde 78’lik, e-ticaret uygulamalarında ise yüzde 13’lük artış gözlemlenmiş. Google’ın bir sonraki Ramazan yazısı, Ramazan personaları üzerine olacakmış. Merakla bekliyoruz.
 
 {% blocklink %}
-[Daha Fazla](https://www.thinkwithgoogle.com/intl/en-145/consumer-insights/consumer-trends/4-consumer-shifts-most-digital-ramadan-all-time/)
+[Daha Fazla](https://www.thinkwithgoogle.com/intl/en-145/consumer-insights/consumer-trends/4-consumer-shifts-most-digital-ramadan-all-time/){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 IPSOS’un 2020 yılı için hazırladığı “Türkiye Barometresi Yeni Yıl Raporu” yayınlandı. Rapordan bölümden içeren blog yazısında özellikle toplumun ekonomi konusundaki tutum ve beklentilerine yer verilmiş. Raporun öne çıkan noktalarından biri gençlerin, daha net tabirle Z kuşağının, Türkiye’nin durumundan büyük oranda memnun olmaması. 
@@ -53,19 +53,19 @@ IPSOS’un 2020 yılı için hazırladığı “Türkiye Barometresi Yeni Yıl R
 Türkiye genelinde ülkenin durumundan çok memnun veya memnun olanların oranı yüzde 30 olarak açıklandı. 18-24 yaş grubunda ise memnuniyet oranı yüzde 20 ile en düşük seviyede gerçekleşti. Yakın gelecekte ülkenin durumunun “çok daha iyi” veya “daha iyi” olacağını düşünenlerin toplam oranıysa yüzde 24 oldu. 18-24 yaş grubunda bu oran yüzde 18, 25-34 yaş grubunda ise yüzde 17 olarak bulundu.
 
 {% blocklink %}
-[Daha Fazla](https://www.ipsos.com/tr-tr/turkiye-barometresi-yeni-yil-raporu)
+[Daha Fazla](https://www.ipsos.com/tr-tr/turkiye-barometresi-yeni-yil-raporu){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 Socialbakers, sağlık ve ilaç sektöründe faaliyet gösteren büyük firmaların sosyal medya performansına dair bir rapor yayınladı. Raporda, firmaların Facebook’taki etkileşimlerini %100, Twitter’daki etkileşimlerini ise %255 oranında artırdığı belirtiliyor. 💊
 
 {% blocklink %}
-[Daha Fazla](https://www.socialbakers.com/web-api/wp/study/healthcare-social-media?studyId=32622)
+[Daha Fazla](https://www.socialbakers.com/web-api/wp/study/healthcare-social-media?studyId=32622){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 Qualtrics, pazar araştırması trendleri üzerine bir rapor yayınladı. Raporda araştırmacıların 2021’de önceliği olacak başlıkların veri ve araştırmayı merkezileştirmek, içgörü elde etme süreçlerini hızlandırmak ve araştırma süreçlerinin otomasyonu olduğu görülüyor. Pazar araştırmacılarının sahip olması gereken nitelikler başlığında ise istatistiksel analiz, veri görselleştirmesi ve farklı veri kaynaklarını entegre etme becerisi başı çekiyor.
 
 {% blocklink %}
-[Daha Fazla](https://success.qualtrics.com/rs/542-FMF-412/images/2021%20Market%20Research%20Trends%20report_V4.pdf)
+[Daha Fazla](https://success.qualtrics.com/rs/542-FMF-412/images/2021%20Market%20Research%20Trends%20report_V4.pdf){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 {% figure caption: "Mintel güzellik trendleri raporu" %}
@@ -77,7 +77,7 @@ Qualtrics, pazar araştırması trendleri üzerine bir rapor yayınladı. Rapord
 Mintel, 2021 güzellik ve kişisel bakım trendlerine dair öngörülerini yayınladı. Rapor, stres ve endişeyle mücadele etmek için güzellik rutinlerinin uygulanmasını ve ürünlerin markalarından ziyade fonksiyon ve amaçlarının daha değerli sayılacağını vurguluyor. Son bahsedilen trend, tüketimde tutumluluk ve asgari ihtiyaçlara dönük yönelimin güzellik sektörüne de yansıyacağını ifade ediyor.
 
 {% blocklink %}
-[Daha Fazla](https://downloads.mintel.com/private/DAETW/files/855303/)
+[Daha Fazla](https://downloads.mintel.com/private/DAETW/files/855303/){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 ## Pazarlama
@@ -91,7 +91,7 @@ Mintel, 2021 güzellik ve kişisel bakım trendlerine dair öngörülerini yayı
 Coca Cola’nın İngiltere pazarını hedefleyen web sitesinde kişiselleştirilmiş kola kutuları tasarlayabiliyorsunuz. Yeni yıl kararlarının (resolutions) seçilebileceği kutularda, genelde iyimser mesajlar verilmeye çalışılmış. Coca Cola’nın, tüketicilerin yeni yıl kararlarını yazabilmeleri için logosunu kaldırması cesur bir seçim olmuş.
 
 {% blocklink %}
-[Daha Fazla](https://store.coca-cola.co.uk/whats-your-resolution.html)
+[Daha Fazla](https://store.coca-cola.co.uk/whats-your-resolution.html){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 Brand Finance, 2021’in en değerli 500 şirketini açıkladı. Apple, 2016’dan beri ilk defa Amazon ve Google’ı geçerek dünyanın en değerli markası oldu. Yazı, teknolojik yeniliklere hızlı adapte olan markaların yüksek büyüme oranlarına eriştiğini belirtiyor. Uber, marka değerindeki %34’lük artışla 82’inci sırada yer alırken, Microsoft %20, Adobe %25 ve Salesforce %29 büyüme kaydetti.
@@ -99,13 +99,13 @@ Brand Finance, 2021’in en değerli 500 şirketini açıkladı. Apple, 2016’d
 Havacılık ve otelcilik sektörlerinde ise büyük bir gerileme yaşandı. Boeing, Airbus, American Airlines gibi şirketlerin marka değeri %40 civarında azaldı. Hilton yüzde 30 değer kaybederken, Marriott marka değerinin yarısından fazlasını yitirdi.
 
 {% blocklink %}
-[Daha Fazla](https://brandirectory.com/rankings/global/)
+[Daha Fazla](https://brandirectory.com/rankings/global/){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 Hepsiburada, kitap kategorisindeki 10 milyonun üzerindeki satışa dair verileri açıkladı. Buna göre, 2020’de en çok tercih edilen kitaplar Varol Yaşaroğlu’nun _Kral Şakir 8: Macera Adası_, Jose Mauro de Vasconcelos’un _Şeker Portakalı_ ve George Orwell’in _Hayvan Çiftliği_ oldu. İlk iki sıradaki kitapların çocuk kitapları olması enteresan. 📗
 
 {% blocklink %}
-[Daha Fazla](https://digitalage.com.tr/hepsiburada-kitap-kategorisi-ozelinde-2020-yili-trendlerini-acikladi/)
+[Daha Fazla](https://digitalage.com.tr/hepsiburada-kitap-kategorisi-ozelinde-2020-yili-trendlerini-acikladi/){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 ## Reklam Dünyası
@@ -121,7 +121,7 @@ Heinz, dünyanın dört köşesinden insanlardan bir kağıda “ketçap çizmel
 Yeni Rakı'dan "Burası İstanbul" reklamı. Ağlattı.
 
 {% blocklink %}
-[Daha Fazla](https://www.youtube.com/watch?v=0I9nWTnNK-w)
+[Daha Fazla](https://www.youtube.com/watch?v=0I9nWTnNK-w){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 ## Sosyal Medya
@@ -129,13 +129,13 @@ Yeni Rakı'dan "Burası İstanbul" reklamı. Ağlattı.
 Animalz adlı blogtan viral içerik üretmenin sırları üzerine kullanışlı bir yazı.
 
 {% blocklink %}
-[Daha Fazla](https://www.animalz.co/blog/viral-content/)
+[Daha Fazla](https://www.animalz.co/blog/viral-content/){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 SocialPubli adlı şirketin araştırmasına göre pazarlamacıların %88’i influencer marketing için 100 bin ve altında, %35’i ise 10 bin ve altında takipçiye sahip influencerları tercih ediyor. Instagram, influencer marketing için birinci tercih olmaya devam ediyor.
 
 {% blocklink %}
-[Daha Fazla](https://www.socialmediatoday.com/news/10-influencer-marketing-stats-for-2021-infographic/594220/)
+[Daha Fazla](https://www.socialmediatoday.com/news/10-influencer-marketing-stats-for-2021-infographic/594220/){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 ### Sosyal Medyadan Kısa Kısa
@@ -167,19 +167,19 @@ SocialPubli adlı şirketin araştırmasına göre pazarlamacıların %88’i in
 Son günlerde Reddit’in GameStop adlı bir oyun şirketinin hisse değerlerine yaptığı müdahale konuşuluyor. Wall Street satıcıları GameStop’un hisse değerinin düşeceğine ve şirketin 2023’ten önce kar elde edemeyeceğine yatırım yaparken, r/WallStreetBets adlı subredditte organize olan Reddit kullanıcıları birlikte yatırım yaptıklarında GameStop’un hisse değerini beklenenin çok ötesinde artırabileceklerini fark ediyorlar. Konu hakkında kapsamlı bir yazı için:
 
 {% blocklink %}
-[Daha Fazla](https://www.vox.com/the-goods/22249458/gamestop-stock-wallstreetbets-reddit-citron)
+[Daha Fazla](https://www.vox.com/the-goods/22249458/gamestop-stock-wallstreetbets-reddit-citron){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 Büyük yatırımcıların çıkarlarını koruyan Robinhood (ironiye gel), Redditçilerin hamlesinin ardından platformunda hisse alımlarını durdurdu.
 
 {% blocklink %}
-[Daha Fazla](https://webrazzi.com/2021/01/29/reddit-kullanicilari-wall-street-e-karsi-ayaklanmanin-2-perdesi-basladi/)
+[Daha Fazla](https://webrazzi.com/2021/01/29/reddit-kullanicilari-wall-street-e-karsi-ayaklanmanin-2-perdesi-basladi/){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 Sosyal medyada hızla yayılan olay, Mashable’ın bu yazıda topladığı birçok meme’in türemesini sağladı.
 
 {% blocklink %}
-[Daha Fazla](https://mashable.com/article/reddit-wallstreetbets-gamestop-memes/)
+[Daha Fazla](https://mashable.com/article/reddit-wallstreetbets-gamestop-memes/){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 {% figure caption: "Sproutsocial tarafından gerçekleştirilen Gamestop sosyal dinleme analizi hisse fiyatları ve Twitter aktivitesi arasındaki ilişkiyi gösteriyor." %}
@@ -191,7 +191,7 @@ Sosyal medyada hızla yayılan olay, Mashable’ın bu yazıda topladığı bir�
 Sproutsocial platformu da sosyal dinleme verilerini kullanarak GameSpot’un hızla büyüyen popülerliğini analiz ediyor.
 
 {% blocklink %}
-[Daha Fazla](https://sproutsocial.com/insights/gamestop-stock-social-media/)
+[Daha Fazla](https://sproutsocial.com/insights/gamestop-stock-social-media/){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 ### Haftanın İçerik Üreticisi
@@ -205,7 +205,7 @@ Sproutsocial platformu da sosyal dinleme verilerini kullanarak GameSpot’un hı
 Reddit’ten bu kadar bahsetmişken haftanın beğenilen içerikçilerini de oradan seçelim. Bu aslında bir subreddit, yahut Reddit’in milyon tane alt forumundan biri. Diğer forumlardan farklılaştığı noktalar ise tarihin herhangi bir döneminden (Son 20 yıl hariç) soruların müthiş bir titizlikle ve kaynaklara referans gösterilerek yanıtlanması. Daha önemlisi ve ilginci, diğer forumlara kıyasla bu forumun bir “tartışma forumu” olmaması. Forum moderatörleri açıkça doğru bilginin paylaşılmasını, tartışmaya tercih ediyorlar. Bu ise sosyal medyanın genel haline az bulunur bir tezat oluşturuyor. Eğer, sorulan soruya bilimsel bir yanıt vermezseniz, yanıtınız admin tarafından siliniyor.
 
 {% blocklink %}
-[Daha Fazla](https://www.reddit.com/r/AskHistorians/)
+[Daha Fazla](https://www.reddit.com/r/AskHistorians/){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 Bir dahaki bültene kadar adios! 🦊

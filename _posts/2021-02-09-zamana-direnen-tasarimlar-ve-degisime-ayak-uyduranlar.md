@@ -20,7 +20,7 @@ description: "Bu haftaki bültenimizde önce biraz nostaljik takılıp, sonra T�
 Henüz Galatasaray Lisesi’nde öğrenciyken Galatasaray’ın asırlık logosunu tasarlayan Ayetullah Emin’in ve logonun ilk sahneye çıktığı yer olan mecmuaları Kara Kedi’nin hikayesi. Hüzünlü ve güzel bir öykü.
 
 {% blocklink %}
-[Daha Fazla](https://manifold.press/logonun-hendesi-cizgileri-ve-muayyen-olculeri)
+[Daha Fazla](https://manifold.press/logonun-hendesi-cizgileri-ve-muayyen-olculeri){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 {% figure caption: "Ayetullah Emin'in Galatasaray logosu eksizleri" %}
@@ -32,7 +32,7 @@ Henüz Galatasaray Lisesi’nde öğrenciyken Galatasaray’ın asırlık logosu
 İBB ve ATÖLYE’nin öncülük ettiği “İstanbul Tasarım Ekosistemi Haritası”, tasarım alanında çalışan kişi, kurum ve ajansların ortak çalışmalarını motive etmeye çalışan bir ağı hayata geçirmeye çalışıyor. Oluşturulacak veritabanı sayesinde, bireyler ve organizasyonlar arası iletişimin ve ortak üretimin güçlendirilmesi hedefleniyor. Bu haritada yer almak için başvurular [şuradan](https://istanbuldesignmap.com "Istanbul Design Map"). Girişime dair daha fazla bilgi için:
 
 {% blocklink %}
-[Daha Fazla](https://bigumigu.com/haber/istanbul-tasarim-ekosistemi-haritasinda-yerinizi-alin/)
+[Daha Fazla](https://bigumigu.com/haber/istanbul-tasarim-ekosistemi-haritasinda-yerinizi-alin/){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 ## Pazarlama
@@ -40,25 +40,25 @@ Henüz Galatasaray Lisesi’nde öğrenciyken Galatasaray’ın asırlık logosu
 Twitter, 2020’de mecrada beliren en iyi pazarlama kampanyalarını seçti. Ben & Jerry, Uber, Westworld gibi markaların boy gösterdiği seçkide, “değer yaratma” odaklı kampanyalar ve pandemi süresinde küçük işletmelere desteği hedefleyen çalışmalar öne çıkıyor. Uber sürücülerinin çalışan yerine sözleşmeli işçi statüsünde sayılması yıllardan beri tartışmalı bir mevzu olmasına rağmen, markanın sosyal mesafeyi seyahate tercih etmesi ve böylece “karı önemsemeyen” bir duruş sergilemeye özen göstermesi enteresan olmuş.
 
 {% blocklink %}
-[Daha Fazla](https://marketing.twitter.com/en/success-stories/best-of-tweets-2020)
+[Daha Fazla](https://marketing.twitter.com/en/success-stories/best-of-tweets-2020){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 Bu yazıda, Google, markaların pazarlama stratejilerinden bazılarını detaylandırıyor. Samsung’un ürünlerini kullanan üç personaya göre kişiselleştirmiş reklamlar yayınlaması veya Avon’un güzellik influencerları ile ortaklığı gibi stratejilerin etkileşim ve satın alımlar üzerinde büyük etkisinin olduğu anlatılıyor.
 
 {% blocklink %}
-[Daha Fazla](https://www.thinkwithgoogle.com/marketing-strategies/video/youtube-works-awards-personalization/)
+[Daha Fazla](https://www.thinkwithgoogle.com/marketing-strategies/video/youtube-works-awards-personalization/){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 Benzer bir yazı da Google Türkiye tarafından yayınlandı. En çok izlenen YouTube reklamlarının arkasındaki stratejik yaklaşımı inceleyen yazı, tüketici, kreatif ve mesaj bağlamlarında tavsiyelerde bulunuyor.
 
 {% blocklink %}
-[Daha Fazla](https://www.thinkwithgoogle.com/intl/tr-tr/pazarlama-stratejileri/video/2020-en-iyi-youtube-reklamlari/)
+[Daha Fazla](https://www.thinkwithgoogle.com/intl/tr-tr/pazarlama-stratejileri/video/2020-en-iyi-youtube-reklamlari/){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 Twitter, dünyanın çeşitli bölgeleri için özel olarak hazırlanmış pazarlama takvimlerini yayınladı. 2021 yılındaki özel günleri ve büyük etkinliklerin tarihlerini içeren takvimlerden MENA bölgesi için hazırlanan takvim için:
 
 {% blocklink %}
-[Daha Fazla](https://business.twitter.com/en/resources/twitter-marketing-calendar/mena.html)
+[Daha Fazla](https://business.twitter.com/en/resources/twitter-marketing-calendar/mena.html){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 ## Araştırma
@@ -72,19 +72,19 @@ Twitter, dünyanın çeşitli bölgeleri için özel olarak hazırlanmış pazar
 Twitter’ın araştırmasına göre 2020’de K-Pop üzerine 6,7 milyar tweet atılmış. Tweet sayısı bakımından Güneydoğu Asya ülkeleri Endonezya, Tayland ve Güney Kore ilk 3 sırada. Tweet atan kullanıcı sayısı bakımından ise Japonya ve ABD ilk 2 sırayı elde etmiş. Türkiye tweet sayısı bakımından 19., kullanıcı sayısı bakımından ise 12. sırada. 🎤
 
 {% blocklink %}
-[Daha Fazla](https://blog.twitter.com/en_us/topics/insights/2021/kpoptwitter-achieves-new-record-of-6-billion-tweets-globally-in-2020.html)
+[Daha Fazla](https://blog.twitter.com/en_us/topics/insights/2021/kpoptwitter-achieves-new-record-of-6-billion-tweets-globally-in-2020.html){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 Socialinsider adlı site, Instagram, Twitter ve Facebook’ta 22 milyondan fazla sosyal medya içeriğini analiz ettiği raporunu sunuyor. Markaların içeriklerine odaklanan araştırma, 35 farklı sektörde etkileşim ve içerik türüne dair benchmarklar sunuyor. Çok faydalı bir amme hizmeti.
 
 {% blocklink %}
-[Daha Fazla](https://www.socialinsider.io/blog/social-media-industry-benchmarks/)
+[Daha Fazla](https://www.socialinsider.io/blog/social-media-industry-benchmarks/){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 The Drum, oyuncu personaları üzerine detaylı bir sunumu YouTube kanalından paylaştı.
 
 {% blocklink %}
-[Daha Fazla](https://www.youtube.com/watch?v=RCvD1JBIasM)
+[Daha Fazla](https://www.youtube.com/watch?v=RCvD1JBIasM){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 ## Etkinlik
@@ -98,7 +98,7 @@ The Drum, oyuncu personaları üzerine detaylı bir sunumu YouTube kanalından p
 Mediacat, 2021 yılının trendleri üzerine konuşmak üzere sektörün önde gelen akademisyen, araştırmacı ve iş insanlarını canlı yayın platformunda bir araya getiriyor. 18 Şubat’ta gerçekleşecek olan yayını izlemek için [buradan](https://live.mediacat.com) kayıt olabilirsiniz. Daha fazla bilgi için:
 
 {% blocklink %}
-[Daha Fazla](https://digitalage.com.tr/mediacat-live-2021-trendleri/)
+[Daha Fazla](https://digitalage.com.tr/mediacat-live-2021-trendleri/){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 ## Reklam Dünyası
@@ -112,13 +112,13 @@ Mediacat, 2021 yılının trendleri üzerine konuşmak üzere sektörün önde g
 Marketing Türkiye, Türkiye’den büyük markaların ilk reklam çalışmalarını sergilediği bir yazı yayınladı.
 
 {% blocklink %}
-[Daha Fazla](https://www.marketingturkiye.com.tr/haberler/iste-dev-markalarin-ilk-reklam-calismalari/)
+[Daha Fazla](https://www.marketingturkiye.com.tr/haberler/iste-dev-markalarin-ilk-reklam-calismalari/){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 Snapchat, “Snap Originals” adıyla bir kısa film kampanyasının startını verdi. Mobil ekran boyutlarında sunulan videolardan ilki, konuya damardan girerek tartışma yaratan sporcu Colin Kaepernick’i ekrana taşıyor.
 
 {% blocklink %}
-[Daha Fazla](https://www.youtube.com/watch?v=q8P0QDUMTBw)
+[Daha Fazla](https://www.youtube.com/watch?v=q8P0QDUMTBw){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 {% figure caption: "BBC'nin 'Mükemmel Bir Gezegen' reklam çalışması" %}
@@ -130,7 +130,7 @@ Snapchat, “Snap Originals” adıyla bir kısa film kampanyasının startını
 BBC, “A Perfect Planet” adlı belgeseli için, doğanın tahrip edilişine vurgu yapan bir reklam kampanyası hazırladı. “Mükemmel bir gezegen… ama ne zamana kadar?” sloganıyla hareket eden reklam doğanın güzel yönlerini ve yaratılan tahribatı yan yana gösteriyor.
 
 {% blocklink %}
-[Daha Fazla](https://www.thedrum.com/news/2021/02/03/perfect-planet-why-the-bbc-hijacked-its-own-billboard-setting-it-fire)
+[Daha Fazla](https://www.thedrum.com/news/2021/02/03/perfect-planet-why-the-bbc-hijacked-its-own-billboard-setting-it-fire){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 Doğuş Çay’dan serçe parmak kaldırmalı bir reklam filmi. Fikir çok yenilikçi değil ama hedefine ulaşıyor sanırız.
@@ -152,7 +152,7 @@ Doğuş Çay’dan serçe parmak kaldırmalı bir reklam filmi. Fikir çok yenil
 Google arama sonuçları sayfasında çıkan siteler hakkında daha fazla bilgi edinmeyi sağlayan yeni bir uygulama deniyor. Arama sonucunun sağındaki üç noktaya tıklandığında, sitenin (eğer varsa) Wikipedia sayfasından edinilmiş bilgiler ve sitenin güvenli olup olmadığı görüntülenebiliyor. Bu uygulama şu an için sadece ABD pazarında geçerli.
 
 {% blocklink %}
-[Daha Fazla](https://blog.google/products/search/about-search-results/)
+[Daha Fazla](https://blog.google/products/search/about-search-results/){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 ## Turizm
@@ -160,7 +160,7 @@ Google arama sonuçları sayfasında çıkan siteler hakkında daha fazla bilgi 
 Airbnb’nin Amerikan toplumu üzerinde yaptığı araştırmaya göre, 2021 “Anlamlı Seyahat”in yılı olacak. Araştırmaya göre, katılımcıların yüzde 51’i seyahat için küçük, izole destinasyonları tercih ediyor. Yüzde 24’ü ise insanlarla dolu enerjik ortamlarda bulunmak istiyor. Ayrıca, uzak mesafelere uçmaktansa, yakın ve arabayla erişilebilecek lokasyonlar tercih edilecek. Seyahat harcamaları, katılımcıların öncelikleri arasında yer almaya devam ediyor. Raporda öne çıkan bir diğer nokta ise, uzaktan çalışmanın yaygınlaşması ve normalleşmesi ile iş seyahatlerinin eskisi gibi olmayacağı. ✈️
 
 {% blocklink %}
-[Daha Fazla](https://news.airbnb.com/2021-travel/)
+[Daha Fazla](https://news.airbnb.com/2021-travel/){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 ## Sosyal Medya
@@ -168,7 +168,7 @@ Airbnb’nin Amerikan toplumu üzerinde yaptığı araştırmaya göre, 2021 “
 BoomSonar ve Marketin Türkiye’nin ortaklaşa düzenlediği “Social Media Awards Turkey” için son başvuru tarihi 31 Mart. Ödüller 24 ayrı kategoride sahiplerini bulacak. 🏆
 
 {% blocklink %}
-[Daha Fazla](https://www.socialmediaawardsturkey.com/kategoriler/)
+[Daha Fazla](https://www.socialmediaawardsturkey.com/kategoriler/){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 ### Sosyal Medyadan Kısa Kısa
@@ -196,7 +196,7 @@ BoomSonar ve Marketin Türkiye’nin ortaklaşa düzenlediği “Social Media Aw
 Dünyaca ünlü Popular Science dergisinin Türkiye Instagram hesabı olan @popularscienceturkiye her gün okunması oldukça zevkli bilimsel bilgi paylaşımları yapıyor. Instagram'da eğlenirken bir yandan da bir şeyler öğrenmek fena olmaz diyenlerin mutlaka takip etmesi gereken bir sayfa.
 
 {% blocklink %}
-[Daha Fazla](https://www.instagram.com/popularscienceturkiye/)
+[Daha Fazla](https://www.instagram.com/popularscienceturkiye/){:target="_blank"}{:rel="noopener noreferrer"}
 {% endblocklink %}
 
 *****
