@@ -16,7 +16,7 @@ description: "TikTok, Türkiye'den markaların daha aktif varlık gösterdiği b
 ## Tasarım
 
 {% figure caption: "The Archive of Public Protests web sitesi" %}
-<div class="ratio-box" style="padding-bottom: 51.2638231%">
+<div class="ratio-box" style="padding-bottom: 51.25%">
 <img alt="The Archive of Public Protests web sitesi" class="lazyload" data-src="/assets/img/content/app-website.jpg">
 </div>
 {% endfigure %}
