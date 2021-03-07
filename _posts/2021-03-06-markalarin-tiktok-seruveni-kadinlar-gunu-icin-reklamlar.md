@@ -131,7 +131,7 @@ Skoda’nın “hayat kurtaran” kapı sensörü teknolojisi hakkında eğlence
 
 ### Kadınlar Günü için Reklamlar
 
-Meyhanedeyiz.biz’in Devam Evgar’ın başrolünde olduğu Kadınlar Günü reklamı. “Yüzleşme” adındaki reklam, faili olduğumuz cinsiyetçilikler konusunda kendimizle yüzleşmeye davet ediyor.
+Meyhanedeyiz.biz’in Demet Evgar’ın başrolünde olduğu Kadınlar Günü reklamı. “Yüzleşme” adındaki reklam, faili olduğumuz cinsiyetçilikler konusunda kendimizle yüzleşmeye davet ediyor.
 
 {% blocklink %}
 [Daha Fazla](https://www.youtube.com/watch?v=EOD7xapz1IY){:target="_blank"}{:rel="noopener noreferrer"}
