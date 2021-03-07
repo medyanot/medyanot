@@ -1,17 +1,26 @@
 {
     "url":"{{ page.url | absolute_url }}",
-    "image": {
+    {%- assign thumb_image = page.image -%}
+    {%- assign t = thumb_image | split: '.' -%}
+    "thumbnailUrl": "{{ site.url }}/{{ t[0] }}-thumb.{{ t[1] }}",
+    "image": [{
         "@type": "ImageObject",
         "url": "{{ site.url }}/{{ page.image }}",
         "width":"1600",
         "height":"900"
-    },
+    }, {
+        "@type": "ImageObject",
+        "url": "{{ site.url }}/{{ t[0] }}-thumb.{{ t[1] }}",
+        "width":"900",
+        "height":"900"
+    }],
     "publisher": {
         "@type": "Organization",
         "name": "{{ site.title }}",
         "sameAs": [
             "{{ site.url }}",
-            "https://twitter.com/Medyanot1"
+            "https://twitter.com/Medyanot1",
+            "https://www.instagram.com/medyanotblog/"
         ],
         "logo":{
           "@type":"ImageObject",
@@ -33,6 +42,6 @@
         "@type":"WebPage",
         "@id":"{{ page.url | absolute_url }}"
     },
-    "@type":"BlogPosting",
+    "@type":"NewsArticle",
     "@context":"https://schema.org"
 }

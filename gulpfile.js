@@ -160,6 +160,10 @@ gulp.task('build:images:featured', function(done) {
       height: 540, 
       rename: { suffix: '-960' },
     }, {
+      width: 900,
+      height: 900,
+      rename: { suffix: '-thumb' },
+    }, {
       width: 1280,
       height: 720,
       rename: { suffix: '-1280' },
