@@ -1,0 +1,16 @@
+<a href="{{ post.url }}">
+<figure class="feature-img">
+  {%- assign feature_image = post.image -%}
+  <div class="mediabox">
+      {%- assign f = feature_image | split: '.' -%}
+      <img alt="" id="featured" data-sizes="auto" class="lazyload" 
+              src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+              data-lowsrc="/{{ f[0] }}-lq.{{ f[1] }}"
+              data-srcset="/{{ f[0] }}-320.{{ f[1] }} 320w,
+                           /{{ f[0] }}-640.{{ f[1] }} 640w,
+                           /{{ f[0] }}-960.{{ f[1] }} 960w,
+                           /{{ f[0] }}-1280.{{ f[1] }} 1280w,
+                           /{{ f[0] }}.{{ f[1] }} 1600w" />
+  </div>
+</figure>
+</a>

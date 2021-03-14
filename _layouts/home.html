@@ -8,6 +8,7 @@
         {%- for post in paginator.posts -%}
         <article class="archive-post">
             {%- if post == paginator.posts.first -%}
+            {%- include home-image.html -%}
             <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
             {%- else -%}
             <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
