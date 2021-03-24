@@ -177,6 +177,7 @@ gulp.task('build:images:featured', function(done) {
     withMetadata: false,
     quality: 75,
     progressive: true,
+    optimiseScans: true,
     errorOnUnusedConfig: false
   }))
       .pipe(size())

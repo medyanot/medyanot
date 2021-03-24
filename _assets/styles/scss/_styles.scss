@@ -95,7 +95,7 @@ h3 {
 }
 
 .tag-title {
-    margin-bottom: 2rem;
+    margin: 2em 0;
     font-size: $fsp;
     color: var(--grey-4);
     span{
@@ -302,6 +302,7 @@ figcaption {
     height: 0;
     width: 100%;
     padding-bottom: 56.25%;
+    overflow:hidden;
 }
 
 .mediabox-img.ls-blur-up-is-loading,
@@ -371,7 +372,7 @@ figcaption {
     .text-area {
         display: block;
         max-width: 32em;
-        margin: 2em auto 3em;
+        margin: 0 auto 3em;
         .post-list {
             .archive-post {
                 margin-bottom: 4rem;
@@ -389,6 +390,7 @@ figcaption {
 
 .post-header h1 {
     margin-bottom: 0;
+    margin-top: 2rem;
 }
 
 h1.page-title {
