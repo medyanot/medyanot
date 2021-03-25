@@ -2,7 +2,7 @@
   {%- assign feature_image = page.image -%}
   <div class="mediabox">
       {%- assign f = feature_image | split: '.' -%}
-      <img alt="" id="featured" height="auto" width="100%"
+      <img alt="" id="featured" height="540" width="960"
               src="/{{ f[0] }}-960.{{ f[1] }} 960w"
               srcset="/{{ f[0] }}-320.{{ f[1] }} 320w,
                      /{{ f[0] }}-640.{{ f[1] }} 640w,

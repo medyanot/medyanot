@@ -303,6 +303,10 @@ figcaption {
     width: 100%;
     padding-bottom: 56.25%;
     overflow:hidden;
+    img {
+        width: 100%;
+        height: auto;
+    }
 }
 
 .mediabox-img.ls-blur-up-is-loading,
@@ -859,21 +863,14 @@ footer {
     justify-content: space-between;
     align-items: center;
     .owner {
-        span {
-            display: flex;
-            align-content:flex-end;
-            flex-flow: row nowrap;
-            color: #ccc;
-            font-size: .9em;
-            svg {
-                fill: #F57D27;
-                height: 1.1em;
-                width: auto;
-                margin: 0 0.4em 0 .35em;
-                transition: .2s fill;
-                &:hover {
-                    fill: #FF6C00;
-                }
+        svg {
+            fill: #F57D27;
+            height: 16px;
+            width: 77px;
+            margin: 0 0.4em 0 .35em;
+            transition: .2s fill;
+            &:hover {
+                fill: #FF6C00;
             }
         }
     }
