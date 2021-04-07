@@ -1,8 +1,8 @@
 title:            "Medyanot"
 tagline:          "Dijital Medya Hakkında Her Şey"
 description:      "Digital Medya Hakkında Haberler, Makaleler, Analizler."
-canonical:        "https://medyanot.netlify.app"
-url: "https://medyanot.netlify.app" 
+canonical:        "https://medyanot.com"
+url: "https://medyanot.com" 
 logo: "/icons/avatar.png"
 locale: "tr_TR"
 
