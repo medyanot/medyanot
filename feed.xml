@@ -60,7 +60,7 @@ layout: null
         {%- endif -%}
         {{ post_image_html | markdownify | xml_escape }}
 
-        {{ post.content | strip | xml_escape | replace: "/assets/img/content/", "https://medyanot.com/assets/img/content/" | replace: "padding-bottom:", "width: 100%; max-width:600px; bottom:" | replace: "data-src=", "src=" }}
+        {{ post.content | strip | xml_escape | replace: "/assets/img/content/", "https://www.medyanot.com/assets/img/content/" | replace: "padding-bottom:", "width: 100%; max-width:600px; bottom:" | replace: "data-src=", "src=" }}
 
         {%- capture post_footer -%}<a href="{{ post.url | absolute_url }}" rel="nofollow">{{ post.title }}</a> ilk olarak {{ site.title }}'te yayınlandı.{%- endcapture -%}
         {{ post_footer | markdownify | xml_escape }}
