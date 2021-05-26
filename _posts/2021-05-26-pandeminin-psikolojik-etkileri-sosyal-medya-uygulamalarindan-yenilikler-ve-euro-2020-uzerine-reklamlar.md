@@ -212,7 +212,21 @@ Görsel dünyanızı genişletmek ve alışık olduklarınızı alışık olmad�
 
 ## Tasarım
 
-Google’ın 2014’de hayata geçirdiği [Material Design](https://material.io/design) bugün belki de tasarım sistemlerinin en ünlüsü. Fakat her tasarım sisteminin karşılaştığı tehlike, zamanla sıradanlaşmak, sıkıcı ve yaratıcılığı sınırlayan bir şablon haline gelmek. Tam da bu öngörüden hareket eden Google, yakında piyasaya sürülecek Android 12 ile birlikte yeni ve esnek bir tasarım sistemine geçiş yapıyor: Material You. İsminden de anlaşılabileceği gibi __Material You__, kullanıcıya her zamankinden daha fazla customization opsiyonu sunuyor. Sade ve ortak bir tasarım dilinin “yapısıyla” kullanıcı tercihlerinin gerektirdiği esneklik böylece buluşmuş oluyor.
+{% figure caption: "Google'dan yeni Material You" %}
+<div class="ratio-box" style="padding-bottom: 56.1666667%;">
+ <video
+	class="lazyload"
+	preload="none"
+	muted=""
+    loop=""
+	data-autoplay="True"
+	data-poster="/assets/img/content/material-you-ph.jpg"
+	src="/assets/img/content/material-you.mp4">
+</video>
+</div>
+{% endfigure %}
+
+Google’ın 2014’de hayata geçirdiği [Material Design](https://material.io/design){:target="_blank"}{:rel="noopener noreferrer"} bugün belki de tasarım sistemlerinin en ünlüsü. Fakat her tasarım sisteminin karşılaştığı tehlike, zamanla sıradanlaşmak, sıkıcı ve yaratıcılığı sınırlayan bir şablon haline gelmek. Tam da bu öngörüden hareket eden Google, yakında piyasaya sürülecek Android 12 ile birlikte yeni ve esnek bir tasarım sistemine geçiş yapıyor: Material You. İsminden de anlaşılabileceği gibi [Material You](https://material.io/blog/announcing-material-you){:target="_blank"}{:rel="noopener noreferrer"}, kullanıcıya her zamankinden daha fazla customization opsiyonu sunuyor. Sade ve ortak bir tasarım dilinin “yapısıyla” kullanıcı tercihlerinin gerektirdiği esneklik böylece buluşmuş oluyor.
 
 {% blocklink %}
 [Daha Fazla](https://www.fastcompany.com/90637339/see-googles-expressive-new-design-language-built-by-billions-of-users){:target="_blank"}{:rel="noopener noreferrer"}
@@ -365,7 +379,7 @@ Global Web Index’in yayınladığı bir raporda, evden çalışmanın pandemi 
 
 ## Reklam Dünyası
 
-{% figure caption: "Inter yeni marka kimliği" %}
+{% figure caption: "Heineken: Finally Together" %}
 <div class="ratio-box" style="padding-bottom: 56.2182741%">
 <iframe class="lazyload" width="788" height="443" data-src="https://www.youtube.com/embed/0Sxqrrr5JQo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
@@ -373,7 +387,7 @@ Global Web Index’in yayınladığı bir raporda, evden çalışmanın pandemi 
 
 1994 yılından bu yana UEFA Şampiyonlar Ligi'nin sponsoru olan bira markası Heineken'in paylaşımında, Bu kadar uzun süre ayrı kaldıktan sonra, bu UEFA EURO 2020 ™ ekstra özel bir duyguya sahip, nihayet birlikteyiz…
 
-{% figure caption: "Inter yeni marka kimliği" %}
+{% figure caption: "Greenpeace: Wasteminster" %}
 <div class="ratio-box" style="padding-bottom: 56.2182741%">
 <iframe class="lazyload" width="788" height="443" data-src="https://www.youtube.com/embed/Hr6RqGg6ExE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
@@ -387,7 +401,7 @@ Greenpeace'ten İngiltere'nin atık ihracatının korkutucu boyutunu gözler ön
 
 Bu güçlü film, hükümetin geri dönüştürüldüğünü iddia ettiği fakat gerçekte başka ülkelere ihraç edilen plastikler hakkındaki şok edici gerçeği ortaya koyuyor” sözleriyle anlatıyor.
 
-{% figure caption: "Inter yeni marka kimliği" %}
+{% figure caption: "IKEA'dan robotlu reklam" %}
 <div class="ratio-box" style="padding-bottom: 56.2182741%">
 <iframe class="lazyload" width="788" height="443" data-src="https://www.youtube.com/embed/FohdCaUQNPQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
@@ -395,7 +409,7 @@ Bu güçlü film, hükümetin geri dönüştürüldüğünü iddia ettiği fakat
 
 Gezegeni kurtarmak için eko-aşırılıklara gitmek, yapılacak harika bir şey ancak çoğumuz için, yapılması kolay bir şey değil. Herkes daha sürdürülebilir yaşamak için birkaç kolay küçük değişiklik yaparsa, bunun çok daha büyük bir etkisi olacaktır. Ikea, tuhaf ve yaratıcı çalışma ile iyi tasarlanmış depolamanın basit neşesi gibi, genellikle gözden kaçabilecek şeylere dikkat çekti.
 
-{% figure caption: "Inter yeni marka kimliği" %}
+{% figure caption: "iPhone kullanıcı gizliliği" %}
 <div class="ratio-box" style="padding-bottom: 56.2182741%">
 <iframe class="lazyload" width="788" height="443" data-src="https://www.youtube.com/embed/8w4qPUSG17Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
