@@ -124,6 +124,26 @@ p, .page-content ul li {
     }
 }
 
+/************ Intra Links *************/
+
+.page-content .intra-links {
+    display: flex;
+    flex-flow: row wrap;
+    list-style: none;
+    margin-top: 3em;
+    li {
+        display: flex;
+        a {
+            padding: .8em 1.2em;
+            margin: 8px 4px 0 0;
+            box-shadow: none;
+            background-color: var(--grey-2);
+            border-radius: 2px;
+            font-size: $fs5;
+        }
+    }
+}
+
 /* Lists
 ========================================================================== */
 

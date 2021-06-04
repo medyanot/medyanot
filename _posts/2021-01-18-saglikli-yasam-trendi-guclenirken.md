@@ -9,13 +9,14 @@ Yeni bir haftaya ve haftanın zengin bültenine hoşgeldiniz. Bu hafta 2020'den 
 
 ---
 
-İlgilendiğiniz başlığa atlamak için:
+
 - [Tasarım](#tasarım)
 - [Araştırma](#araştırma)
 - [Pazarlama](#pazarlama)
 - [Reklam](#reklam-dünyası)
 - [Turizm](#turizm)
 - [Sosyal Medya](#sosyal-medya)
+{: .intra-links}
 
 
 ## Tasarım

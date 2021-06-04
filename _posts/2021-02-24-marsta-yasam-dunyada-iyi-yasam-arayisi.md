@@ -5,7 +5,7 @@ tag: [Sağlık, Clubhouse, Sansür]
 description: "Bu yazımızda iyi yaşamdan ne anlaşıldığına dair içgörülere, Clubhouse'un geleceğine ve heyecan verici teknoloji haberlerine bakıyoruz."
 ---
 
-İlgilendiğiniz başlığa atlamak için:
+
 - [Tasarım](#tasarım)
 - [Pazarlama](#pazarlama)
 - [Reklamlar](#reklamlar-reklamlar)
@@ -13,6 +13,7 @@ description: "Bu yazımızda iyi yaşamdan ne anlaşıldığına dair içgörül
 - [Turizm](#turizm)
 - [Teknoloji](#teknoloji)
 - [Sosyal Medya](#sosyal-medya)
+{: .intra-links}
 
 ## Tasarım
 

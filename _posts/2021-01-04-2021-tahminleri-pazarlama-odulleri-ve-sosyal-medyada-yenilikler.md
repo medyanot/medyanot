@@ -7,11 +7,12 @@ description: "Bu haftaki bültenimiz başarılı tasarım çalışmalarına, paz
 
 2020 bitti. Bu haftaki yazımızda, geçen yıl hakim olan trendleri incelemeye devam ederken, 2021 yılına dair tahminlere de dokunuyoruz. Tasarımda veri görselleştirmenin ve organik formların yeniden popüler hale geldiğini görüyoruz. Türkiye’de ve Dünya’da pazarlama sektöründe verilen ödüller bir başka konumuz oluyor. Son olarak sosyal medyada kısa video formatının yükselişine ve Twitter’ın hızla devam eden yeniliklerine değiniyoruz. 2020’in başlıca olaylarının hatırlamak için Bundle uygulamasının hazırladığı [siteye](https://2020.bundle.app/#2020) bakabilirsiniz. “Yok ben böyle iyiyim.” derseniz, devam edelim.
 
-İlgilendiğiniz başlığa atlamak için:
+
 - [Tasarım](#tasarım)
 - [Pazarlama](#pazarlama)
 - [Araştırma ve Veri](#araştırma-ve-veri)
 - [Sosyal Medya](#sosyal-medya)
+{: .intra-links}
 
 ## Tasarım
 

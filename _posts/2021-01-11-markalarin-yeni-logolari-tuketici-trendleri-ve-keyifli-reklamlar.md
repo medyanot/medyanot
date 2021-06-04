@@ -8,12 +8,13 @@ description: "Bu haftanın bülteninde, büyük markaların rebranding çalışm
 Bültenimizin üçüncü sürümünde, Pfizer'den Kia'ya birçok markanın 2021'i karşıladıkları yeni logolarına, ADC'nin 2020 Ödülleri'ni kazananları sergilediği muhteşem siteye, Türkiye'den ve yurtdışından başarılı reklam çalışmalarına bakıyor, sosyal medyanın hızına yetişmeye çalışıyoruz.
 
 
-İlgilendiğiniz başlığa atlamak için:
+
 - [Tasarım](#tasarım)
 - [Pazarlama](#pazarlama)
 - [Reklamlar](#reklamlar-reklamlar)
 - [Sosyal Medya](#sosyal-medya)
 - [Turizm](#turizm)
+{: .intra-links}
 
 ## Tasarım
 

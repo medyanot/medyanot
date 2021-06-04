@@ -5,7 +5,7 @@ tag: [SEO, NFT, Pandemi, Ödüller]
 description: "Pandeminin ilk yılını tamamlarken bazı tüketici alışkanlıkları geri dönülmez biçimde değişiyor."
 ---
 
-İlgilendiğiniz başlığa atlamak için:
+
 - [Tasarım](#tasarım)
 - [Ödüller](#ödüller)
 - [Araştırma](#araştırma)
@@ -15,6 +15,7 @@ description: "Pandeminin ilk yılını tamamlarken bazı tüketici alışkanlık
 - [Teknoloji](#teknoloji)
 - [Turizm](#turizm)
 - [Sosyal Medya](#sosyal-medya)
+{: .intra-links}
 
 ## Tasarım
 

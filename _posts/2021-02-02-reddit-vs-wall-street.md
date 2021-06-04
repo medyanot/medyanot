@@ -5,12 +5,13 @@ tag: [Reddit, Tasarım Sistemi]
 description: "Sosyal medya gerçek sosyal değişimlerin öncüsü olabilir mi?"
 ---
 
-İlgilendiğiniz başlığa atlamak için:
+
 - [Tasarım](#tasarım)
 - [Araştırma](#araştırma)
 - [Pazarlama](#pazarlama)
 - [Reklam](#reklam-dünyası)
 - [Sosyal Medya](#sosyal-medya)
+{: .intra-links}
 
 ## Tasarım
 

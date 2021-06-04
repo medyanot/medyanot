@@ -5,7 +5,7 @@ tag: [Oyun, E-Ticaret, Clubhouse, Kadınlar]
 description: "Ticaret Bakanlığı’nın yayınladığı verilerde Türkiye’de e-ticaret hacminin 2020’de hızla büyüdüğü görülüyor."
 ---
 
-İlgilendiğiniz başlığa atlamak için:
+
 - [Tasarım](#tasarım)
 - [Araştırma](#araştırma)
 - [Pazarlama](#pazarlama)
@@ -15,6 +15,7 @@ description: "Ticaret Bakanlığı’nın yayınladığı verilerde Türkiye’d
 - [Web](#web)
 - [Turizm](#turizm)
 - [Sosyal Medya](#sosyal-medya)
+{: .intra-links}
 
 ## Tasarım
 

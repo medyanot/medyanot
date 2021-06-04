@@ -5,7 +5,7 @@ tag: [Airbnb, K-pop, Logo]
 description: "Bu haftaki bültenimizde önce biraz nostaljik takılıp, sonra Türkiye'deki dijital girişimleri mercek altına alıyoruz."
 ---
 
-İlgilendiğiniz başlığa atlamak için:
+
 - [Tasarım](#tasarım)
 - [Pazarlama](#pazarlama)
 - [Araştırma](#araştırma)
@@ -14,6 +14,7 @@ description: "Bu haftaki bültenimizde önce biraz nostaljik takılıp, sonra T�
 - [Teknoloji](#teknoloji)
 - [Turizm](#turizm)
 - [Sosyal Medya](#sosyal-medya)
+{: .intra-links}
 
 ## Tasarım
 

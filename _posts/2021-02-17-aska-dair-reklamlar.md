@@ -5,7 +5,7 @@ tag: [Reklam, Tüketiciler, Bitcoin]
 description: "Super Bowl ve Sevgililer Günü reklamlarının çoğu fos çıktı. Nadir güzellikleri sizin için ayıklayıp bu yazıda sunduk."
 ---
 
-İlgilendiğiniz başlığa atlamak için:
+
 - [Tasarım](#tasarım)
 - [Pazarlama](#pazarlama)
 - [Reklamlar](#reklam-dünyası)
@@ -13,6 +13,7 @@ description: "Super Bowl ve Sevgililer Günü reklamlarının çoğu fos çıkt�
 - [Araştırma](#araştırma)
 - [Teknoloji](#teknoloji)
 - [Sosyal Medya](#sosyal-medya)
+{: .intra-links}
 
 ## Tasarım
 

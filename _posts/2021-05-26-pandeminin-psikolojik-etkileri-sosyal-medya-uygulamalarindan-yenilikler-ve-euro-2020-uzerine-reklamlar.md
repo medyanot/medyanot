@@ -5,7 +5,7 @@ tag:
 description: "Bu sayımızda pandemi sonrası oluşan psikolojik etkileri, sosyal medya uygulamalarının en yeni özelliklerini ve raporlarını, yaklaşan Euro 2020’ye dair reklamları ve dijitalin en yeni haberlerini sizler için derledik."
 ---
 
-İlgilendiğiniz başlığa atlamak için:
+
 - [Sosyal Medya](#sosyal-medya)
 - [Tasarım](#tasarım)
 - [Kullanıcı Deneyimi](#kullanıcı-deneyimi)
@@ -13,6 +13,7 @@ description: "Bu sayımızda pandemi sonrası oluşan psikolojik etkileri, sosya
 - [Pazarlama](#pazarlama)
 - [Araştırma](#araştırma)
 - [Reklam](#reklam-dünyası)
+{: .intra-links}
 
 ## Sosyal Medya
 

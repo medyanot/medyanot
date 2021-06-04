@@ -5,13 +5,14 @@ tag: [TikTok, Kadınlar]
 description: "TikTok, Türkiye'den markaların daha aktif varlık gösterdiği bir mecra haline geliyor. Buna rağmen Z kuşağının gizemi devam ediyor."
 ---
 
-İlgilendiğiniz başlığa atlamak için:
+
 - [Tasarım](#tasarım)
 - [Araştırma](#araştırma)
 - [Pazarlama](#pazarlama)
 - [Reklamlar](#reklam-dünyası)
 - [Teknoloji](#teknoloji)
 - [Sosyal Medya](#sosyal-medya)
+{: .intra-links}
 
 ## Tasarım
 
