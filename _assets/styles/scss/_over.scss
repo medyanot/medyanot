@@ -135,11 +135,14 @@ p, .page-content ul li {
         display: flex;
         a {
             padding: .8em 1.2em;
-            margin: 8px 4px 0 0;
+            margin: 4px 4px 0 0;
             box-shadow: none;
-            background-color: var(--grey-2);
+            background-color: var(--grey-1);
+            border: 1px solid var(--grey-2);
             border-radius: 2px;
-            font-size: $fs5;
+            font-size: .8em;
+            font-weight: 700;
+            color: var(--grey-6);
         }
     }
 }
