@@ -1,12 +1,55 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Content Manager</title>
-</head>
-<body>
-  <!-- Include the script that builds the page and powers Netlify CMS -->
-  <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
-</body>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Content Manager</title>
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  </head>
+  <body>
+    <!-- Include the script that builds the page and powers Netlify CMS -->
+    <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
+    <script>
+    const image = {
+      label: 'Image',
+      id: 'image',
+      fromBlock: match =>
+        match && {
+          image: match[2],
+          alt: match[1],
+          title: match[4],
+        },
+      toBlock: ({ alt, image, title }) =>
+        `![${alt || ''}](${image || ''}${title ? ` "${title.replace(/"/g, '\\"')}"` : ''})`,
+      // eslint-disable-next-line react/display-name
+      toPreview: ({ alt, image, title }, getAsset, fields) => {
+        const imageField = fields?.find(f => f.get('widget') === 'image');
+        const src = getAsset(image, imageField);
+        return <img loading="lazy" src={src || ''} alt={alt || ''} title={title || ''} />;
+      },
+      pattern: /^!\[(.*)\]\((.*?)(\s"(.*)")?\)$/,
+      fields: [
+        {
+          label: 'Image',
+          name: 'image',
+          widget: 'image',
+          media_library: {
+            allow_multiple: false,
+          },
+        },
+        {
+          label: 'Alt Text',
+          name: 'alt',
+        },
+        {
+          label: 'Title',
+          name: 'title',
+        },
+      ],
+    };
+    
+    export const NetlifyCmsEditorComponentImage = image;
+    export default image;
+  </script>
+  </body>
 </html>
