@@ -188,8 +188,57 @@ gulp.task('build:images:featured', function(done) {
   done();
 });
 
+gulp.task('build:images:toro', function(done) {
+  return gulp.src(paths.imageFiles + '/content' + "/*-featured.{jpg,jpeg}")
+  .pipe(gulpCached('build:images:toro'))
+      .pipe(responsive({
+    // resize all images
+    '*.*': [{
+      width: 32,
+      height: 18,
+      rename: { suffix: '-lq' },
+    }, {
+      width: 320,
+      height: 180,
+      rename: { suffix: '-320' },
+    }, {
+      width: 640,
+      height: 360,
+      rename: { suffix: '-640' },
+    }, {
+      width: 960,
+      height: 540, 
+      rename: { suffix: '-960' },
+    }, {
+      width: 900,
+      height: 900,
+      rename: { suffix: '-thumb' },
+    }, {
+      width: 1280,
+      height: 720,
+      rename: { suffix: '-1280' },
+    }, {
+      width: 1600,
+      height: 900,
+    }]
+  }, {
+    // global configuration for all images
+    errorOnEnlargement: false,
+    withMetadata: false,
+    quality: 75,
+    progressive: true,
+    optimiseScans: true,
+    errorOnUnusedConfig: false
+  }))
+  .pipe(size())
+  .pipe(gulp.dest(paths.jekyllImageFiles + '/content'))
+  .pipe(gulp.dest(paths.siteImageFiles + '/content'))
+  .pipe(browserSync.stream());
+  done();
+});
+
 gulp.task('build:images:inline', function(done) {
-    return gulp.src(paths.imageFiles + '/content' + "/**/*.{jpg,jpeg}")
+    return gulp.src([paths.imageFiles + '/content' + "/**/*.{jpg,jpeg}",  "!*-featured.{jpg,jpeg}"])
     .pipe(gulpCached('build:images:inline'))
         .pipe(responsive({
       // resize all images
@@ -239,7 +288,7 @@ gulp.task('build:images:videos', function() {
   } 
 );
 
-gulp.task('build:images', gulp.series('build:images:featured', 'build:images:inline', 'build:images:nonjpg', 'build:images:videos'));
+gulp.task('build:images', gulp.series('build:images:featured', 'build:images:inline', 'build:images:nonjpg', 'build:images:toro', 'build:images:videos'));
 
 gulp.task('clean:images', function(done) {
     del([paths.jekyllImageFiles, paths.siteImageFiles]);
