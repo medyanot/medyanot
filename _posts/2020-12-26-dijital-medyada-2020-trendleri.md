@@ -1,6 +1,6 @@
 ---
 title: Dijital Medyada 2020 Trendleri
-image: assets/img/featured/feature2.jpg
+image: /assets/img/featured/feature2.jpg
 tag: [Rapor, Trendler]
 description: "Medyanot'un ilk bülteni web tasarımı, internet trendleri, pazarlama ve sosyal medyada öne çıkanları paylaşıyor."
 toc: true

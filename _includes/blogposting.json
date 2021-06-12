@@ -2,15 +2,15 @@
     "url":"{{ page.url | absolute_url }}",
     {%- assign thumb_image = page.image -%}
     {%- assign t = thumb_image | split: '.' -%}
-    "thumbnailUrl": "{{ site.url }}/{{ t[0] }}-thumb.{{ t[1] }}",
+    "thumbnailUrl": "{{ site.url }}{{ t[0] }}-thumb.{{ t[1] }}",
     "image": [{
         "@type": "ImageObject",
-        "url": "{{ site.url }}/{{ page.image }}",
+        "url": "{{ site.url }}{{ page.image }}",
         "width":"1600",
         "height":"900"
     }, {
         "@type": "ImageObject",
-        "url": "{{ site.url }}/{{ t[0] }}-thumb.{{ t[1] }}",
+        "url": "{{ site.url }}{{ t[0] }}-thumb.{{ t[1] }}",
         "width":"900",
         "height":"900"
     }],

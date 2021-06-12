@@ -1,6 +1,6 @@
 ---
 title: Reddit vs Wall Street
-image: assets/img/featured/reddit-ws.jpg
+image: /assets/img/featured/reddit-ws.jpg
 tag: [Reddit, Tasarım Sistemi]
 description: "Sosyal medya gerçek sosyal değişimlerin öncüsü olabilir mi?"
 toc: true

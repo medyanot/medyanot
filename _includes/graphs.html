@@ -32,8 +32,8 @@
 {% if page.image %}
 {% assign feature_image = page.image %}
 {% assign f = feature_image | split: '.' %}
-<meta property="og:image" content="{{ site.url }}/{{ f[0] }}-1280.{{ f[1] }}" />
-<meta name="twitter:image" content="{{ site.url }}/{{ f[0] }}-1280.{{ f[1] }}" />
+<meta property="og:image" content="{{ site.url }}{{ f[0] }}-1280.{{ f[1] }}" />
+<meta name="twitter:image" content="{{ site.url }}{{ f[0] }}-1280.{{ f[1] }}" />
 {% else %}
 <meta property="og:image" content="{{ site.url }}/assets/img/content/placeholder.jpg" />
 <meta name="twitter:image" content="{{ site.url }}/assets/img/content/placeholder.jpg" />

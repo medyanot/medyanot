@@ -95,7 +95,7 @@ layout: null
       {%- endif -%}
 
       {%- if post.image -%}
-        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="{{ site.url }}/{{ post.image }}" />
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="{{ site.url }}{{ post.image }}" />
       {%- else -%}
         <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="{{ site.url }}/assets/img/content/placeholder.jpg" />
       {%- endif -%}

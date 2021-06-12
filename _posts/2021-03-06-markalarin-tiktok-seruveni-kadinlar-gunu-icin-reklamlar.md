@@ -1,6 +1,6 @@
 ---
 title: Markaların TikTok serüveni, Kadınlar Günü için reklamlar
-image: assets/img/featured/womens-day-mural-feature.jpg
+image: /assets/img/featured/womens-day-mural-feature.jpg
 tag: [TikTok, Kadınlar]
 description: "TikTok, Türkiye'den markaların daha aktif varlık gösterdiği bir mecra haline geliyor. Buna rağmen Z kuşağının gizemi devam ediyor."
 toc: true
