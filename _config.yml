@@ -107,3 +107,7 @@ autopages:
     
 jekyll-figure:
   paragraphs: false
+
+toc:
+  min_level: 2 # default: 1
+  max_level: 2 # default: 6

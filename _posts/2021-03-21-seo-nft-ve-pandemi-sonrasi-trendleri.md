@@ -3,19 +3,8 @@ title: SEO, NFT ve Pandemi Sonrası Trendleri
 image: assets/img/featured/teddy-covid.jpg
 tag: [SEO, NFT, Pandemi, Ödüller]
 description: "Pandeminin ilk yılını tamamlarken bazı tüketici alışkanlıkları geri dönülmez biçimde değişiyor."
+toc: true
 ---
-
-
-- [Tasarım](#tasarım)
-- [Ödüller](#ödüller)
-- [Araştırma](#araştırma)
-- [Pazarlama](#pazarlama)
-- [Reklam](#reklamlar-reklamlar)
-- [Web](#web)
-- [Teknoloji](#teknoloji)
-- [Turizm](#turizm)
-- [Sosyal Medya](#sosyal-medya)
-{: .intra-links}
 
 ## Tasarım
 

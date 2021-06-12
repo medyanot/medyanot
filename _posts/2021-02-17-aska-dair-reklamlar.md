@@ -3,17 +3,8 @@ title: Aşka dair reklamlar
 image: assets/img/featured/aska-dair-reklam.jpg
 tag: [Reklam, Tüketiciler, Bitcoin]
 description: "Super Bowl ve Sevgililer Günü reklamlarının çoğu fos çıktı. Nadir güzellikleri sizin için ayıklayıp bu yazıda sunduk."
+toc: true
 ---
-
-
-- [Tasarım](#tasarım)
-- [Pazarlama](#pazarlama)
-- [Reklamlar](#reklam-dünyası)
-- [Turizm](#turizm)
-- [Araştırma](#araştırma)
-- [Teknoloji](#teknoloji)
-- [Sosyal Medya](#sosyal-medya)
-{: .intra-links}
 
 ## Tasarım
 

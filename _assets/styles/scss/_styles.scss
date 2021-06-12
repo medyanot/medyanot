@@ -204,7 +204,7 @@ blockquote p{
 
 /************ Intra Links *************/
 
-.page-content .intra-links {
+.page-content #toc {
     display: flex;
     flex-flow: row wrap;
     list-style: none;

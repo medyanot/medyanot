@@ -3,17 +3,8 @@ title: Mars’ta yaşam, dünyada iyi yaşam arayışı
 image: assets/img/featured/kedi-mars.jpg
 tag: [Sağlık, Clubhouse, Sansür]
 description: "Bu yazımızda iyi yaşamdan ne anlaşıldığına dair içgörülere, Clubhouse'un geleceğine ve heyecan verici teknoloji haberlerine bakıyoruz."
+toc: true
 ---
-
-
-- [Tasarım](#tasarım)
-- [Pazarlama](#pazarlama)
-- [Reklamlar](#reklamlar-reklamlar)
-- [Araştırma](#araştırma)
-- [Turizm](#turizm)
-- [Teknoloji](#teknoloji)
-- [Sosyal Medya](#sosyal-medya)
-{: .intra-links}
 
 ## Tasarım
 

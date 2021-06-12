@@ -3,16 +3,8 @@ title: Turizm Deneyimlerinde Yeni Arayışlar, Pandemi Sonrasını Selamlayan Re
 image: assets/img/featured/havana-pembe-araba.jpg
 tag: 
 description: "Pandemide tünelin sonundaki ışık görünürken, seyahatseverler akılda kalıcı deneyimlerin peşinde dışarıya adım atıyor."
+toc: true
 ---
-
-- [Sosyal Medya](#sosyal-medya)
-- [Web](#web)
-- [Araştırma](#araştırma)
-- [Turizm](#turizm)
-- [Pazarlama](#pazarlama-ve-i̇ş-dünyası)
-- [Reklam](#reklam-dünyası)
-- [Sosyal Sorumluluk](#sosyal-sorumluluk-girişimleri)
-{: .intra-links}
 
 ## Sosyal Medya
 

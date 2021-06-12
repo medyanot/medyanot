@@ -17,7 +17,7 @@
                 {%- include page-image.html -%}
             {%- endif -%}
             <div class="page-content">
-            {{ content }}
+            {{ content | toc }}
             </div>
                 {%- if page.collection == "posts" -%}
                 <div class = "page-bottom">

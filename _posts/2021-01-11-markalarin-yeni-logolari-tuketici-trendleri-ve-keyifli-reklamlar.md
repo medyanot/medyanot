@@ -3,18 +3,11 @@ title: Markaların Yeni Logoları, Tüketici Trendleri ve Keyifli Reklamlar
 image: assets/img/featured/feature3.jpg
 tag: [Logo, Reklam]
 description: "Bu haftanın bülteninde, büyük markaların rebranding çalışmaları, geçtiğimiz günlerde yayına giren ilgi çekici reklam filmleri ve sosyal medyadan en son haberler var."
+toc: true
 ---
 
 Bültenimizin üçüncü sürümünde, Pfizer'den Kia'ya birçok markanın 2021'i karşıladıkları yeni logolarına, ADC'nin 2020 Ödülleri'ni kazananları sergilediği muhteşem siteye, Türkiye'den ve yurtdışından başarılı reklam çalışmalarına bakıyor, sosyal medyanın hızına yetişmeye çalışıyoruz.
 
-
-
-- [Tasarım](#tasarım)
-- [Pazarlama](#pazarlama)
-- [Reklamlar](#reklamlar-reklamlar)
-- [Sosyal Medya](#sosyal-medya)
-- [Turizm](#turizm)
-{: .intra-links}
 
 ## Tasarım
 

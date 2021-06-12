@@ -3,16 +3,10 @@ title: 2021 Tahminleri, Pazarlama Ödülleri ve Sosyal Medyada Yenilikler
 image: assets/img/featured/feature1.jpg
 tag: [Trendler, Ödüller]
 description: "Bu haftaki bültenimiz başarılı tasarım çalışmalarına, pazarlama sektöründe verilen ödüllere, 2021 trendlerine dair öngörülere ve sosyal medya mecralarındaki bir dizi yeniliğe bakıyor."
+toc: true
 ---
 
 2020 bitti. Bu haftaki yazımızda, geçen yıl hakim olan trendleri incelemeye devam ederken, 2021 yılına dair tahminlere de dokunuyoruz. Tasarımda veri görselleştirmenin ve organik formların yeniden popüler hale geldiğini görüyoruz. Türkiye’de ve Dünya’da pazarlama sektöründe verilen ödüller bir başka konumuz oluyor. Son olarak sosyal medyada kısa video formatının yükselişine ve Twitter’ın hızla devam eden yeniliklerine değiniyoruz. 2020’in başlıca olaylarının hatırlamak için Bundle uygulamasının hazırladığı [siteye](https://2020.bundle.app/#2020) bakabilirsiniz. “Yok ben böyle iyiyim.” derseniz, devam edelim.
-
-
-- [Tasarım](#tasarım)
-- [Pazarlama](#pazarlama)
-- [Araştırma ve Veri](#araştırma-ve-veri)
-- [Sosyal Medya](#sosyal-medya)
-{: .intra-links}
 
 ## Tasarım
 
