@@ -1,7 +1,7 @@
 ---
 title: CMS denemesi için bir yazı
 # Extension must be jpg
-image: /_assets/img/content/lolo-featured.jpg
+image: assets/img/content/something-featured.jpg
 description: CMS denemesi yapıyoruzdur.
 tags:
   - CMS
