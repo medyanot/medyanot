@@ -8,10 +8,8 @@ module Jekyll
     def render(context)
       %Q[
 <div class="ratio-box" style="padding-bottom: 56.2897078%">
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="lazyload" class="embed-responsive-item" width="787" height="443" data-src="https://www.youtube.com/embed/#{@video_id}" frameborder="0" allowfullscreen>
+  <iframe class="lazyload" width="787" height="443" data-src="https://www.youtube.com/embed/#{@video_id}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
   </iframe>
-</div>
 </div>
       ]
     end
