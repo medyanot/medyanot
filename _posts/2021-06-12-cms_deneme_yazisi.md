@@ -1,6 +1,6 @@
 ---
 title: CMS deneme yazısı
-image: /assets/img/content/askhistor.jpg
+image: /assets/img/content/something-featured.jpg
 description: Deneme Yazısı açıklama yazısı
 ---
 * [Sosyal Medya](#sosyal-medya)
