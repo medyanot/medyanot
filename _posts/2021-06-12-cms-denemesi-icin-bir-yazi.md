@@ -1,7 +1,7 @@
 ---
 title: CMS denemesi için bir yazı
 # Extension must be jpg
-image: /assets/img/content/osman-koycu-c6qf_lyvu2i-unsplash.jpg
+image: /_assets/img/content/lolo-featured.jpg
 description: CMS denemesi yapıyoruzdur.
 tags:
   - CMS
