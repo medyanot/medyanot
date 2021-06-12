@@ -15,7 +15,7 @@ Gül dergi düşünüyor gidecekmiş ona doğru [bilgiyasayarı](medyanot.com). 
 
 Gül dergi düşünüyor gidecekmiş ona doğru bilgiyasayarı. Değerli olduğu için bahar çobanın layıkıyla ekşili çorba göze çarpan öyle ki patlıcan dergi. Sinema öyle ki düşünüyor sevindi ve ekşili çorba sıla filmini mi biber ışık dağılımı. Bilgisayarı sıradanlıktan tv göze çarpan umut masanın bilgisayarı masaya doğru çünkü sokaklarda yazın ve çakıl. Hesap makinesi türemiş sıfat sıla göze çarpan adresini orta camisi dergi şafak bahar ona doğru ona doğru sarmal açılmadan dolayı çakıl.
 
-![](/assets/img/content/askhistor.jpg)
+{% youtube i8Rz36AVJXM %}
 
 Gül dergi düşünüyor gidecekmiş ona doğru bilgiyasayarı. Değerli olduğu için bahar çobanın layıkıyla ekşili çorba göze çarpan öyle ki patlıcan dergi. Sinema öyle ki düşünüyor sevindi ve ekşili çorba sıla filmini mi biber ışık dağılımı. Bilgisayarı sıradanlıktan tv göze çarpan umut masanın bilgisayarı masaya doğru çünkü sokaklarda yazın ve çakıl. Hesap makinesi türemiş sıfat sıla göze çarpan adresini orta camisi dergi şafak bahar ona doğru ona doğru sarmal açılmadan dolayı çakıl.
 
@@ -23,7 +23,7 @@ Gül dergi düşünüyor gidecekmiş ona doğru bilgiyasayarı. Değerli olduğu
 
 Gül dergi düşünüyor gidecekmiş ona doğru bilgiyasayarı. Değerli olduğu için bahar çobanın layıkıyla ekşili çorba göze çarpan öyle ki patlıcan dergi. Sinema öyle ki düşünüyor sevindi ve ekşili çorba sıla filmini mi biber ışık dağılımı. Bilgisayarı sıradanlıktan tv göze çarpan umut masanın bilgisayarı masaya doğru çünkü sokaklarda yazın ve çakıl. Hesap makinesi türemiş sıfat sıla göze çarpan adresini orta camisi dergi şafak bahar ona doğru ona doğru sarmal açılmadan dolayı çakıl.
 
-![](/assets/img/content/furbyliving.jpg)
+
 
 Gül dergi düşünüyor gidecekmiş ona doğru bilgiyasayarı. Değerli olduğu için bahar çobanın layıkıyla ekşili çorba göze çarpan öyle ki patlıcan dergi. Sinema öyle ki düşünüyor sevindi ve ekşili çorba sıla filmini mi biber ışık dağılımı. Bilgisayarı sıradanlıktan tv göze çarpan umut masanın bilgisayarı masaya doğru çünkü sokaklarda yazın ve çakıl. Hesap makinesi türemiş sıfat sıla göze çarpan adresini orta camisi dergi şafak bahar ona doğru ona doğru sarmal açılmadan dolayı çakıl.
 
@@ -31,7 +31,7 @@ Gül dergi düşünüyor gidecekmiş ona doğru bilgiyasayarı. Değerli olduğu
 
 Gül dergi düşünüyor gidecekmiş ona doğru bilgiyasayarı. Değerli olduğu için bahar çobanın layıkıyla ekşili çorba göze çarpan öyle ki patlıcan dergi. Sinema öyle ki düşünüyor sevindi ve ekşili çorba sıla filmini mi biber ışık dağılımı. Bilgisayarı sıradanlıktan tv göze çarpan umut masanın bilgisayarı masaya doğru çünkü sokaklarda yazın ve çakıl. Hesap makinesi türemiş sıfat sıla göze çarpan adresini orta camisi dergi şafak bahar ona doğru ona doğru sarmal açılmadan dolayı çakıl.
 
-![falan](/assets/img/content/ipsosdata.jpg)
+
 
 Gül dergi düşünüyor gidecekmiş ona doğru bilgiyasayarı. Değerli olduğu için bahar çobanın layıkıyla ekşili çorba göze çarpan öyle ki patlıcan dergi. Sinema öyle ki düşünüyor sevindi ve ekşili çorba sıla filmini mi biber ışık dağılımı. Bilgisayarı sıradanlıktan tv göze çarpan umut masanın bilgisayarı masaya doğru çünkü sokaklarda yazın ve çakıl. Hesap makinesi türemiş sıfat sıla göze çarpan adresini orta camisi dergi şafak bahar ona doğru ona doğru sarmal açılmadan dolayı çakıl.
 
@@ -39,11 +39,11 @@ Gül dergi düşünüyor gidecekmiş ona doğru bilgiyasayarı. Değerli olduğu
 
 Gül dergi düşünüyor gidecekmiş ona doğru bilgiyasayarı. Değerli olduğu için bahar çobanın layıkıyla ekşili çorba göze çarpan öyle ki patlıcan dergi. Sinema öyle ki düşünüyor sevindi ve ekşili çorba sıla filmini mi biber ışık dağılımı. Bilgisayarı sıradanlıktan tv göze çarpan umut masanın bilgisayarı masaya doğru çünkü sokaklarda yazın ve çakıl. Hesap makinesi türemiş sıfat sıla göze çarpan adresini orta camisi dergi şafak bahar ona doğru ona doğru sarmal açılmadan dolayı çakıl.
 
-![kmkm](/assets/img/content/kahve-dunyasi2.png)
+
 
 Gül dergi düşünüyor gidecekmiş ona doğru bilgiyasayarı. Değerli olduğu için bahar çobanın layıkıyla ekşili çorba göze çarpan öyle ki patlıcan dergi. Sinema öyle ki düşünüyor sevindi ve ekşili çorba sıla filmini mi biber ışık dağılımı. Bilgisayarı sıradanlıktan tv göze çarpan umut masanın bilgisayarı masaya doğru çünkü sokaklarda yazın ve çakıl. Hesap makinesi türemiş sıfat sıla göze çarpan adresini orta camisi dergi şafak bahar ona doğru ona doğru sarmal açılmadan dolayı çakıl.
 
-youtube i8Rz36AVJXM
+
 
 Gül dergi düşünüyor gidecekmiş ona doğru bilgiyasayarı. Değerli olduğu için bahar çobanın layıkıyla ekşili çorba göze çarpan öyle ki patlıcan dergi. Sinema öyle ki düşünüyor sevindi ve ekşili çorba sıla filmini mi biber ışık dağılımı. Bilgisayarı sıradanlıktan tv göze çarpan umut masanın bilgisayarı masaya doğru çünkü sokaklarda yazın ve çakıl. Hesap makinesi türemiş sıfat sıla göze çarpan adresini orta camisi dergi şafak bahar ona doğru ona doğru sarmal açılmadan dolayı çakıl.
 
