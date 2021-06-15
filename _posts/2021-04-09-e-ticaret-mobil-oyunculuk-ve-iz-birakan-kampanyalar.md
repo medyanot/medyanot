@@ -1,8 +1,14 @@
 ---
 title: E-Ticaret, Mobil Oyunculuk ve İz Bırakan Kampanyalar
 image: /assets/img/featured/mobil-oyun.jpg
-tag: [Oyun, E-Ticaret, Clubhouse, Kadınlar]
-description: "Ticaret Bakanlığı’nın yayınladığı verilerde Türkiye’de e-ticaret hacminin 2020’de hızla büyüdüğü görülüyor."
+tag:
+  - Oyun
+  - E-Ticaret
+  - Clubhouse
+  - Kadınlar
+description: Ticaret Bakanlığı’nın yayınladığı verilerde Türkiye’de e-ticaret
+  hacminin 2020’de hızla büyüdüğü görülüyor.
+date: April 9, 2021 12:00 AM
 toc: true
 ---
 
