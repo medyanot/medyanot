@@ -1,8 +1,13 @@
 ---
 title: 2021 Tahminleri, Pazarlama Ödülleri ve Sosyal Medyada Yenilikler
 image: /assets/img/featured/feature1.jpg
-tag: [Trendler, Ödüller]
-description: "Bu haftaki bültenimiz başarılı tasarım çalışmalarına, pazarlama sektöründe verilen ödüllere, 2021 trendlerine dair öngörülere ve sosyal medya mecralarındaki bir dizi yeniliğe bakıyor."
+tag:
+  - Trendler
+  - Ödüller
+description: Bu haftaki bültenimiz başarılı tasarım çalışmalarına, pazarlama
+  sektöründe verilen ödüllere, 2021 trendlerine dair öngörülere ve sosyal medya
+  mecralarındaki bir dizi yeniliğe bakıyor.
+date: January 4, 2021 12:00 AM
 toc: true
 ---
 
