@@ -17,16 +17,30 @@ collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
     label: "Blog" # Used in the UI
     folder: "_posts" # The path to the folder where the documents are stored
+    description: >
+      Medyanot blog yazıları burada toplanıyor.
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    summary: '{{title}} {{day}}.{{month}}.{{year}}'
     fields: # The fields for each document, usually in front matter
-      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Title", name: "title", widget: "string", hint: "Yazı başlığı"}
       - label: "Featured Image"
         name: "image"
+        required: true
         widget: "image"
-        pattern: ['^.*\.(jpg|jpeg|JPG|JPEG)$', "Extension must be jpg"]
-        comment: 'Extension must be jpg'
-      - {label: "Description", name: "description", widget: "string"}
-      - {label: "Tags", name: "tags", widget: "list", comment: 'should be comma separated'}
-      - {label: "Table of contents", name: "toc", widget: "boolean", default: false}
+        pattern: ['^.*\.(jpg|jpeg|JPG|JPEG)$', "Image file extension must be jpg"]
+        hint: 'jpg uzantılı bir görsel seçilmeli. Görsel "xxx-featured.jpg" olarak adlandırılmalı. Yatay görseller daha iyi görünür.'
+      - {label: "Description", name: "description", widget: "string", hint: "Yazı özeti"}
+      - {label: "Tags", name: "tags", widget: "list", hint: 'Etiketler virgülle ayrılmalı'}
+      - {label: "Table of contents", name: "toc", widget: "boolean", default: false, hint: "H2 ara başlıklarını kullanarak oluşturulan içindekiler bölümü"}
+      - {label: "Body", name: "body", widget: "markdown", hint: "Uyarı- Body kısmına eklenen görsellerde Title kısmı boş bırakılmalı"}
+  - name: "pages"
+    label: "Page"
+    folder: "_pages"
+    description: >
+      Medyanot'un sabit sayfaları burada toplanıyor.
+    create: true
+    slug: "{{slug}}"
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
