@@ -1,8 +1,13 @@
 ---
 title: Markaların Yeni Logoları, Tüketici Trendleri ve Keyifli Reklamlar
 image: /assets/img/featured/feature3.jpg
-tag: [Logo, Reklam]
-description: "Bu haftanın bülteninde, büyük markaların rebranding çalışmaları, geçtiğimiz günlerde yayına giren ilgi çekici reklam filmleri ve sosyal medyadan en son haberler var."
+tag:
+  - Logo
+  - Reklam
+description: Bu haftanın bülteninde, büyük markaların rebranding çalışmaları,
+  geçtiğimiz günlerde yayına giren ilgi çekici reklam filmleri ve sosyal
+  medyadan en son haberler var.
+date: January 11, 2021 12:00 AM
 toc: true
 ---
 

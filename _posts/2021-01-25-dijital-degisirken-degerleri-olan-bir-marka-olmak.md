@@ -1,8 +1,13 @@
 ---
 title: Dijital değişirken değerleri olan bir marka olmak
 image: /assets/img/featured/bernie-feature.jpg
-tag: [Marka Kimliği, Trendler, Tüketiciler]
-description: "Markaların benimsediği değerler, tüketicilerin sadakatini kazanmada artık daha belirleyici."
+tag:
+  - Marka Kimliği
+  - Trendler
+  - Tüketiciler
+description: Markaların benimsediği değerler, tüketicilerin sadakatini kazanmada
+  artık daha belirleyici.
+date: January 25, 2021 12:00 AM
 toc: true
 ---
 
