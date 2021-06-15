@@ -21,7 +21,13 @@ collections:
       Medyanot blog yazıları burada toplanıyor.
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-    summary: '{{title}} {{day}}.{{month}}.{{year}}'
+    summary: '{{title}}   {{day}}{{month}}{{year}}'
+    view_groups:
+      - label: Year
+        field: date
+        pattern: \d{4}
+      - label: Drafts
+        field: draft
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string", hint: "Yazı başlığı"}
       - label: "Featured Image"
@@ -33,6 +39,7 @@ collections:
       - {label: "Description", name: "description", widget: "string", hint: "Yazı özeti"}
       - {label: "Tags", name: "tags", widget: "list", hint: 'Etiketler virgülle ayrılmalı'}
       - {label: "Table of contents", name: "toc", widget: "boolean", default: false, hint: "H2 ara başlıklarını kullanarak oluşturulan içindekiler bölümü"}
+      - {label: "Draft", name: "draft", widget: "boolean", hint: "Açık olması henüz taslak halinde olduğunu gösterir.", default: true}
       - {label: "Body", name: "body", widget: "markdown", hint: "Uyarı- Body kısmına eklenen görsellerde Title kısmı boş bırakılmalı"}
   - name: "pages"
     label: "Page"
