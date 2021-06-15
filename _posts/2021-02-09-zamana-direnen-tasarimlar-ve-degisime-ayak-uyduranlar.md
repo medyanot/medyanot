@@ -1,8 +1,13 @@
 ---
 title: Zamana direnen tasarımlar ve değişime ayak uyduranlar
 image: /assets/img/featured/nostaljik-kara-kedi.jpg
-tag: [Airbnb, K-pop, Logo]
-description: "Bu haftaki bültenimizde önce biraz nostaljik takılıp, sonra Türkiye'deki dijital girişimleri mercek altına alıyoruz."
+tag:
+  - Airbnb
+  - K-pop
+  - Logo
+description: Bu haftaki bültenimizde önce biraz nostaljik takılıp, sonra
+  Türkiye'deki dijital girişimleri mercek altına alıyoruz.
+date: February 9, 2021 12:00 AM
 toc: true
 ---
 
