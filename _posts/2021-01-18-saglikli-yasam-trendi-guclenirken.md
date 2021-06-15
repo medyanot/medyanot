@@ -1,8 +1,16 @@
 ---
 title: Sağlıklı Yaşam Trendi Güçlenirken
+# Extension must be jpg
 image: /assets/img/featured/saglik-feature.jpg
-tag: [Sağlık, Trendler, Oyun, Tipografi]
-description: "Sağlık, dijitalleşen dünyanın anahtar kelimelerinden biri haline geldi. İyi yaşam, psikolojik ve fiziksel sağlık 2021'in dijital kültüründe şimdiden yer edindi."
+tag:
+  - Sağlık
+  - Trendler
+  - Oyun
+  - Tipografi
+description: Sağlık, dijitalleşen dünyanın anahtar kelimelerinden biri haline
+  geldi. İyi yaşam, psikolojik ve fiziksel sağlık 2021'in dijital kültüründe
+  şimdiden yer edindi.
+date: 2021-01-17T21:00:00.000Z
 toc: true
 ---
 
