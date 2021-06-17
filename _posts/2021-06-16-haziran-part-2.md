@@ -1,7 +1,8 @@
 ---
-title: "haziran part 2 "
-image: /assets/img/content/heinz-2.jpeg
-description: süleyman şah
+title: Oyun Harcamaları, Sosyal Medyada Yenilikleri, Marka İş birlikleri ve
+  Dijital Pazar Verileri
+image: /assets/img/content/pexels-karolina-grabowska-6919947-featured.jpg
+description: "Yepyeni bültene hoş geldiniz "
 tags: []
 toc: false
 draft: true
@@ -268,7 +269,7 @@ Kullanıcılar kısa video gönderilerinden, canlı yayınlardan ve markanın an
 
 
 
-### **Teknoloji dünyasının merakla beklediği Dünya Geliştiriciler Konferansı (WWDC 2021) yapıldı.**
+### **Teknoloji dünyasının merakla beklediği Dünya Geliştiriciler Konferansı (WWDC 2021) yapıldı**
 
 ![apple wwdc](/assets/img/content/apple2-featured.jpg)
 
@@ -278,7 +279,7 @@ Etkinlikte öne çıkan detaylardan biri yeni macOS 12 sürümü oldu. Şirketin
 
 
 
-### Odeabank’tan çocuklara ‘Eşit Masallar’
+### Odeabank’tan çocuklara 'Eşit Masallar'
 
 
 
