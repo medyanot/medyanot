@@ -8,7 +8,7 @@ draft: true
 ---
 ## Sosyal Medya
 
-### Google, arama ve alışveriş sekmesine yeni bir satın alma deneyimi getirmeyi test ediyor ve bu yıl içinde Youtube ve görsellere de getirmeyi planlıyor.
+### Google, yeni bir satın alma deneyimi getirmeyi test ediyor
 
 ![youtube google black maps](/assets/img/content/google-featured.jpeg)
 
@@ -22,11 +22,11 @@ Google, şirketlere satışta yardımcı olmak için birkaç başka girişim ve 
 [Daha Fazla](https://wersm.com/google-announces-new-tools-and-features-for-brands-and-retailers/)
 {% endblocklink %}
 
+### **Aşı kullanımı için LinkedIn** 
+
 ![Linkedin aşı johnson covid](/assets/img/content/linkedin-asi-featured.png)
 
-### **Aşı kullanımı için LinkedIn**
-
-LinkedIn, Johnson & Johnson'ın COVID-19 aşı alımını en üst düzeye çıkarmak için LinkedIn reklamlarını nasıl kullandığını ve önemli karar vericilere ve profesyonellere ulaşmak için neden LinkedIn'i seçtiklerini inceleyen yeni bir vaka çalışmasını paylaştı .
+LinkedIn, Johnson & Johnson'ın COVID-19 aşı alımını en üst düzeye çıkarmak için LinkedIn reklamlarını nasıl kullandığını ve önemli karar vericilere ve profesyonellere ulaşmak için neden LinkedIn'i seçtiklerini inceleyen yeni bir vaka çalışmasını paylaştı.
 
 Aşı tedarikçi firması Johnson & Johnson, dünya çapında 1 milyar doz aşı üretmeyi ve teslim etmeyi taahhüt etti. Tüketicileri bilgilendirmek ve aynı zamanda onları eğlendirmek için şirket, küresel topluluğun pandemiye nasıl tepki verdiğini inceleyen ve karmaşık bir aşı geliştirme sürecini ortadan kaldıran sekiz bölümlük bir eğitici video dizisi olan “Road to a Vaccine”i yarattı.
 
@@ -34,25 +34,37 @@ Aşı tedarikçi firması Johnson & Johnson, dünya çapında 1 milyar doz aşı
 
 {% blocklink %}
 [Daha Fazla
-](https://www.socialmediatoday.com/news/linkedin-case-study-how-johnson-johnson-used-linkedin-to-promote-vaccine/601655/){% endblocklink %}
+](https://business.linkedin.com/marketing-solutions/blog/linkedin-b2b-marketing/2021/how-johnson---johnson-drives-massive-engagement-on-linkedin-live){% endblocklink %}
 
-![youtube shorts güncelleme](/assets/img/content/youtube-shorts-logo-featured.png)
+### **Youtube içerik oluşturmada kolaylık sağlıyor**
 
-### **Youtube içerik oluşturmada kolaylık sağlıyor.**
+![youtube shorts güncelleme](/assets/img/content/video-icerik-hazirlama-featured.jpeg)
 
-YouTube , bu hafta içerik oluşturucular için çok hoş bir zaman kazandıran güncelleme getireceğini duyurdu. Şimdiye kadar YouTube içerik oluşturucuları, videonun ortasında gösterilen reklam aralarını yerleştirmek, bitiş ekranlarını ve bilgi kartlarını eklemek veya düzenlemek gibi bazı basit ancak önemli işlemleri yapmak için bir videonun tamamen yüklenmesini beklemek zorunda kalıyordu.
+YouTube, bu hafta içerik oluşturucular için çok hoş bir zaman kazandıran güncelleme getireceğini duyurdu. Şimdiye kadar YouTube içerik oluşturucuları, videonun ortasında gösterilen reklam aralarını yerleştirmek, bitiş ekranlarını ve bilgi kartlarını eklemek veya düzenlemek gibi bazı basit ancak önemli işlemleri yapmak için bir videonun tamamen yüklenmesini beklemek zorunda kalıyordu. Bu hafta duyurulan yeni güncelleme ile içerik oluşturucular, videolarının işlenmesini beklerken tüm bu işlemleri yapabilecekler.
 
-Bu hafta duyurulan yeni güncelleme ile içerik oluşturucular, videolarının işlenmesini beklerken tüm bu işlemleri yapabilecekler.
 
-Ek olarak YouTube, Shorts kamerasının yakında 23 ülkede daha kullanıma sunulacağını duyurdu, kullanıma sunma önümüzdeki birkaç hafta içinde gerçekleşecek.
 
 {% blocklink %}
 [Daha Fazla
 ](https://wersm.com/youtube-now-lets-creators-do-more-while-their-video-upload-processes/){% endblocklink %}
 
-![facebook qr buy ](/assets/img/content/face-qr2-featured.jpeg)
+**YouTube Shorts, kullanıcıların bir YouTube videosundan ses örneklemelerine izin verecek**
+
+![tiktok youtube song şarkı ses](/assets/img/content/youtube-tiktok.0-featured.jpg)
+
+
+
+TikTok’un en güçlü özelliklerinden biri olan diğer kullanıcıların ve Youtube videolarından ses örneği alabilmek Shorts için de aktif hale gelecek. YouTube Shorts aracı, önümüzdeki haftalarda ABD dahil olmak üzere diğer Shorts pazarlarında kullanıma sunulacak.
+
+Ek olarak YouTube, Shorts kamerasının yakında 23 ülkede daha kullanıma sunulacağını duyurdu, kullanıma sunma önümüzdeki birkaç hafta içinde gerçekleşecek.
+
+{% blocklink %}
+[Daha Fazla
+](https://www.theverge.com/2021/6/7/22518828/youtube-shorts-audio-sample-feature-uk-launch){% endblocklink %}
 
 ### **Facebook QR kod ile ödemeyi başlatıyor**
+
+![facebook qr buy ](/assets/img/content/face-qr2-featured.jpeg)
 
 Facebook, Messenger için Sponsorlu Sohbet Temalarını, Ödeme QR Kodlarını ve Hızlı Yanıtları BaşlattıFacebook,  Messenger için yeni bir sponsorlu sohbet temaları setinin yanı sıra paylaşılan resimler için yeni bir hızlı yanıt çubuğu ve mesaj dizileriniz içinde para talep etmeyi ve göndermeyi kolaylaştıran QR ve ödeme bağlantılarını duyurdu . 
 
@@ -66,9 +78,9 @@ Buna ek olarak, Facebook bir mesaj dizisindeki medyayı görüntülerken yeni bi
 [Daha Fazla
 ](https://www.socialmediatoday.com/news/facebook-launches-sponsored-chat-themes-payment-qr-codes-and-quick-replies/601647/){% endblocklink %}
 
-![](/assets/img/content/insta-shop-featured.jpeg)
+### Instagram, içerik oluşturucular için yeni para kazanma seçeneklerini duyurdu
 
-### Instagram, İçerik Oluşturucular İçin Yeni Para Kazanma Seçeneklerini Duyurdu
+![](/assets/img/content/insta-shop-featured.jpeg)
 
 İçerik oluşturucuların ödeme sırasında daha fazla ürün keşfetmesine ve bunları takipçileriyle paylaşarak gerçekleştirdikleri satışlardan komisyon kazanmalarına olanak tanıyan Instagram'ın yeni “yerel ortaklık aracı”nı kullanıcılarına sunuyor.
 
@@ -78,9 +90,9 @@ Ek olarak Instagram, destekçilerin bir Instagram akışı sırasında birden fa
 [Daha Fazla
 ](https://wersm.com/instagram-announces-new-monetization-options-for-creators/){% endblocklink %}
 
-![lgbt pinterest gökkuşağı](/assets/img/content/pinterest-lgbt1-featured.jpeg)
-
 ### **Pinterest, Onur Ayı için yeni destek girişimleri başlatıyor**
+
+![lgbt pinterest gökkuşağı](/assets/img/content/pinterest-lgbt1-featured.jpeg)
 
 Platform, LGBTQ+ kullanıcılarına sağlayabileceği faydaları vurgulamayı amaçlayan yeni 'Gerçek Renklerini Göster' kampanyasını yayınladı. Kullanıcıların kimliklerini daha iyi ifade etmelerine yardımcı olmak için hem kişisel hem de iş hesaplarına yeni bir zamir seçeneği ekliyor. 
 
@@ -92,23 +104,11 @@ Buna ek olarak, Pinterest ay boyunca Bugün sekmesinde LGBTQ+ içerik oluşturuc
 [Daha Fazla
 ](https://www.socialmediatoday.com/news/pinterest-adds-new-pronouns-field-on-profiles-launches-new-support-initiat/601501/){% endblocklink %}
 
-![tiktok youtube song şarkı ses](/assets/img/content/youtube-tiktok.0-featured.jpg)
-
-**YouTube'un TikTok’ a karşı çıkarttığı rakibi Shorts, yakında kullanıcıların herhangi bir YouTube videosundan ses örneklemelerine izin verecek**
-
-TikTok’un en güçlü özelliklerinden biri olan diğer kullanıcıların ve Youtube videolarından ses örneği alabilmek Shorts için de aktif hale gelecek. YouTube Shorts aracı, önümüzdeki haftalarda ABD dahil olmak üzere diğer Shorts pazarlarında kullanıma sunulacak.
-
-{% blocklink %}
-[Daha Fazla
-](https://www.theverge.com/2021/6/7/22518828/youtube-shorts-audio-sample-feature-uk-launch){% endblocklink %}
+### Kan bağışına Facebook etkisi
 
 
 
 ![facebook blood kan donor ](/assets/img/content/facebook-kan-featured.jpeg)
-
-
-
-### Kan Bağışına Facebook Etkisi
 
 Facebook, Dünya Kan Bağışçıları Günü'nde 100 milyondan fazla insanın Kan Bağışları özelliğine kayıt olduğunu duyuruyor. Platformlar ile Kan bağışı ortak sitelerine gelen bağışların %19 oranında arttığı görüldü. 2017 yılında Hindistanda Kan Bağışları özelliğini ilk kez kullanıma sunduktan sonra Avustralya, Kolombiya, İsrail, Singapur ve Tunus dahil olmak üzere 37 ülkeye yayıldı.
 
@@ -118,9 +118,13 @@ Facebook, Dünya Kan Bağışçıları Günü'nde 100 milyondan fazla insanın K
 
 ## **Web**
 
-![google analytics rapor](/assets/img/content/analytics-featured.png)
+
 
 ### Google Analytics’den raporlama seçeneklerine güncelleme
+
+
+
+![google analytics rapor](/assets/img/content/analytics-featured.png)
 
 Google kampanya yanıt verileri sağlamayı amaçlayan daha gizlilik dostu yeni bir Google Analytics güncellemesini duyurdu.
 
@@ -140,11 +144,13 @@ Artık önemli performans ölçütlerinin hızlı bir görüntüsünü sağlayac
 
 ## Araştırma
 
-![oyun harcama kapanma ](/assets/img/content/oyun1-featured.jpeg)
+
 
 ### Kapanma döneminde oyun ve oyun harcamalarında yükseliş
 
-Dijital oyun mağazası Oyunfor’un açıkladığı verilere göre oyun ve oyun içi satışları 17 günlük tam kapanmanın etkisiyle Mayıs ayında patlama yaşayarak yılın zirvesini gördü. Mayıs ayında gerçekleşen tam kapanmanın da etkisiyle Nisan ayına kıyasla da yüzde 15 artan oyun ve oyun içi satışları geçtiğimiz yılın Mayıs ayına göre ise yüzde 35’lik bir büyüme göstererek son zamanların en yüksek satış rakamlarına ulaşmış oldu.
+![oyun harcama kapanma ](/assets/img/content/oyun1-featured.jpeg)
+
+Dijital oyun mağazası Oyunfor’un açıkladığı verilere göre oyun ve oyun içi satışları 17 günlük tam kapanmanın etkisiyle Mayıs ayında patlama yaşayarak yılın zirvesini gördü. Mayıs ayında gerçekleşen tam kapanmanın da etkisiyle Nisan ayına kıyasla da %15 artan oyun ve oyun içi satışları geçtiğimiz yılın Mayıs ayına göre ise %35’lik bir büyüme göstererek son zamanların en yüksek satış rakamlarına ulaşmış oldu.
 
 Mayıs ayı satışların kategori olarak dağılımı; pc’de %21, konsolda %16, mobilde %63 oldu.
 
@@ -173,24 +179,28 @@ Pandeminin etkisiyle e-pazar yeriyle satış yapan işletme sayısı 2019'a gör
 [Daha Fazla
 ](https://webrazzi.com/2021/06/09/tubisad-a-gore-pandemiyle-e-ticaret-harcamalari-yuzde-45-buyudu){% endblocklink %}
 
-![adex ](/assets/img/content/adex-benchmark1-featured.png)
-
 ### IAB Europe'un Avrupa dijital reklam pazarı verileri
+
+
+
+![adex ](/assets/img/content/adex-benchmark1-featured.png)
 
 \
 IAB Europe'un AdEx Benchmark 2020 Araştırması, Avrupa Dijital Reklamcılık Pazarının 2020'de Olumlu Büyüme Sağladığını Ortaya Çıkardı
 
 Pandemiye Rağmen Avrupa dijital reklam pazarı %6,3 oranında büyüyerek 69 milyar euro’ya ulaştı. Türkiye %34,8 büyüme kaydeden en dinamik pazar oldu ve şu anda reklam harcamaları açısından ilk 10 Avrupa pazarına giriyor. 
 
-Sosyal ve video sonrası en güçlü Büyüme 
+Sosyal ve video sonrası en güçlü büyüme 
 
 2020 yılının ikinci yarısında e-ticaretteki patlama, küçük işletmeler ve marka reklamcılığının geri dönüşüyle ​​birlikte sosyal medya ve video, tüm kanallarda en güçlü büyümeyi kaydetti. Sosyal medya, videonun etkileyici bir şekilde %16.3 oranında büyümesiyle %15.9 büyüdü. Bu arada, arama %7,9 artış yaşarken görüntülü reklam %9,1 büyüdü.
 
-Basın bülteninin tamamını [buradan](https://iabeurope.eu/knowledge-hub/iab-europe-adex-benchmark-2020-study-highlights/) okuyun
+{% blocklink %}
+[Daha Fazla
+](https://iabeurope.eu/wp-content/uploads/2021/05/IABEurope_AdexBenchmark_2020_2021.pdf){% endblocklink %}
+
+### **Brand Finance Turkey 100**
 
 ![thy arçelik brand finance](/assets/img/content/brand-finance-featured.jpeg)
-
-### **BRAND FINANCE TURKEY 100**
 
 Bu yıl 15.si yayınlanan ‘’Türkiye’nin En Değerli Markaları” araştırmasına göre TÜRK HAVA YOLLARI Türkiye’nin en değerli markası oldu. Listenin ikinci sırasını ise 1,59 milyar dolar değer ile Arçelik yer aldı.
 
@@ -202,17 +212,19 @@ Bu yıl 15.si yayınlanan ‘’Türkiye’nin En Değerli Markaları” araşt�
 
 ## Reklam
 
-{% youtube 8pkM33VPrwQ %}
 
-### Yemeksepeti’nden Yusuf Yazıcı’ya Hayal Kurduran Eğlenceli Reklam
+
+### Yemeksepeti’nden Yusuf Yazıcı’ya hayal kurduran eğlenceli reklam
+
+{% youtube 8pkM33VPrwQ %}
 
 Bu yıl Fransa Ligue 1’de, tam 10 yıl sonra Lille OSC’yi şampiyon yapan futbolculardan biri olan Yazıcı, reklam filminde Yemeksepeti’nin milyonlarca kullanıcıya sunmuş olduğu dilediği lezzete hızlı ve kolayca ulaşma hizmetini esprili bir şekilde izleyicilere aktarıyor.
 
 Futbolseverlerin de sofralarında diledikleri yemeğin “en iyisi”ni bulmalarını sağlayan Yemeksepeti, 20 yılı aşkın bir süredir lezzete ulaşmak konusunda hızlı ve kaliteli çözümler sunduğunu bu reklam filmiyle betimliyor.
 
-{% youtube 0m-c4GixUpg %}
-
 ### **Miğfer olmadan asla**
+
+{% youtube 0m-c4GixUpg %}
 
 Danimarka'dan bisiklet sürücülerini kask kullanmaya teşvik eden kamu spotu
 
@@ -220,23 +232,29 @@ Danimarka'dan bisiklet sürücülerini kask kullanmaya teşvik eden kamu spotu
 
 Reklam filminde İngiltere’ye miğferi olmaksızın yelken açmaya hazırlanan Viking lideri sefer öncesinde halkından miğfer takması konusunda ciddi bir uyarı alıyor, türlü bahaneler karşısında kazanan can güvenliği oluyor.
 
-{% youtube ZkL07bNUjts %}
+
+
+### Domin-oh-hoo-hoo
+
+{% youtube ZkL07bNUjts %} 
 
 Domino's, bir şehir manzarasında pizza siparişlerini bir grup arkadaşın yoğrulduğunu gören bir TV reklamı da dahil olmak üzere, milyonlarca poundluk entegre bir kampanyayla yeni bir grup sipariş uygulaması özelliğinin lansmanını başlatıyor.
 
 Tüketicilerin paket servis iştahı güçlü kalmaya devam ederken, Birleşik Krallık'ın en sevilen pizza şirketi Domino's bugün ulusu tekrar karşılayan cesur ve dikkat çekici bir kampanya başlattı. Kampanya, Dominos'un insanların bir araya geldiklerinde hazır oldukları yerden bir grup siparişine eklemelerine olanak tanıyor. Nihai güvenilir, kalabalığı memnun eden ve çok değerli pizza markası olarak ünlerini geliştiriyorlar. 
 
+### Sevilen haber uygulaması Bundle ile sokak röportajı
+
 {% youtube 4Hxt8Anx__A %}
 
 Bundle'ın yeni reklam filminde, sokak röportajı konsepti yer alıyor. Reklam filminde, sokak röportajı yapan vatandaşların yorumlarını ise dublaj sanatçıları seslendiriyor. 
 
-## \
+## Pazarlama
 
-Pazarlama
 
-![loreal tiktok](/assets/img/content/loreal-2-featured.jpeg)
 
 ### **L'Oréal ticaretini artırmak için TikTok'a dönüyor**
+
+![loreal tiktok](/assets/img/content/loreal-2-featured.jpeg)
 
 Kozmetik devinin hayranları, ürünleri doğrudan uygulamadaki Garnier ve NYX Professional Make-Up hesap sayfalarından satın alabilecek.
 
@@ -248,36 +266,37 @@ Kullanıcılar kısa video gönderilerinden, canlı yayınlardan ve markanın an
 [Daha Fazla
 ](https://digiday.com/marketing/why-loreal-is-turning-to-tiktok-for-commerce-boost/){% endblocklink %}
 
-![apple wwdc](/assets/img/content/apple2-featured.jpg)
+
 
 ### **Teknoloji dünyasının merakla beklediği Dünya Geliştiriciler Konferansı (WWDC 2021) yapıldı.**
 
+![apple wwdc](/assets/img/content/apple2-featured.jpg)
+
 Küresel pandemi nedeniyle çevrimiçi gerçekleşen etkinlikte Apple‘ın yeni ürün ve hizmetlerinin yanı sıra uzun süredir merakla beklenen iOS, iPadOS ve watchOS gibi işletim sistemlerinin yeni sürümleri duyuruldu.
 
-Etkinlikte öne çıkan detaylardan biri yeni macOS 12 sürümü oldu. Şirketin tüm bilgisayarlarında uzun yıllardır başarı ile kullandığı macOS, yeni süOdeabank, dünya klasiği masalları eşitlikçi bir bakış açısıyla yeniden yorumlayarak fark yaratacak bir projeye imza attı. Proje kapsamında Kırmızı Başlıklı Kız, Rapunzel ve Sindirella masalları kadın-erkek eşitliği kapsamında yeniden kaleme alındı.
+Etkinlikte öne çıkan detaylardan biri yeni macOS 12 sürümü oldu. Şirketin tüm bilgisayarlarında uzun yıllardır başarı ile kullandığı macOS, yeni sürümü ile birlikte bambaşka bir hale bürünüyor.
 
-Kadın erkek eşitliği kavramının çocuk yaşta yerleştiğine inanan Odeabank, anne babalarda farkındalık yaratmak ve toplum bilincinin değiştirilmesine katkı sağlamak amacıyla en bilinen ve sevilen klasik masalların eşitlikçi bir bakış açısıyla yeniden yorumlandığı Eşit Masallar projesini hayata geçirdi.
 
-Tüm masalları dinlemek için:
-
-\
-e birlikte bambaşka bir hale bürünüyor.
-
-Detaylar için [buradan](https://www.apple.com/tr/newsroom/2021/06/macos-monterey-introduces-powerful-features-to-get-more-done/) ulaşabilirsiniz.
-
-![odeabank masal eşitlik](/assets/img/content/odeabankk-featured.png)
 
 ### Odeabank’tan çocuklara ‘Eşit Masallar’
+
+
+
+![odeabank masal eşitlik](/assets/img/content/odeabankk-featured.png)
 
 Odeabank, dünya klasiği masalları eşitlikçi bir bakış açısıyla yeniden yorumlayarak fark yaratacak bir projeye imza attı. Proje kapsamında Kırmızı Başlıklı Kız, Rapunzel ve Sindirella masalları kadın-erkek eşitliği kapsamında yeniden kaleme alındı.
 
 Kadın erkek eşitliği kavramının çocuk yaşta yerleştiğine inanan Odeabank, anne babalarda farkındalık yaratmak ve toplum bilincinin değiştirilmesine katkı sağlamak amacıyla en bilinen ve sevilen klasik masalların eşitlikçi bir bakış açısıyla yeniden yorumlandığı Eşit Masallar projesini hayata geçirdi. 
 
-Tüm masalları dinlemek için [tıklayınız](https://www.odeabank.com.tr/esit-masallar)
+{% blocklink %}
+[Daha Fazla
+](https://www.odeabank.com.tr/esit-masallar){% endblocklink %}
+
+
+
+### **Trafikte ketçap akışkanlığı hızında ilerleyenlere ödül**
 
 ![heinz navigasyon](/assets/img/content/heinz-featured.png)
-
-### **Trafikte Ketçap Akışkanlığı Hızında İlerleyenlere Ödül**
 
 Heinz'in Rethink imzalı kampanyasında sıkışık trafikte kalanlar üzerinden markanın ketçaplarının cam şişeden dökülme hızına vurgu yapılıyor.
 
@@ -290,9 +309,11 @@ Navigasyon uygulaması Waze ve Burger King ile birlikte çalışan Heinz, trafik
 [Daha Fazla
 ](https://bigumigu.com/haber/trafikte-ketcap-akiskanligi-hizinda-ilerleyenlere-odul/){% endblocklink %}
 
-![netflix shop](/assets/img/content/netflix-featured.jpg)
+
 
 ### **Netflix çevrimiçi mağaza açıyor**
+
+![netflix shop](/assets/img/content/netflix-featured.jpg)
 
 Netflix, hitlere göre ürünler sunarak şirkete gelir sağlayacak bir alışveriş sitesi oluşturuyor.
 
@@ -306,22 +327,15 @@ Netflix, çevrimiçi mağazayı teknoloji şirketi Shopify ile oluşturdu. Şirk
 [Daha Fazla
 ](https://about.netflix.com/en/news/introducing-netflix-shop){% endblocklink %}
 
-![e posta pazarlama](/assets/img/content/eposta1-featured.png)
-
 ### **Pazarlama için e-posta bültenleri nasıl etkili bir şekilde kullanılır?**
+
+
+
+![e posta pazarlama](/assets/img/content/eposta1-featured.png)
 
 Pazarlama e-posta bültenleri onlarca yıldır var. Bu e-postaları almak ilk başta bir yenilik olsa da, gelen kutularımız artık bunlarla dolup taşıyor. E-posta ile çalışan pazarlamacılar, sürekli olarak sizin açtığınız e-posta olduğundan emin olmaya çalışıyorlar.
 
 E-posta pazarlamasının başarısı üzerine yapılan bir ankette, yatırım getirisi ortalaması, markanın e-posta pazarlamasına yatırdığı her dolar için 42 dolarlık bir getiriydi. Bu, mevcut herhangi bir pazarlama kanalının açık ara en yükseğidir.
-
-İş haber bültenlerinin tasarımı ve türü farklılık gösterir ancak bazı şeyler değişmez. Aşağıdakiler, bir e-posta bülteninin bazı temel bileşenleridir. 
-
-1. Konu satırı
-2. Gönderilecek zaman
-3. İçerik
-4. Şablonlar ve tasarımlar
-5. Harekete geçirici mesaj veya bağlantılar
-6. Kayıt formları
 
 Açılan e-posta sayısının %81'i mobilde, bu rakam 2011'de %27'den büyük ölçüde arttı. Mobil cihazlar için optimizasyon yapmanız gerektiğini söyleyebiliriz. Optimize edilmezlerse, alıcıların %80'i e-postayı hemen siler.
 
@@ -330,6 +344,8 @@ Açılan e-posta sayısının %81'i mobilde, bu rakam 2011'de %27'den büyük ö
 ](https://sproutsocial.com/insights/email-newsletters/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+SproutInsights+%28Sprout+Insights%29){% endblocklink %}
 
 ## Sosyal Sorumluluk
+
+### Samsung, eski ambalajlardan kendin yap seti oluşturdu
 
 ![](/assets/img/content/samsung-featured.jpeg)
 
@@ -341,9 +357,11 @@ Dünya Çevre Günü‘ne özel Samsung, müşterileri için eski ambalajları d
 [Daha Fazla
 ](https://pazarlamasyon.com/samsung-eski-ambalajlardan-eglenceli-kendin-yap-seti-olusturdu/){% endblocklink %}
 
-![](/assets/img/content/yemeksepeti1-featured.jpeg)
-
 ### **İhtiyacın yoksa yeşili koru**
+
+
+
+![](/assets/img/content/yemeksepeti1-featured.jpeg)
 
 Yemeksepeti’nin sipariş onay sayfasında bulunan “İhtiyacın yoksa yeşili koru” seçeneği ile 6 yıldır tek kullanımlık plastik tüketimini azaltmak için kullanıcıları ve restoranları teşvik ediyor. 
 
@@ -356,11 +374,13 @@ Yemeksepeti alışkanlıkları yönlendirme hedefiyle hareket ediyor. Toplam sip
 [Daha Fazla
 ](https://pazarlamasyon.com/yemeksepetinden-siparis-veren-her-uc-kisiden-biri-yesili-koruyor/){% endblocklink %}
 
-{% youtube cliwi3zFAtw %}
-
 ### Finish'ten "Yarının Suyu" hareketinin yaratıcı bağış kampanyası
 
+{% youtube cliwi3zFAtw %}
+
 Kuyucuk Gölü’ne yeniden hayat veren Finish, göl ve çevresindeki ekosistemin kurtuluşunu bir şarkıyla kutluyor. Tamamen kurumasının ardından Kars Valiliği, DSİ ve Kuzeydoğa Derneği işbirliğiyle Kuyucuk Gölü’ne can suyu getiren projenin ikinci yıldönümünde yayınlanan şarkının videosu her izlendiğinde marka tarafından göle 57 litre su bağışlanacak.
+
+### Şirketler plastik kirliliğine karşı harekete geçiyor
 
 ![plastik yarının suyu](/assets/img/content/plastik-featured.jpeg)
 
@@ -371,3 +391,9 @@ Plastik taahhütlerini İPG çatısı altında paylaşan şirketler; 2023 yılı
 {% blocklink %}
 [Daha Fazla
 ](https://pazarlamasyon.com/markalar-plastik-kirliligine-karsi-harekete-geciyor/){% endblocklink %}
+
+
+
+- - -
+
+Daha çok şey öğreneceğimiz günler dileğiyle, bir dahaki bültene kadar hoşçakalın!
