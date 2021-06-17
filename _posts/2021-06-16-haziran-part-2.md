@@ -36,8 +36,6 @@ Aşı tedarikçi firması Johnson & Johnson, dünya çapında 1 milyar doz aşı
 [Daha Fazla
 ](https://www.socialmediatoday.com/news/linkedin-case-study-how-johnson-johnson-used-linkedin-to-promote-vaccine/601655/){% endblocklink %}
 
-
-
 ![youtube shorts güncelleme](/assets/img/content/youtube-shorts-logo-featured.png)
 
 ### **Youtube içerik oluşturmada kolaylık sağlıyor.**
@@ -62,8 +60,6 @@ Facebook, Messenger için Sponsorlu Sohbet Temalarını, Ödeme QR Kodlarını v
 
 Yeni temaları test etmek için bir konuşma seçin, ayarlarına gidin ve 'Tema'yı tıklayın.
 
-
-
 Buna ek olarak, Facebook bir mesaj dizisindeki medyayı görüntülerken yeni bir Hızlı Yanıt seçeneği ekledi. Artık kullanıcılar, görüntüleme modundayken görüntünün altında yanıt vererek paylaşılan bir görüntüye yanıt verebilecekler.
 
 {% blocklink %}
@@ -73,8 +69,6 @@ Buna ek olarak, Facebook bir mesaj dizisindeki medyayı görüntülerken yeni bi
 ![](/assets/img/content/insta-shop-featured.jpeg)
 
 ### Instagram, İçerik Oluşturucular İçin Yeni Para Kazanma Seçeneklerini Duyurdu
-
-
 
 İçerik oluşturucuların ödeme sırasında daha fazla ürün keşfetmesine ve bunları takipçileriyle paylaşarak gerçekleştirdikleri satışlardan komisyon kazanmalarına olanak tanıyan Instagram'ın yeni “yerel ortaklık aracı”nı kullanıcılarına sunuyor.
 
@@ -100,7 +94,6 @@ Buna ek olarak, Pinterest ay boyunca Bugün sekmesinde LGBTQ+ içerik oluşturuc
 
 ![tiktok youtube song şarkı ses](/assets/img/content/youtube-tiktok.0-featured.jpg)
 
-### \
 **YouTube'un TikTok’ a karşı çıkarttığı rakibi Shorts, yakında kullanıcıların herhangi bir YouTube videosundan ses örneklemelerine izin verecek**
 
 TikTok’un en güçlü özelliklerinden biri olan diğer kullanıcıların ve Youtube videolarından ses örneği alabilmek Shorts için de aktif hale gelecek. YouTube Shorts aracı, önümüzdeki haftalarda ABD dahil olmak üzere diğer Shorts pazarlarında kullanıma sunulacak.
@@ -109,7 +102,11 @@ TikTok’un en güçlü özelliklerinden biri olan diğer kullanıcıların ve Y
 [Daha Fazla
 ](https://www.theverge.com/2021/6/7/22518828/youtube-shorts-audio-sample-feature-uk-launch){% endblocklink %}
 
+{% figure caption:"falan filan" %}
+
 ![facebook blood kan donor ](/assets/img/content/facebook-kan-featured.jpeg)
+
+{% endbfigure %}
 
 ### Kan Bağışına Facebook Etkisi
 
@@ -223,23 +220,18 @@ Danimarka'dan bisiklet sürücülerini kask kullanmaya teşvik eden kamu spotu
 
 Reklam filminde İngiltere’ye miğferi olmaksızın yelken açmaya hazırlanan Viking lideri sefer öncesinde halkından miğfer takması konusunda ciddi bir uyarı alıyor, türlü bahaneler karşısında kazanan can güvenliği oluyor.
 
-
-
-
-
 {% youtube ZkL07bNUjts %}
 
 Domino's, bir şehir manzarasında pizza siparişlerini bir grup arkadaşın yoğrulduğunu gören bir TV reklamı da dahil olmak üzere, milyonlarca poundluk entegre bir kampanyayla yeni bir grup sipariş uygulaması özelliğinin lansmanını başlatıyor.
 
 Tüketicilerin paket servis iştahı güçlü kalmaya devam ederken, Birleşik Krallık'ın en sevilen pizza şirketi Domino's bugün ulusu tekrar karşılayan cesur ve dikkat çekici bir kampanya başlattı. Kampanya, Dominos'un insanların bir araya geldiklerinde hazır oldukları yerden bir grup siparişine eklemelerine olanak tanıyor. Nihai güvenilir, kalabalığı memnun eden ve çok değerli pizza markası olarak ünlerini geliştiriyorlar. 
 
-
-
 {% youtube 4Hxt8Anx__A %}
 
 Bundle'ın yeni reklam filminde, sokak röportajı konsepti yer alıyor. Reklam filminde, sokak röportajı yapan vatandaşların yorumlarını ise dublaj sanatçıları seslendiriyor. 
 
 ## \
+
 Pazarlama
 
 ![loreal tiktok](/assets/img/content/loreal-2-featured.jpeg)
@@ -264,11 +256,7 @@ Küresel pandemi nedeniyle çevrimiçi gerçekleşen etkinlikte Apple‘ın yeni
 
 Etkinlikte öne çıkan detaylardan biri yeni macOS 12 sürümü oldu. Şirketin tüm bilgisayarlarında uzun yıllardır başarı ile kullandığı macOS, yeni süOdeabank, dünya klasiği masalları eşitlikçi bir bakış açısıyla yeniden yorumlayarak fark yaratacak bir projeye imza attı. Proje kapsamında Kırmızı Başlıklı Kız, Rapunzel ve Sindirella masalları kadın-erkek eşitliği kapsamında yeniden kaleme alındı.
 
-
-
 Kadın erkek eşitliği kavramının çocuk yaşta yerleştiğine inanan Odeabank, anne babalarda farkındalık yaratmak ve toplum bilincinin değiştirilmesine katkı sağlamak amacıyla en bilinen ve sevilen klasik masalların eşitlikçi bir bakış açısıyla yeniden yorumlandığı Eşit Masallar projesini hayata geçirdi.
-
-
 
 Tüm masalları dinlemek için:
 
@@ -329,15 +317,10 @@ E-posta pazarlamasının başarısı üzerine yapılan bir ankette, yatırım ge
 İş haber bültenlerinin tasarımı ve türü farklılık gösterir ancak bazı şeyler değişmez. Aşağıdakiler, bir e-posta bülteninin bazı temel bileşenleridir. 
 
 1. Konu satırı
-
 2. Gönderilecek zaman
-
 3. İçerik
-
 4. Şablonlar ve tasarımlar
-
 5. Harekete geçirici mesaj veya bağlantılar
-
 6. Kayıt formları
 
 Açılan e-posta sayısının %81'i mobilde, bu rakam 2011'de %27'den büyük ölçüde arttı. Mobil cihazlar için optimizasyon yapmanız gerektiğini söyleyebiliriz. Optimize edilmezlerse, alıcıların %80'i e-postayı hemen siler.
@@ -378,8 +361,6 @@ Yemeksepeti alışkanlıkları yönlendirme hedefiyle hareket ediyor. Toplam sip
 ### Finish'ten "Yarının Suyu" hareketinin yaratıcı bağış kampanyası
 
 Kuyucuk Gölü’ne yeniden hayat veren Finish, göl ve çevresindeki ekosistemin kurtuluşunu bir şarkıyla kutluyor. Tamamen kurumasının ardından Kars Valiliği, DSİ ve Kuzeydoğa Derneği işbirliğiyle Kuyucuk Gölü’ne can suyu getiren projenin ikinci yıldönümünde yayınlanan şarkının videosu her izlendiğinde marka tarafından göle 57 litre su bağışlanacak.
-
-
 
 ![plastik yarının suyu](/assets/img/content/plastik-featured.jpeg)
 
