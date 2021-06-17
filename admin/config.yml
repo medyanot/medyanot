@@ -8,6 +8,8 @@ public_folder: "/assets/img/content"
 
 publish_mode: editorial_workflow
 
+locale: 'tr'
+
 slug:
   encoding: "ascii"
   clean_accents: true
