@@ -2,9 +2,8 @@
 title: Dijital Reklam Pazar Verileri, Marka İş Birlikleri ve Pandeminin Oyunlara
   Etkisi
 image: /assets/img/content/pexels-karolina-grabowska-6919947-featured.jpg
-description: Bu hafta bültenimizde, sosyal mecralardaki yenilikler, eğlenceli
-  reklamlar, sosyal sorumluluk projeleri ve en güncel reklamları sizin için
-  derledik.
+description: Bu haftaki bültenimizde, sosyal mecralardaki yenilikleri, sosyal
+  sorumluluk projelerini ve en güncel reklamları sizin için derledik.
 tags:
   - Aşı
   - Sağlık
