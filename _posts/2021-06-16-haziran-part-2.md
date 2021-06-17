@@ -1,8 +1,8 @@
 ---
-title: Oyun Harcamaları, Sosyal Medyada Yenilikleri, Marka İş birlikleri ve
-  Dijital Pazar Verileri
+title: Dijital Pazar Verileri, Marka İş birlikleri ve Pandeminin Oyunlara Etkisi
 image: /assets/img/content/pexels-karolina-grabowska-6919947-featured.jpg
-description: "Yepyeni bültene hoş geldiniz "
+description: Sosyal mecralardaki yenilikler, eğlenceli reklamlar ve sosyal
+  sorumluluk projeleri ve en son yenilikler
 tags:
   - aşı
   - sağlık
@@ -78,7 +78,7 @@ Daha Fazla
 
 ![facebook qr buy ](/assets/img/content/face-qr2-featured.jpeg)
 
-Facebook, Messenger için Sponsorlu Sohbet Temalarını, Ödeme QR Kodlarını ve Hızlı Yanıtları BaşlattıFacebook,  Messenger için yeni bir sponsorlu sohbet temaları setinin yanı sıra paylaşılan resimler için yeni bir hızlı yanıt çubuğu ve mesaj dizileriniz içinde para talep etmeyi ve göndermeyi kolaylaştıran QR ve ödeme bağlantılarını duyurdu . 
+Facebook, Messenger için sponsorlu sohbet temalarını, ödeme QR Kodlarını ve hızlı yanıtları başlattı. Facebook, Messenger için yeni bir sponsorlu sohbet temaları setinin yanı sıra paylaşılan resimler için yeni bir hızlı yanıt çubuğu ve mesaj dizileriniz içinde para talep etmeyi ve göndermeyi kolaylaştıran QR ve ödeme bağlantılarını duyurdu . 
 
 İlk olarak, 'Hızlı ve Öfkeli' serisindeki sponsorlu tema fırsatlarına işaret edebilecek yeni bir Messenger teması ekledi. Facebook, yeni albümü Sour'un  lansmanını kutlamak için Olivia Rodrigo'dan ek temalar ve ayrıca bir 'Dünya Okyanuslar Günü' temasıyla buna eklendi. 
 
