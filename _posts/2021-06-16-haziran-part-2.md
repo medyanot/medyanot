@@ -397,4 +397,4 @@ Plastik taahhütlerini İPG çatısı altında paylaşan şirketler; 2023 yılı
 
 - - -
 
-Daha çok şey öğreneceğimiz günler dileğiyle, bir dahaki bültene kadar hoşçakalın!
+Daha çok şey öğreneceğimiz günler dileğiyle, bir sonraki bültene kadar hoşçakalın!
