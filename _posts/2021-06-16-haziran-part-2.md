@@ -1,8 +1,8 @@
 ---
 title: Dijital Pazar Verileri, Marka İş birlikleri ve Pandeminin Oyunlara Etkisi
 image: /assets/img/content/pexels-karolina-grabowska-6919947-featured.jpg
-description: Sosyal mecralardaki yenilikler, eğlenceli reklamlar ve sosyal
-  sorumluluk projeleri ve en son yenilikler
+description: "Sosyal mecralardaki yenilikler, eğlenceli reklamlar ve sosyal
+  sorumluluk projeleri ve en güncel reklamlar "
 tags:
   - aşı
   - sağlık
@@ -71,8 +71,8 @@ TikTok’un en güçlü özelliklerinden biri olan diğer kullanıcıların ve Y
 Ek olarak YouTube, Shorts kamerasının yakında 23 ülkede daha kullanıma sunulacağını duyurdu, kullanıma sunma önümüzdeki birkaç hafta içinde gerçekleşecek.
 
 {% blocklink %}
-Daha Fazla
-{% endblocklink %}
+[Daha Fazla
+](https://www.theverge.com/2021/6/7/22518828/youtube-shorts-audio-sample-feature-uk-launch){% endblocklink %}
 
 ### **Facebook QR kod ile ödemeyi başlatıyor**
 
