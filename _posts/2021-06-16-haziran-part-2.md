@@ -102,11 +102,11 @@ TikTok’un en güçlü özelliklerinden biri olan diğer kullanıcıların ve Y
 [Daha Fazla
 ](https://www.theverge.com/2021/6/7/22518828/youtube-shorts-audio-sample-feature-uk-launch){% endblocklink %}
 
-{% figure caption:"falan filan" %}
+{% figure caption: "falan filan" %}
 
 ![facebook blood kan donor ](/assets/img/content/facebook-kan-featured.jpeg)
 
-{% endbfigure %}
+{% endfigure %}
 
 ### Kan Bağışına Facebook Etkisi
 
