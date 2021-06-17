@@ -11,7 +11,7 @@ tags:
   - Rapor
   - TikTok
 toc: true
-draft: true
+draft: false
 ---
 ## Sosyal Medya
 
