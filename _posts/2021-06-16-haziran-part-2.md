@@ -4,11 +4,11 @@ image: /assets/img/content/pexels-karolina-grabowska-6919947-featured.jpg
 description: "Sosyal mecralardaki yenilikler, eğlenceli reklamlar ve sosyal
   sorumluluk projeleri ve en güncel reklamlar "
 tags:
-  - aşı
-  - sağlık
-  - pandemi
-  - rapor
-  - tiktok
+  - Aşı
+  - Sağlık
+  - Pandemi
+  - Rapor
+  - TikTok
 toc: true
 draft: true
 ---
@@ -216,7 +216,7 @@ Bu yıl 15.si yayınlanan ‘’Türkiye’nin En Değerli Markaları” araşt�
 
 ### UNTWO’den Brand Africa Girişimi
 
-![africa turizm covid](/assets/img/content/inspiration-africa_0-featured.jpeg)
+![africa turizm covid](/assets/img/content/africa-survey-featured.jpeg)
 
 Dünya Turizm Örgütü, Afrika Birliği ve özel kurumlarla işbirliği içerisinde Covid sonrası Afrika turizmini güçlendirme amaçlı bir promosyon kampanyasına start verdi. Yeni kitlelere ulaşmayı hedefleyen kampanya, insan odaklı ve pozitif bir yaklaşımı merkezine koyarak “Afrika markasını” güncelleyecek.
 
