@@ -3,15 +3,30 @@ title: Oyun Harcamaları, Sosyal Medyada Yenilikleri, Marka İş birlikleri ve
   Dijital Pazar Verileri
 image: /assets/img/content/pexels-karolina-grabowska-6919947-featured.jpg
 description: "Yepyeni bültene hoş geldiniz "
-tags: []
-toc: false
+tags:
+  - aşı
+  - sağlık
+  - pandemi
+  - rapor
+  - tiktok
+toc: true
 draft: true
 ---
 ## Sosyal Medya
 
+### Spotify, canlı ses uygulamasını piyasaya sürüyor
+
+![spotify clubhouse](/assets/img/content/spotify-greenroom-clubhouse-a-rakip-oluyor-featured.jpeg)
+
+Spotify, Greenroom adını verdiği uygulamayı, Clubhouse’a rakip olarak piyasaya sürdü. Spotify üyeliğinden bağımsız olarak çalışabilen uygulamada, Greenroom katılımcıları, konuşmacıları sınırlı sayıda mevcut olan “Gem”lerle ödüllendirebilecekler.
+
+{% blocklink %}
+[Daha Fazla](https://www.spotify.com/us/greenroom/)
+{% endblocklink %}
+
 ### Google, yeni bir satın alma deneyimi getirmeyi test ediyor
 
-![youtube google black maps](/assets/img/content/google-featured.jpeg)
+![youtube google black maps ](/assets/img/content/google-featured.jpeg)
 
 Güncellemeler, çevrimiçi alışverişin daha fazla olduğu ve aynı zamanda kimden satın aldıklarını öğrenmek istedikleri zamanda geliyor.
 
@@ -23,7 +38,7 @@ Google, şirketlere satışta yardımcı olmak için birkaç başka girişim ve 
 [Daha Fazla](https://wersm.com/google-announces-new-tools-and-features-for-brands-and-retailers/)
 {% endblocklink %}
 
-### **Aşı kullanımı için LinkedIn** 
+### **Aşı kullanımı için LinkedIn**
 
 ![Linkedin aşı johnson covid](/assets/img/content/linkedin-asi-featured.png)
 
@@ -43,8 +58,6 @@ Aşı tedarikçi firması Johnson & Johnson, dünya çapında 1 milyar doz aşı
 
 YouTube, bu hafta içerik oluşturucular için çok hoş bir zaman kazandıran güncelleme getireceğini duyurdu. Şimdiye kadar YouTube içerik oluşturucuları, videonun ortasında gösterilen reklam aralarını yerleştirmek, bitiş ekranlarını ve bilgi kartlarını eklemek veya düzenlemek gibi bazı basit ancak önemli işlemleri yapmak için bir videonun tamamen yüklenmesini beklemek zorunda kalıyordu. Bu hafta duyurulan yeni güncelleme ile içerik oluşturucular, videolarının işlenmesini beklerken tüm bu işlemleri yapabilecekler.
 
-
-
 {% blocklink %}
 [Daha Fazla
 ](https://wersm.com/youtube-now-lets-creators-do-more-while-their-video-upload-processes/){% endblocklink %}
@@ -53,15 +66,13 @@ YouTube, bu hafta içerik oluşturucular için çok hoş bir zaman kazandıran g
 
 ![tiktok youtube song şarkı ses](/assets/img/content/youtube-tiktok.0-featured.jpg)
 
-
-
 TikTok’un en güçlü özelliklerinden biri olan diğer kullanıcıların ve Youtube videolarından ses örneği alabilmek Shorts için de aktif hale gelecek. YouTube Shorts aracı, önümüzdeki haftalarda ABD dahil olmak üzere diğer Shorts pazarlarında kullanıma sunulacak.
 
 Ek olarak YouTube, Shorts kamerasının yakında 23 ülkede daha kullanıma sunulacağını duyurdu, kullanıma sunma önümüzdeki birkaç hafta içinde gerçekleşecek.
 
 {% blocklink %}
-[Daha Fazla
-](https://www.theverge.com/2021/6/7/22518828/youtube-shorts-audio-sample-feature-uk-launch){% endblocklink %}
+Daha Fazla
+{% endblocklink %}
 
 ### **Facebook QR kod ile ödemeyi başlatıyor**
 
@@ -81,7 +92,7 @@ Buna ek olarak, Facebook bir mesaj dizisindeki medyayı görüntülerken yeni bi
 
 ### Instagram, içerik oluşturucular için yeni para kazanma seçeneklerini duyurdu
 
-![](/assets/img/content/insta-shop-featured.jpeg)
+![youtube içerik instagram yıldız](/assets/img/content/insta-shop-featured.jpeg)
 
 İçerik oluşturucuların ödeme sırasında daha fazla ürün keşfetmesine ve bunları takipçileriyle paylaşarak gerçekleştirdikleri satışlardan komisyon kazanmalarına olanak tanıyan Instagram'ın yeni “yerel ortaklık aracı”nı kullanıcılarına sunuyor.
 
@@ -107,8 +118,6 @@ Buna ek olarak, Pinterest ay boyunca Bugün sekmesinde LGBTQ+ içerik oluşturuc
 
 ### Kan bağışına Facebook etkisi
 
-
-
 ![facebook blood kan donor ](/assets/img/content/facebook-kan-featured.jpeg)
 
 Facebook, Dünya Kan Bağışçıları Günü'nde 100 milyondan fazla insanın Kan Bağışları özelliğine kayıt olduğunu duyuruyor. Platformlar ile Kan bağışı ortak sitelerine gelen bağışların %19 oranında arttığı görüldü. 2017 yılında Hindistanda Kan Bağışları özelliğini ilk kez kullanıma sunduktan sonra Avustralya, Kolombiya, İsrail, Singapur ve Tunus dahil olmak üzere 37 ülkeye yayıldı.
@@ -119,11 +128,7 @@ Facebook, Dünya Kan Bağışçıları Günü'nde 100 milyondan fazla insanın K
 
 ## **Web**
 
-
-
 ### Google Analytics’den raporlama seçeneklerine güncelleme
-
-
 
 ![google analytics rapor](/assets/img/content/analytics-featured.png)
 
@@ -144,8 +149,6 @@ Artık önemli performans ölçütlerinin hızlı bir görüntüsünü sağlayac
 ](https://blog.google/products/marketingplatform/analytics/get-privacy-safe-customer-insights-google-analytics/){% endblocklink %}
 
 ## Araştırma
-
-
 
 ### Kapanma döneminde oyun ve oyun harcamalarında yükseliş
 
@@ -182,9 +185,7 @@ Pandeminin etkisiyle e-pazar yeriyle satış yapan işletme sayısı 2019'a gör
 
 ### IAB Europe'un Avrupa dijital reklam pazarı verileri
 
-
-
-![adex ](/assets/img/content/adex-benchmark1-featured.png)
+![adex rapor pazar reklamcılık](/assets/img/content/adex-benchmark1-featured.png)
 
 \
 IAB Europe'un AdEx Benchmark 2020 Araştırması, Avrupa Dijital Reklamcılık Pazarının 2020'de Olumlu Büyüme Sağladığını Ortaya Çıkardı
@@ -211,9 +212,31 @@ Bu yıl 15.si yayınlanan ‘’Türkiye’nin En Değerli Markaları” araşt�
 [Daha Fazla
 ](https://brandirectory.com/rankings/turkey/){% endblocklink %}
 
+## Turizm
+
+### UNTWO’den Brand Africa Girişimi
+
+![africa turizm covid](/assets/img/content/inspiration-africa_0-featured.jpeg)
+
+Dünya Turizm Örgütü, Afrika Birliği ve özel kurumlarla işbirliği içerisinde Covid sonrası Afrika turizmini güçlendirme amaçlı bir promosyon kampanyasına start verdi. Yeni kitlelere ulaşmayı hedefleyen kampanya, insan odaklı ve pozitif bir yaklaşımı merkezine koyarak “Afrika markasını” güncelleyecek.
+
+{% blocklink %}
+[Daha Fazla
+](https://www.unwto.org/news/promoting-brand-africa-to-realize-the-continent-s-tourism-potential){% endblocklink %}
+
+## Teknoloji
+
+![www nft internet](/assets/img/content/world_wide_web_tim_berners_lee_source_code_1623759506552_1623759513323-featured.jpeg)
+
+### World Wide Web, NFT olarak açık artırmaya çıkaracak
+
+Internet fikrinin mucitlerinden olan Tim Berners-Lee’e ait 9555 satırlık kaynak kod, Sotheby’s tarafından NFT olarak açık artırmaya sunulacak.
+
+{% blocklink %}
+[Daha Fazla
+](https://www.bloomberg.com/news/articles/2021-06-15/source-code-for-world-wide-web-to-be-sold-at-auction-as-nft){% endblocklink %}
+
 ## Reklam
-
-
 
 ### Yemeksepeti’nden Yusuf Yazıcı’ya hayal kurduran eğlenceli reklam
 
@@ -233,8 +256,6 @@ Danimarka'dan bisiklet sürücülerini kask kullanmaya teşvik eden kamu spotu
 
 Reklam filminde İngiltere’ye miğferi olmaksızın yelken açmaya hazırlanan Viking lideri sefer öncesinde halkından miğfer takması konusunda ciddi bir uyarı alıyor, türlü bahaneler karşısında kazanan can güvenliği oluyor.
 
-
-
 ### Domin-oh-hoo-hoo
 
 {% youtube ZkL07bNUjts %} 
@@ -251,8 +272,6 @@ Bundle'ın yeni reklam filminde, sokak röportajı konsepti yer alıyor. Reklam 
 
 ## Pazarlama
 
-
-
 ### **L'Oréal ticaretini artırmak için TikTok'a dönüyor**
 
 ![loreal tiktok](/assets/img/content/loreal-2-featured.jpeg)
@@ -267,7 +286,15 @@ Kullanıcılar kısa video gönderilerinden, canlı yayınlardan ve markanın an
 [Daha Fazla
 ](https://digiday.com/marketing/why-loreal-is-turning-to-tiktok-for-commerce-boost/){% endblocklink %}
 
+### TikTok: Markaların yaratıcı içerik havuzu
 
+![tiktok genZ wunderman thompson](/assets/img/content/pexels-ron-lach-8357236-featured.jpg)
+
+TikTok sadece Z kuşağının keyifli zaman geçirdiği bir mecra değil. Netflix ve Adobe gibi yaratıcı içerik fikirlerine sürekli ihtiyacı olan dev firmalar, yüzlerini yeni nesil yaratıcılığın merkezi olan TikTok’a dönüyor. Wunderman Thompson’ın yeni yayınlanan yazısında, markaların TikTok’u yetenek avcılığı yapmak, e-ticaret hacimlerini büyütmek ve marka bilinirliğini güçlendirmek için kullandığı anlatılıyor.
+
+{% blocklink %}
+[Daha Fazla
+](https://www.fastcompany.com/90639407/netflix-is-looking-for-future-content-creators-on-tiktok-heres-how-you-can-catch-their-eye){% endblocklink %}
 
 ### **Teknoloji dünyasının merakla beklediği Dünya Geliştiriciler Konferansı (WWDC 2021) yapıldı**
 
@@ -277,13 +304,9 @@ Küresel pandemi nedeniyle çevrimiçi gerçekleşen etkinlikte Apple‘ın yeni
 
 Etkinlikte öne çıkan detaylardan biri yeni macOS 12 sürümü oldu. Şirketin tüm bilgisayarlarında uzun yıllardır başarı ile kullandığı macOS, yeni sürümü ile birlikte bambaşka bir hale bürünüyor.
 
-
-
 ### Odeabank’tan çocuklara 'Eşit Masallar'
 
-
-
-![odeabank masal eşitlik](/assets/img/content/odeabankk-featured.png)
+![odeabank masal eşitlik ](/assets/img/content/odeabankk-featured.png)
 
 Odeabank, dünya klasiği masalları eşitlikçi bir bakış açısıyla yeniden yorumlayarak fark yaratacak bir projeye imza attı. Proje kapsamında Kırmızı Başlıklı Kız, Rapunzel ve Sindirella masalları kadın-erkek eşitliği kapsamında yeniden kaleme alındı.
 
@@ -293,11 +316,9 @@ Kadın erkek eşitliği kavramının çocuk yaşta yerleştiğine inanan Odeaban
 [Daha Fazla
 ](https://www.odeabank.com.tr/esit-masallar){% endblocklink %}
 
-
-
 ### **Trafikte ketçap akışkanlığı hızında ilerleyenlere ödül**
 
-![heinz navigasyon](/assets/img/content/heinz-featured.png)
+![heinz navigasyon ketçap](/assets/img/content/heinz-featured.png)
 
 Heinz'in Rethink imzalı kampanyasında sıkışık trafikte kalanlar üzerinden markanın ketçaplarının cam şişeden dökülme hızına vurgu yapılıyor.
 
@@ -307,14 +328,12 @@ Navigasyon uygulaması Waze ve Burger King ile birlikte çalışan Heinz, trafik
 
 \
 {% blocklink %}
-[Daha Fazla
-](https://bigumigu.com/haber/trafikte-ketcap-akiskanligi-hizinda-ilerleyenlere-odul/){% endblocklink %}
-
-
+Daha Fazla
+{% endblocklink %}
 
 ### **Netflix çevrimiçi mağaza açıyor**
 
-![netflix shop](/assets/img/content/netflix-featured.jpg)
+![netflix shop mağaza dizi film](/assets/img/content/netflix-featured.jpg)
 
 Netflix, hitlere göre ürünler sunarak şirkete gelir sağlayacak bir alışveriş sitesi oluşturuyor.
 
@@ -330,9 +349,7 @@ Netflix, çevrimiçi mağazayı teknoloji şirketi Shopify ile oluşturdu. Şirk
 
 ### **Pazarlama için e-posta bültenleri nasıl etkili bir şekilde kullanılır?**
 
-
-
-![e posta pazarlama](/assets/img/content/eposta1-featured.png)
+![e posta pazarlama bülten mail](/assets/img/content/eposta1-featured.png)
 
 Pazarlama e-posta bültenleri onlarca yıldır var. Bu e-postaları almak ilk başta bir yenilik olsa da, gelen kutularımız artık bunlarla dolup taşıyor. E-posta ile çalışan pazarlamacılar, sürekli olarak sizin açtığınız e-posta olduğundan emin olmaya çalışıyorlar.
 
@@ -348,7 +365,7 @@ Açılan e-posta sayısının %81'i mobilde, bu rakam 2011'de %27'den büyük ö
 
 ### Samsung, eski ambalajlardan kendin yap seti oluşturdu
 
-![](/assets/img/content/samsung-featured.jpeg)
+![samsung karton çevre doğa kutu](/assets/img/content/samsung-featured.jpeg)
 
 Samsung cihazlarının çoğu bildiğiniz üzere karton kutularda geliyor ve onları çöpe atmak yerine sanatsal bir tasarıma dönüştürmek artık mümkün.
 
@@ -360,9 +377,7 @@ Dünya Çevre Günü‘ne özel Samsung, müşterileri için eski ambalajları d
 
 ### **İhtiyacın yoksa yeşili koru**
 
-
-
-![](/assets/img/content/yemeksepeti1-featured.jpeg)
+![yemeksepeti plastik tüketim yeşil 63](/assets/img/content/yemeksepeti1-featured.jpeg)
 
 Yemeksepeti’nin sipariş onay sayfasında bulunan “İhtiyacın yoksa yeşili koru” seçeneği ile 6 yıldır tek kullanımlık plastik tüketimini azaltmak için kullanıcıları ve restoranları teşvik ediyor. 
 
@@ -383,7 +398,7 @@ Kuyucuk Gölü’ne yeniden hayat veren Finish, göl ve çevresindeki ekosistemi
 
 ### Şirketler plastik kirliliğine karşı harekete geçiyor
 
-![plastik yarının suyu](/assets/img/content/plastik-featured.jpeg)
+![plastik okyanus deniz 34 şirket](/assets/img/content/plastik-featured.jpeg)
 
 Plastik kirliliğini önleme hedefiyle hayata geçirilen İş Dünyası Plastik Girişimi (İPG) kapsamında Türkiye’nin önde gelen 34 şirketi plastik taahhüdünde bulundu.
 
@@ -392,8 +407,6 @@ Plastik taahhütlerini İPG çatısı altında paylaşan şirketler; 2023 yılı
 {% blocklink %}
 [Daha Fazla
 ](https://pazarlamasyon.com/markalar-plastik-kirliligine-karsi-harekete-geciyor/){% endblocklink %}
-
-
 
 - - -
 
