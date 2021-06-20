@@ -1,13 +1,12 @@
 ---
 title: Dijital Medyada 2020 Trendleri
-# Extension must be jpg
 image: /assets/img/featured/feature2.jpg
 tag:
   - Rapor
   - Trendler
+date: 2020-12-26
 description: Medyanot'un ilk bülteni web tasarımı, internet trendleri, pazarlama
   ve sosyal medyada öne çıkanları paylaşıyor.
-date: 2020-12-25T21:00:00.000Z
 toc: true
 ---
 
