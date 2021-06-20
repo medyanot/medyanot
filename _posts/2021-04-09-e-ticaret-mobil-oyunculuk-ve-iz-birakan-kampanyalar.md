@@ -6,9 +6,9 @@ tag:
   - E-Ticaret
   - Clubhouse
   - Kadınlar
+date: 2021-04-09
 description: Ticaret Bakanlığı’nın yayınladığı verilerde Türkiye’de e-ticaret
   hacminin 2020’de hızla büyüdüğü görülüyor.
-date: April 9, 2021 12:00 AM
 toc: true
 ---
 
