@@ -313,8 +313,7 @@ Odeabank, dünya klasiği masalları eşitlikçi bir bakış açısıyla yeniden
 Kadın erkek eşitliği kavramının çocuk yaşta yerleştiğine inanan Odeabank, anne babalarda farkındalık yaratmak ve toplum bilincinin değiştirilmesine katkı sağlamak amacıyla en bilinen ve sevilen klasik masalların eşitlikçi bir bakış açısıyla yeniden yorumlandığı Eşit Masallar projesini hayata geçirdi. 
 
 {% blocklink %}
-[Daha Fazla
-](https://www.odeabank.com.tr/esit-masallar){% endblocklink %}
+[Daha Fazla](https://www.odeabank.com.tr/esit-masallar){% endblocklink %}
 
 ### **Trafikte ketçap akışkanlığı hızında ilerleyenlere ödül**
 
@@ -326,9 +325,8 @@ Ketçaplar Heinz’in cam şişelerinden saatte 0,045 kilometre hızla dökülü
 
 Navigasyon uygulaması Waze ve Burger King ile birlikte çalışan Heinz, trafikte sıkışan Kanadalılara mükemmel bir kombinasyon sunarken Heinz hayranlarına yavaş gitmenin her zaman kötü bir şey olmadığını göstermiş oluyor.
 
-\
 {% blocklink %}
-Daha Fazla
+[Daha Fazla](https://bigumigu.com/haber/trafikte-ketcap-akiskanligi-hizinda-ilerleyenlere-odul/)
 {% endblocklink %}
 
 ### **Netflix çevrimiçi mağaza açıyor**
@@ -344,8 +342,7 @@ Netflix, çevrimiçi mağazayı teknoloji şirketi Shopify ile oluşturdu. Şirk
 Önümüzdeki aylarda, “Stranger Things” ve “Money Heist” dahil olmak üzere diğer Netflix şovlarına bağlı ürünler çevrimiçi raflarda görünecek.
 
 {% blocklink %}
-[Daha Fazla
-](https://about.netflix.com/en/news/introducing-netflix-shop){% endblocklink %}
+[Daha Fazla](https://about.netflix.com/en/news/introducing-netflix-shop){% endblocklink %}
 
 ### **Pazarlama için e-posta bültenleri nasıl etkili bir şekilde kullanılır?**
 
@@ -375,7 +372,7 @@ Dünya Çevre Günü‘ne özel Samsung, müşterileri için eski ambalajları d
 [Daha Fazla
 ](https://pazarlamasyon.com/samsung-eski-ambalajlardan-eglenceli-kendin-yap-seti-olusturdu/){% endblocklink %}
 
-### **İhtiyacın yoksa yeşili koru**
+### İhtiyacın yoksa yeşili koru
 
 ![yemeksepeti plastik tüketim yeşil 63](/assets/img/content/yemeksepeti1-featured.jpeg)
 
@@ -385,10 +382,8 @@ Her yıl doğaya milyonlarca ton atığın karıştığı dünyamızda, çevreyi
 
 Yemeksepeti alışkanlıkları yönlendirme hedefiyle hareket ediyor. Toplam siparişler içerisinde “İhtiyacın yoksa yeşili koru” seçeneğini tercih edenlerin oranına bakıldığında en çok hassasiyet üç büyük şehirde görüldü. Anadolu’da artan farkındalık oranları ile özellikle Adıyaman, Sinop, Ağrı, Eskişehir ve Nevşehir’de yüzde %30’a varan tercih artışı görüldü.
 
-\
 {% blocklink %}
-[Daha Fazla
-](https://pazarlamasyon.com/yemeksepetinden-siparis-veren-her-uc-kisiden-biri-yesili-koruyor/){% endblocklink %}
+[Daha Fazla](https://pazarlamasyon.com/yemeksepetinden-siparis-veren-her-uc-kisiden-biri-yesili-koruyor/){% endblocklink %}
 
 ### Finish'ten "Yarının Suyu" hareketinin yaratıcı bağış kampanyası
 
