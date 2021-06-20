@@ -5,9 +5,9 @@ tag:
   - Sağlık
   - Clubhouse
   - Sansür
+date: 2021-02-24
 description: Bu yazımızda iyi yaşamdan ne anlaşıldığına dair içgörülere,
   Clubhouse'un geleceğine ve heyecan verici teknoloji haberlerine bakıyoruz.
-date: February 24, 2021 12:00 AM
 toc: true
 ---
 
