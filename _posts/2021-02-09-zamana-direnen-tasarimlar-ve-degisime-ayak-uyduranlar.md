@@ -5,9 +5,9 @@ tag:
   - Airbnb
   - K-pop
   - Logo
+date: 2021-02-09
 description: Bu haftaki bültenimizde önce biraz nostaljik takılıp, sonra
   Türkiye'deki dijital girişimleri mercek altına alıyoruz.
-date: February 9, 2021 12:00 AM
 toc: true
 ---
 
