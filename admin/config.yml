@@ -7,6 +7,8 @@ backend:
 media_folder: "_assets/img/content" # Media files will be stored in the repo under images/uploads
 public_folder: "/assets/img/content"
 
+logo_url: "/icons/cms-logo.svg"
+
 site_url: https://www.medyanot.com
 
 publish_mode: editorial_workflow
@@ -27,7 +29,7 @@ collections:
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     preview_path: "/{{title}}"
-    summary: "{{title}} -- {{year}}-{{month}}-{{day}}"
+    summary: "{{title}} -- {{year}}/{{month}}/{{day}}"
     sortable_fields: ['title', 'date']
     view_filters:
       - label: Drafts
@@ -47,11 +49,11 @@ collections:
         widget: "image"
         pattern: ['^.*\.(jpg|jpeg|JPG|JPEG)$', "Image file extension must be jpg"]
         hint: 'jpg uzantılı bir görsel seçilmeli. Görsel "xxx-featured.jpg" olarak adlandırılmalı. Yatay görseller daha iyi görünür.'
-      - {label: "Publish Date", name: "date", widget: "datetime", required: false, date_format: "DD.MM.YYYY", time_format: false}
+      - {label: "Publish Date", name: "date", widget: "datetime", required: false, date_format: "YYYY-MM-DD", time_format: false, format: "YYYY-MM-DD", hint: "Yıl-Ay-Gün formatındadır."}
       - {label: "Description", name: "description", widget: "string", hint: "Yazı özeti"}
       - {label: "Tags", name: "tags", widget: "list", hint: 'Etiketler virgülle ayrılmalı', required: false}
       - {label: "Table of contents", name: "toc", widget: "boolean", default: false, hint: "H2 ara başlıklarını kullanarak oluşturulan içindekiler bölümü"}
-      - {label: "Draft", name: "draft", widget: "boolean", hint: "Açık olması henüz taslak halinde olduğunu gösterir.", default: true}
+      - {label: "Draft", name: "draft", widget: "boolean", hint: "Açık olması henüz taslak halinde olduğunu gösterir.", default: true, required: false}
       - {label: "Body", name: "body", widget: "markdown", hint: "Uyarı- Body kısmına eklenen görsellerde Title kısmı boş bırakılmalı"}
   - name: "pages"
     label: "Page"
