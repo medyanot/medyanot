@@ -7,7 +7,8 @@ tag:
   - Pandemi
   - Ödüller
 date: 2021-03-21
-description: Pandeminin ilk yılını tamamlarken bazı tüketici alışkanlıkları geri dönülmez biçimde değişiyor.
+description: Pandeminin ilk yılını tamamlarken bazı tüketici alışkanlıkları geri
+  dönülmez biçimde değişiyor.
 toc: true
 ---
 
