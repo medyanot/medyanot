@@ -5,9 +5,9 @@ tag:
   - Marka Kimliği
   - Trendler
   - Tüketiciler
+date: 2021-01-25
 description: Markaların benimsediği değerler, tüketicilerin sadakatini kazanmada
   artık daha belirleyici.
-date: January 25, 2021 12:00 AM
 toc: true
 ---
 

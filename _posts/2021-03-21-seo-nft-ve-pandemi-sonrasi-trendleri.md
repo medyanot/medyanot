@@ -6,9 +6,8 @@ tag:
   - NFT
   - Pandemi
   - Ödüller
-description: Pandeminin ilk yılını tamamlarken bazı tüketici alışkanlıkları geri
-  dönülmez biçimde değişiyor.
-date: March 21, 2021 12:00 AM
+date: 2021-03-21
+description: Pandeminin ilk yılını tamamlarken bazı tüketici alışkanlıkları geri dönülmez biçimde değişiyor.
 toc: true
 ---
 

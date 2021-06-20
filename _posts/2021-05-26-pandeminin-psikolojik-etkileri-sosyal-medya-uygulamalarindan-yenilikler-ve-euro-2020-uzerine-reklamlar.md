@@ -3,10 +3,10 @@ title: Pandeminin Psikolojik Etkileri, Sosyal Medya Uygulamalarından Yenilikler
   ve EURO 2020 Üzerine Reklamlar
 image: /assets/img/featured/maskeli-kadin-alisveriste.jpg
 tag: null
+date: 2021-05-26
 description: Bu sayımızda pandemi sonrası oluşan psikolojik etkileri, sosyal
   medya uygulamalarının en yeni özelliklerini ve raporlarını, yaklaşan Euro
   2020’ye dair reklamları ve dijitalin en yeni haberlerini sizler için derledik.
-date: May 26, 2021 12:00 AM
 toc: true
 ---
 

@@ -7,10 +7,10 @@ tag:
   - Trendler
   - Oyun
   - Tipografi
+date: 2021-01-18
 description: Sağlık, dijitalleşen dünyanın anahtar kelimelerinden biri haline
   geldi. İyi yaşam, psikolojik ve fiziksel sağlık 2021'in dijital kültüründe
   şimdiden yer edindi.
-date: 2021-01-17T21:00:00.000Z
 toc: true
 ---
 

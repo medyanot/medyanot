@@ -5,9 +5,8 @@ tag:
   - Reklam
   - Tüketiciler
   - Bitcoin
-description: Super Bowl ve Sevgililer Günü reklamlarının çoğu fos çıktı. Nadir
-  güzellikleri sizin için ayıklayıp bu yazıda sunduk.
-date: February 17, 2021 12:00 AM
+date: 2021-02-17
+description: Super Bowl ve Sevgililer Günü reklamlarının çoğu fos çıktı. Nadir güzellikleri sizin için ayıklayıp bu yazıda sunduk.
 toc: true
 ---
 

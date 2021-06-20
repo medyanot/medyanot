@@ -4,9 +4,9 @@ image: /assets/img/featured/womens-day-mural-feature.jpg
 tag:
   - TikTok
   - Kadınlar
+date: 2021-03-06
 description: TikTok, Türkiye'den markaların daha aktif varlık gösterdiği bir
   mecra haline geliyor. Buna rağmen Z kuşağının gizemi devam ediyor.
-date: March 6, 2021 12:00 AM
 toc: true
 ---
 

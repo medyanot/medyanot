@@ -4,10 +4,10 @@ image: /assets/img/featured/feature3.jpg
 tag:
   - Logo
   - Reklam
+date: 2021-01-11
 description: Bu haftanın bülteninde, büyük markaların rebranding çalışmaları,
   geçtiğimiz günlerde yayına giren ilgi çekici reklam filmleri ve sosyal
   medyadan en son haberler var.
-date: January 11, 2021 12:00 AM
 toc: true
 ---
 

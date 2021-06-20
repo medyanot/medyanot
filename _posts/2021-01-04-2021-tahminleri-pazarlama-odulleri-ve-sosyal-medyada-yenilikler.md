@@ -4,7 +4,7 @@ image: /assets/img/featured/feature1.jpg
 tag:
   - Trendler
   - Ödüller
-date: 2021-01-03T21:00:00.000Z
+date: 2021-01-04
 description: Bu haftaki bültenimiz başarılı tasarım çalışmalarına, pazarlama
   sektöründe verilen ödüllere, 2021 trendlerine dair öngörülere ve sosyal medya
   mecralarındaki bir dizi yeniliğe bakıyor.
