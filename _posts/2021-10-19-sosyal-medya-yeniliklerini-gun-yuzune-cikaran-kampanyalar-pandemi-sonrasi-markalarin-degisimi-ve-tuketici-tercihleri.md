@@ -43,14 +43,6 @@ Dijital dünyaya gözlerini açan nesil yapay zekayı nasıl tanımlıyor? Nası
 
 {% blocklink %} [Daha Fazla](https://www.marketingturkiye.com.tr/haberler/arastirma/yapay-zeka-2/) {% endblocklink %}
 
-### 2021'de Oyun endüstrisinin değeri ne kadar?
-
-![espor oyun endüstri](/assets/img/content/espor.jpeg)
-
-C-LeanRank SEO İçerik Editörü Teodora Dobrilova, oyun sektörü ile ilgili etkileyici rakamları en son verilerle paylaşıyor. Gaming endüstri değeri, 2020 istatistikleri, mobil oyunların pazardaki payı, oyun pazarındaki yatırımlar, e-sporun geleceği ve küresel oyun pazarının 2025 yılına kadar öngörülen değerlerin paylaşıldığı veriler güncel haliyle yazının detayında.
-
-{% blocklink %} [Daha Fazla](https://techjury.net/blog/gaming-industry-worth/#gref) {% endblocklink %}
-
 ### BAREM‘den “Kişisel Verilerin Paylaşılması” araştırması
 
 ![kişisel veri data](/assets/img/content/kis-isel-veri.jpeg)
@@ -93,6 +85,14 @@ Uzun zamandır tartışmalara sebep olan sosyal medya vergilendirmesi nihayet ka
 
 {% blocklink %} [Daha Fazla](https://shiftdelete.net/sosyal-medya-vergisi-icin-karar-verildi-iste-detaylar) {% endblocklink %}
 
+### 2021'de Oyun endüstrisinin değeri ne kadar?
+
+![espor oyun endüstri](/assets/img/content/espor.jpeg)
+
+C-LeanRank SEO İçerik Editörü Teodora Dobrilova, oyun sektörü ile ilgili etkileyici rakamları en son verilerle paylaşıyor. Gaming endüstri değeri, 2020 istatistikleri, mobil oyunların pazardaki payı, oyun pazarındaki yatırımlar, e-sporun geleceği ve küresel oyun pazarının 2025 yılına kadar öngörülen değerlerin paylaşıldığı veriler güncel haliyle yazının detayında.
+
+{% blocklink %} [Daha Fazla](https://techjury.net/blog/gaming-industry-worth/#gref) {% endblocklink %}
+
 ## Reklam Pazarlama
 
 ### Cannes Lions 2021’in kazanan reklamları açıklandı
@@ -111,14 +111,6 @@ Türkiye’nin en sevilen markaları tüketiciler gözünden; zihin payı, duygu
 
 {% blocklink %} [Daha Fazla](https://mediacat.com/mediacat-lovemarks-2021-tum-liste/) {% endblocklink %}
 
-### Oyun kampanyası için farazi turistik destinasyon kullanıldı
-
-![turizm kampanya far cry](/assets/img/content/farcry.png)
-
-Bilgisayar oyunu serisi Far Cry, oyunda bulunan kurgusal Yara Adası'na seyahat rezervasyonu yapmaya ikna etmek için bir kampanya başlattı. Far Cry 6, günümüz Küba'sının diktatörlüğüne ve “El Presidente” Antón Castillo'yu devirmeyi amaçlayan gerilla savaşçılarına dayanıyor. Oyun, bulunduğu adayı “Nefes kesen manzaralara sahip cennet gibi bir yer!” olarak nitelendiriyor. Kampanya, ofise dönmüş ancak bir sonraki tatillerinin hayalini kurmaya başlayan insanları hedeflemek için EMEA ülkelerinde yürütülüyor.
-
-{% blocklink %} [Daha Fazla](https://www.adweek.com/brand-marketing/campaign-for-video-game-promotes-tourism-in-fictional-yara-island/) {% endblocklink %}
-
 ### Golden Drum’dan Türkiye’ye 12 ödül
 
 ![golden drum](/assets/img/content/goldendrum.jpeg)
@@ -126,6 +118,14 @@ Bilgisayar oyunu serisi Far Cry, oyunda bulunan kurgusal Yara Adası'na seyahat 
 Bu yıl 27’ncisi Re:Start the Future temasıyla 13 – 15 Ekim tarihlerinde düzenlenen Golden Drum’da ödül kazanan işler açıklandı. Golden Drum kısa listelerinde 11 işle boy gösteren Türkiye’ye organizasyondan 1 Altın, 6 Gümüş ve 5 Bronz olmak üzere toplam 12 ödül geldi.
 
 {% blocklink %} [Daha Fazla](https://mediacat.com/golden-drumdan-turkiyeye-12-odul/) {% endblocklink %}
+
+### Oyun kampanyası için farazi turistik destinasyon kullanıldı
+
+![turizm kampanya far cry](/assets/img/content/farcry.png)
+
+Bilgisayar oyunu serisi Far Cry, oyunda bulunan kurgusal Yara Adası'na seyahat rezervasyonu yapmaya ikna etmek için bir kampanya başlattı. Far Cry 6, günümüz Küba'sının diktatörlüğüne ve “El Presidente” Antón Castillo'yu devirmeyi amaçlayan gerilla savaşçılarına dayanıyor. Oyun, bulunduğu adayı “Nefes kesen manzaralara sahip cennet gibi bir yer!” olarak nitelendiriyor. Kampanya, ofise dönmüş ancak bir sonraki tatillerinin hayalini kurmaya başlayan insanları hedeflemek için EMEA ülkelerinde yürütülüyor.
+
+{% blocklink %} [Daha Fazla](https://www.adweek.com/brand-marketing/campaign-for-video-game-promotes-tourism-in-fictional-yara-island/) {% endblocklink %}
 
 ### Markaların pazarlamada oyunu Squid Game
 
@@ -225,11 +225,11 @@ Instagram, içerik üreticilerin canlı yayınları 90 güne kadar planlamasın�
 
 {% blocklink %} [Daha Fazla](https://techcrunch.com/2021/10/13/instagram-adds-scheduling-and-practice-mode-features-for-live-creators/) {% endblocklink %}
 
-### Clubhouse, müzisyenlere hitap eden yeni özelliğini duyurdu
+### Clubhouse müzisyenlere hitap eden yeni özelliğini duyurdu
 
 ![clubhouse music müzisyen](/assets/img/content/clubhouse-music-mode.jpeg)
 
-Sesli sohbet platformu Clubhouse, Müzik Modunu duyurdu. Yeni özellik ile uygulamaya stereo ses desteği getirildi.
+Sesli sohbet platformu Clubhouse, müzik modunu duyurdu. Yeni özellik ile uygulamaya stereo ses desteği getirildi.
 
 {% blocklink %} [Daha Fazla](https://techcrunch.com/2021/10/14/clubhouse-music-mode/) {% endblocklink %}
 
@@ -241,10 +241,12 @@ Google Chrome‘a gelen hizmetle birlikte artık Acrobat ya da bağımsız bir s
 
 {% blocklink %} [Daha Fazla](https://shiftdelete.net/google-chrome-ucretsiz-pdf-duzenleyici-hizmetini-sundu) {% endblocklink %}
 
-### Facebook reklam seçeneklerine reels reklamlarını ekledi
+### Facebook reklam seçeneklerine Reels reklamlarını ekledi
 
 ![reels facebook reklam](/assets/img/content/reels.jpeg)
 
 Facebook, önümüzdeki haftalarda Facebook Hikayeler özelliği için etiket reklamları yayınlayacağını duyurdu.
+
+{% blocklink %} [Daha Fazla](https://developers.facebook.com/blog/post/2021/10/11/introducing-reels-ads-placements-via-instagram-marketing-api/) {% endblocklink %}
 
 ### Bir sonraki bültende en güncel gelişme ve araştırmalarda buluşmak dileğiyle, hoşçakalın!
