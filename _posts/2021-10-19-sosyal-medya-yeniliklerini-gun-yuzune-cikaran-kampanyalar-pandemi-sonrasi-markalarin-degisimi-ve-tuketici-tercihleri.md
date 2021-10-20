@@ -43,6 +43,14 @@ Dijital dünyaya gözlerini açan nesil yapay zekayı nasıl tanımlıyor? Nası
 
 {% blocklink %} [Daha Fazla](https://www.marketingturkiye.com.tr/haberler/arastirma/yapay-zeka-2/) {% endblocklink %}
 
+### 2021'de Oyun endüstrisinin değeri ne kadar?
+
+![espor oyun endüstri](/assets/img/content/espor.jpeg)
+
+C-LeanRank SEO İçerik Editörü Teodora Dobrilova, oyun sektörü ile ilgili etkileyici rakamları en son verilerle paylaşıyor. Gaming endüstri değeri, 2020 istatistikleri, mobil oyunların pazardaki payı, oyun pazarındaki yatırımlar, e-sporun geleceği ve küresel oyun pazarının 2025 yılına kadar öngörülen değerlerin paylaşıldığı veriler güncel haliyle yazının detayında.
+
+{% blocklink %} [Daha Fazla](https://techjury.net/blog/gaming-industry-worth/#gref) {% endblocklink %}
+
 ### BAREM‘den “Kişisel Verilerin Paylaşılması” araştırması
 
 ![kişisel veri data](/assets/img/content/kis-isel-veri.jpeg)
@@ -85,15 +93,9 @@ Uzun zamandır tartışmalara sebep olan sosyal medya vergilendirmesi nihayet ka
 
 {% blocklink %} [Daha Fazla](https://shiftdelete.net/sosyal-medya-vergisi-icin-karar-verildi-iste-detaylar) {% endblocklink %}
 
-### 2021'de Oyun endüstrisinin değeri ne kadar?
+## Reklam Pazarlama
 
-![espor oyun endüstri](/assets/img/content/espor.jpeg)
-
-C-LeanRank SEO İçerik Editörü Teodora Dobrilova, oyun sektörü ile ilgili etkileyici rakamları en son verilerle paylaşıyor. Gaming endüstri değeri, 2020 istatistikleri, mobil oyunların pazardaki payı, oyun pazarındaki yatırımlar, e-sporun geleceği ve küresel oyun pazarının 2025 yılına kadar öngörülen değerlerin paylaşıldığı veriler güncel haliyle yazının detayında.
-
-{% blocklink %} [Daha Fazla](https://techjury.net/blog/gaming-industry-worth/#gref) {% endblocklink %}
-
-### Cannes Lions 2021’in kazanan reklamları açıklandı 
+### Cannes Lions 2021’in kazanan reklamları açıklandı
 
 ![cannes lions](/assets/img/content/cannes.jpeg)
 
@@ -108,6 +110,14 @@ Her kategoride kazanan filmleri izlemek için
 Türkiye’nin en sevilen markaları tüketiciler gözünden; zihin payı, duygusal yakınlık derecesi, beklenti ve ihtiyaçları karşılama düzeyi ile asla bırakılamayacak kadar sevilip sevilmediği dikkate alınarak Ipsos tarafından hesaplandı. CATI yöntemiyle sorgulanan 9 kategoriye ek olarak veri derlemesini CAWI yöntemiyle FikriMühim’in gerçekleştirdiği 3 kategori dikkate alınarak belirlendi. En sevilen markalara, markaların öne çıkan yönlerine ve faaliyetlerinin listelendiği bilgilere bu yazının devamında ulaşabilirsiniz.
 
 {% blocklink %} [Daha Fazla](https://mediacat.com/mediacat-lovemarks-2021-tum-liste/) {% endblocklink %}
+
+### Oyun kampanyası için farazi turistik destinasyon kullanıldı
+
+![turizm kampanya far cry](/assets/img/content/farcry.png)
+
+Bilgisayar oyunu serisi Far Cry, oyunda bulunan kurgusal Yara Adası'na seyahat rezervasyonu yapmaya ikna etmek için bir kampanya başlattı. Far Cry 6, günümüz Küba'sının diktatörlüğüne ve “El Presidente” Antón Castillo'yu devirmeyi amaçlayan gerilla savaşçılarına dayanıyor. Oyun, bulunduğu adayı “Nefes kesen manzaralara sahip cennet gibi bir yer!” olarak nitelendiriyor. Kampanya, ofise dönmüş ancak bir sonraki tatillerinin hayalini kurmaya başlayan insanları hedeflemek için EMEA ülkelerinde yürütülüyor.
+
+{% blocklink %} [Daha Fazla](https://www.adweek.com/brand-marketing/campaign-for-video-game-promotes-tourism-in-fictional-yara-island/) {% endblocklink %}
 
 ### Golden Drum’dan Türkiye’ye 12 ödül
 
@@ -148,14 +158,6 @@ Gıdaya erişimini kolaylaştırmak için çok etkileyici projelerden biri olan 
 {% youtube NVzILPltB2A %}
 
 Dünyanın en büyük havayolu ittifakı Star Alliance, en önemli bağlantıları kurmanıza yardımcı olmak için yeni reklam filmiyle insanların birbirlerini gördüklerinde hissettikleri saf duyguya odaklanıyor.
-
-### Oyun kampanyası için farazi turistik destinasyon kullanıldı
-
-![turizm kampanya far cry](/assets/img/content/farcry.png)
-
-Bilgisayar oyunu serisi Far Cry, oyunda bulunan kurgusal Yara Adası'na seyahat rezervasyonu yapmaya ikna etmek için bir kampanya başlattı. Far Cry 6, günümüz Küba'sının diktatörlüğüne ve “El Presidente” Antón Castillo'yu devirmeyi amaçlayan gerilla savaşçılarına dayanıyor. Oyun, bulunduğu adayı “Nefes kesen manzaralara sahip cennet gibi bir yer!” olarak nitelendiriyor. Kampanya, ofise dönmüş ancak bir sonraki tatillerinin hayalini kurmaya başlayan insanları hedeflemek için EMEA ülkelerinde yürütülüyor.
-
-{% blocklink %} [Daha Fazla](https://www.adweek.com/brand-marketing/campaign-for-video-game-promotes-tourism-in-fictional-yara-island/) {% endblocklink %}
 
 ### Sabancı Vakfı’ndan Dünya Kız Çocukları Günü’ne özel “Göz yumma”
 
