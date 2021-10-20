@@ -85,7 +85,7 @@ Uzun zamandır tartışmalara sebep olan sosyal medya vergilendirmesi nihayet ka
 
 {% blocklink %} [Daha Fazla](https://shiftdelete.net/sosyal-medya-vergisi-icin-karar-verildi-iste-detaylar) {% endblocklink %}
 
-### 2021'de Oyun endüstrisinin değeri ne kadar?
+### 2021'de oyun endüstrisinin değeri ne kadar?
 
 ![espor oyun endüstri](/assets/img/content/espor.jpeg)
 
@@ -99,7 +99,7 @@ C-LeanRank SEO İçerik Editörü Teodora Dobrilova, oyun sektörü ile ilgili e
 
 ![cannes lions](/assets/img/content/cannes.jpeg)
 
-Her kategoride kazanan filmleri izlemek için 
+Her kategoride kazanan filmleri izlemek için tıklayın. 
 
 {% blocklink %} [Daha Fazla](https://www.lovethework.com/awards-2021) {% endblocklink %}
 
