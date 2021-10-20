@@ -2,7 +2,7 @@
 title: Sosyal Medya Yeniliklerini Gün Yüzüne Çıkaran Kampanyalar, Pandemi
   Sonrası Markaların Değişimi ve Tüketici Tercihleri
 image: /assets/img/content/business-featured.jpg
-date: 2021-10-19
+date: 2021-10-20
 description: "Tekrar merhaba, haftalar sonra Medyanot bültenleri ile sizinleyiz!
   Bundan sonra her ayın 1’i, 10’u ve 20’si sizlere dijital, sosyal ve geleneksel
   medya hakkında haberler, paylaşımlar, araştırmalar ve güncellemeler aktaracak;
