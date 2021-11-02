@@ -1,5 +1,5 @@
 ---
-title: 2022'ye yaklaşırken pazarlama yaklaşımları, sosyal medya plartformlarında
+title: 2022'ye yaklaşırken pazarlama yaklaşımları, sosyal medya plarformlarında
   yenilikler ve dünya devi Facebook'ta isim değişikliği.
 image: /assets/img/content/kapak-featured.jpeg
 date: 2021-11-01
