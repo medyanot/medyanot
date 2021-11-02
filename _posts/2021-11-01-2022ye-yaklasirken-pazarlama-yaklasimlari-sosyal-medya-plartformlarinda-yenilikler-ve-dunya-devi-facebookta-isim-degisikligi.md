@@ -1,5 +1,5 @@
 ---
-title: 2022'ye yaklaşırken pazarlama yaklaşımları, sosyal medya plarformlarında
+title: 2022'ye yaklaşırken pazarlama yaklaşımları, sosyal medya platformlarında
   yenilikler ve dünya devi Facebook'ta isim değişikliği.
 image: /assets/img/content/kapak-featured.jpeg
 date: 2021-11-01
@@ -122,4 +122,4 @@ McDonald’s’ın tarım ve hayvansal ürünlerinin yüzde 70’ini sağlayan �
 
 ### Eczacıbaşı'nın markası Dynavit, Eczacıbaşı Kadın Voleybol Takımı'nın aradığı destek oluyor
 
-{% youtube VWsiacBwPz8&t=5s %}
+{% youtube VWsiacBwPz8 %}
