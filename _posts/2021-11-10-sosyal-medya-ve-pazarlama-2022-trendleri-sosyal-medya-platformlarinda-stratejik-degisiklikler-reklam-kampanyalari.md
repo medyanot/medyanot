@@ -171,7 +171,7 @@ Decathlon tekerlekli sandalye ikonunu engelli sporcuları düşünerek yeniden t
 
 {% blocklink %} [Daha Fazla](https://info.trendwatching.com/innovation-of-the-day/decathlon-creates-ability-icons?utm_campaign=FTU%20Weekly%20&utm_medium=email&_hsmi=178489525&_hsenc=p2ANqtz-8XMeGIDV4ryJhoPxxQLlgUKuDMKKQ7L9qvx4UqWwn17fQDpY5HNW6XZHqOkegmDiK6WW3eeTtq7jlyGrHnWhfHNUsLQg&utm_content=178416328&utm_source=hs_email) {% endblocklink %}
 
-### Stella artois'tan Water.Org partnerliği
+### Stella Artois'tan Water.Org partnerliği
 
 ![](/assets/img/content/stella.jpeg)
 
