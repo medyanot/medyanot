@@ -1,6 +1,6 @@
 ---
-title: Sosyal medya ve pazarlama 2022 trendleri, sosyal medya platformlarında
-  stratejik değişiklikler, reklam kampanyaları
+title: Dijital Pazarlama 2022 Trendleri, Sosyal Medya Platformlarında Stratejik
+  Değişiklikler ve Güncel Reklam Kampanyaları
 image: /assets/img/content/kapak-featured.jpg
 date: 2021-11-10
 description: Yıl sonuna yaklaşırken 2022 trendleri belli olmaya başladı. Sosyal
@@ -103,7 +103,7 @@ LC Waikiki pazarlamacılar tarafından radikal görülen bir karar aldı ve Kas�
 
 Netflix ilk defa senaryosunun robotlar tarafından yazıldığı korku filmi çıkardı. Netflix'e göre bu film türünün ilk örneği olarak karşımıza çıkıyor. Mr. Puzzles Wants You To Be Less Alive isimli film için ekip, robota 400 bin saatten fazla korku filmleri izletti. Film ekibi, algoritmanın Testere’den (Saw) ve serideki Jigsaw karakterinden ilham aldığını doğruluyor.
 
-### Tüketim markaları için 2020 trendleri
+### Tüketim markaları için 2022 trendleri
 
 ![](/assets/img/content/pazarlama-trend-2022.png)
 
@@ -201,7 +201,7 @@ Dünyanın en iyi şirketlerinin değerlendirildiği Stevie International Busine
 
 Coca Cola'nın yeni Cadılar Bayramı temalı filmi geceleyin kola içmek isteyen bir gencin sevimli bir hayaletle tanışma hikayesini anlatıyor. İzlemek için linke tıklayın.
 
-### Meta'nın(Facebook) yeni reklam filmi çıktı
+### Meta'nın (Facebook) yeni reklam filmi çıktı
 
 {% youtube G2W9YVkkn9U&t=45s %}
 
