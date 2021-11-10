@@ -18,7 +18,7 @@ tags:
 toc: false
 draft: true
 ---
-## Trendler ve Endüstri Öngörüleri
+## Trendler
 
 ### 2022'de sosyal medya pazarlamasına yönelik 26 öngörü
 
