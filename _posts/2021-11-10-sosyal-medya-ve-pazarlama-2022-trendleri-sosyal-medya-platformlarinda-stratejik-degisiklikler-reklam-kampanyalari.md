@@ -93,7 +93,7 @@ Pinterest live-stream ticaret trendine katılma kararı aldı. Bu trend son yıl
 
 ![](/assets/img/content/lc-waikiki.png)
 
-LC Waikiki pazarlamacılar tarafından radikal görülen bir karar aldı ve Kasım ayında televizyon reklamı için bütçe ayırmamaya karar verdi. Bunun nedeni ise Black Friday kapsamında için tüketicileri için daha fazla indirim yapılan ürün sayısını ve indirim miktarını arttırabilmek.
+LC Waikiki pazarlamacılar tarafından radikal görülen bir karar aldı ve Kasım ayında televizyon reklamı için bütçe ayırmamaya karar verdi. Bunun nedeni ise Black Friday kapsamında tüketicileri için daha fazla indirim yapılan ürün sayısını ve indirim miktarını arttırabilmek.
 
 {% blocklink %} [Daha Fazla](https://www.marketingturkiye.com.tr/haberler/lc-waikiki-black-friday/) {% endblocklink %}
 
