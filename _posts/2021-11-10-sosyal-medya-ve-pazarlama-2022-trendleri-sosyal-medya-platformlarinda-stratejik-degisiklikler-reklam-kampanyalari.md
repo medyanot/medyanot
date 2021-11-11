@@ -199,7 +199,7 @@ Dünyanın en iyi şirketlerinin değerlendirildiği Stevie International Busine
 
 {% youtube TSbKaEazG_w %}
 
-Coca Cola'nın yeni Cadılar Bayramı temalı filmi geceleyin kola içmek isteyen bir gencin sevimli bir hayaletle tanışma hikayesini anlatıyor. İzlemek için linke tıklayın.
+Coca Cola'nın yeni Cadılar Bayramı temalı filmi geceleyin kola içmek isteyen bir gencin sevimli bir hayaletle tanışma hikayesini anlatıyor.
 
 ### Meta'nın (Facebook) yeni reklam filmi çıktı
 
