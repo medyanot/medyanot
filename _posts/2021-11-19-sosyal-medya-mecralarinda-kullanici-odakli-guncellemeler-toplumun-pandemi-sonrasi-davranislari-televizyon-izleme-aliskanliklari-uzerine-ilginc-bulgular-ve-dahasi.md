@@ -208,4 +208,4 @@ Heinz, uzay koşullarında yetiştirdiği domateslerden ürettiği yeni ketçab�
 
 Vodafone Macaristan, reklam filmi ile her zaman dile getirilmesi gereken sosyal bir sorunu ele alıyor. Dokunaklı Noel kampanyasıyla her evde neşeli bir kalabalığın olmadığını hatırlatıyor.
 
-**Bu bültenimizin sonuna geldik, sonraki bültende görüşmek dileğiyle !**
+**Bu bültenimizin sonuna geldik, sonraki bültende görüşmek dileğiyle!**
