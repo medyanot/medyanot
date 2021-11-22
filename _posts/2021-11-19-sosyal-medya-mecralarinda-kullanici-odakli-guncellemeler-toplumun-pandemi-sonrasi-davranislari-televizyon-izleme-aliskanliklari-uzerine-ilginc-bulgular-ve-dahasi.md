@@ -108,7 +108,7 @@ Televizyon İzleme Araştırmaları (TİAK), Türkiye’de televizyon izleme sü
 
 ### Ipsos’tan koronavirüs salgını ve toplum araştırması
 
-![](/assets/img/content/ipsos.jpg)
+![]()
 
 Ipsos araştırmasında kısıtlamaların kalkmasından sonra toplumun endişe verilerini veriyor. Toplumsal olarak pandemiyi kabullenmeye ve onun şartlarına uyum göstermeye başladığımız bu dönemde sosyal hayatımız geçmişte olduğu gibi mi şekilleniyor?
 
