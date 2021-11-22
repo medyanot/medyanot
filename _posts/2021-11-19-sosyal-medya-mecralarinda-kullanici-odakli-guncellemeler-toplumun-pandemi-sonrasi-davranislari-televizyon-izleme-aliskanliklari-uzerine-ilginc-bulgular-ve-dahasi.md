@@ -176,6 +176,8 @@ Yapı Kredi de World isimli kredi kartının sevimli animasyon maskotu Vadaa ile
 
 {% blocklink %} [Daha Fazla](https://www.campaigntr.com/yapi-krediden-vadaa-nft-koleksiyonu/) {% endblocklink %}
 
+
+
 ### 644 gol ve 644 şişe ile sıra dışı bir kampanya
 
 ![](/assets/img/content/messi-goal.jpeg)
