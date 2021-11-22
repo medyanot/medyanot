@@ -42,7 +42,7 @@ Dünya çapında 220 ülkede yaklaşık 6 milyon kayıtlı üyesi bulunan Airbnb
 
 ### Twitter’da artık yeni tweetlerin ne zaman yükleneceğine kullanıcılar karar verecek
 
-![](/assets/img/content/twitter.webp)
+![](/assets/img/content/twitter.png)
 
 Kullanıcıların tweetlere göz atarken sayfanın otomatik olarak yenilenmesiyle kaybolan tweetlere ulaşmanın zorlaştığı ve deneyimi kötüleştirdiğini gören Twitter, bu güncellemesi ile sayfa güncelleme kontrolü artık tamamıyla kullanıcılara bırakılıyor.
 
@@ -175,8 +175,6 @@ Genişleyen kripto para piyasası interaktif canlı yayın hizmeti Twitch ile e-
 Yapı Kredi de World isimli kredi kartının sevimli animasyon maskotu Vadaa ile NFT evrenine adım atıyor. 2003 yılında reklam kampanyalarında kullanılmaya başlanan mor animasyon karakter artık NFT olarak markanın kimliğinin bir parçası oluyor.
 
 {% blocklink %} [Daha Fazla](https://www.campaigntr.com/yapi-krediden-vadaa-nft-koleksiyonu/) {% endblocklink %}
-
-
 
 ### 644 gol ve 644 şişe ile sıra dışı bir kampanya
 
