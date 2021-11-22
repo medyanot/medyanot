@@ -24,8 +24,6 @@ Meta, gençlerin yoğun olarak kullandığı Instagram platformunda daha az zama
 \
 {% blocklink %} [Daha Fazla](https://www.socialmediatoday.com/news/instagram-tests-new-take-a-break-feature-to-encourage-users-to-limit-time/609854/) {% endblocklink %}
 
-
-
 ### YouTube, “beğenmeme” sayılarını gizliyor
 
 ![](/assets/img/content/youtube-beg-enmeme.png)
@@ -33,8 +31,6 @@ Meta, gençlerin yoğun olarak kullandığı Instagram platformunda daha az zama
 YouTube, platformdaki videolarda beğenmeme sayılarını gizleyeceğini ve istatistiklerin yalnızca videoyu yükleyen kullanıcılar tarafından görüntülenmesine izin verileceğini duyurdu. Beğenmeme sayısı YouTube genelinde gizli olacak, ancak beğenmeme düğmesi kalacaktır.
 
 {% blocklink %} [Daha Fazla](https://blog.youtube/news-and-events/update-to-youtube/) {% endblocklink %}
-
-
 
 ### Değişen seyahat tercihlerine Airbnb güncellemeleri
 
@@ -44,8 +40,6 @@ Dünya çapında 220 ülkede yaklaşık 6 milyon kayıtlı üyesi bulunan Airbnb
 
 {% blocklink %} [Daha Fazla](https://bigumigu.com/haber/airbnbnin-degisen-seyahat-tercihlerine-odaklanan-guncellemeleri/) {% endblocklink %}
 
-
-
 ### Twitter’da artık yeni tweetlerin ne zaman yükleneceğine kullanıcılar karar verecek
 
 ![](/assets/img/content/twitter.webp)
@@ -53,8 +47,6 @@ Dünya çapında 220 ülkede yaklaşık 6 milyon kayıtlı üyesi bulunan Airbnb
 Kullanıcıların tweetlere göz atarken sayfanın otomatik olarak yenilenmesiyle kaybolan tweetlere ulaşmanın zorlaştığı ve deneyimi kötüleştirdiğini gören Twitter, bu güncellemesi ile sayfa güncelleme kontrolü artık tamamıyla kullanıcılara bırakılıyor.
 
 {% blocklink %} [Daha Fazla](https://digitalage.com.tr/twitter-kaybolan-tweetlerin-caresini-kontrolu-kullanicilara-vermekte-buldu/) {% endblocklink %}
-
-
 
 ### Spotify, sesli kitap dünyasına adım atıyor
 
@@ -64,8 +56,6 @@ Koleksiyonunda 325 binden fazla sesli kitap bulunan sesli kitap dinleme platform
 
 {% blocklink %} [Daha Fazla](https://digitalage.com.tr/findawayi-satin-alan-spotify-sesli-kitap-dunyasina-adim-atiyor/) {% endblocklink %}
 
-
-
 ### Instagram, kimlik doğrulaması için video özçekimlerini kullanmaya başladı
 
 ![](/assets/img/content/instagram-selfie.jpeg)
@@ -73,8 +63,6 @@ Koleksiyonunda 325 binden fazla sesli kitap bulunan sesli kitap dinleme platform
 Instagram, hesaplarına giriş yapan kullanıcılar için yeni bir 'video selfie doğrulama' güncellemesi uyguladı. Bu yeni güvenlik hamlesinin, platformdaki sahte profillerin ve spam hesaplarının sayısını azaltma girişimi olduğu bildiriliyor. Facebook (Meta), yüklediğiniz video özçekimlerinin Instagram'da asla görünmeyeceğini ve 30 gün içinde silineceğini vaat ediyor.\
 \
 {% blocklink %} [Daha Fazla](https://pocketnow.com/instagram-now-asks-users-take-video-selfie-proving-their-identity) {% endblocklink %}
-
-
 
 ### Freelance platformu Contra, TikTok ile işbirliği yapıyor
 
@@ -84,8 +72,6 @@ TikTok, serbest çalışanların kullandığı popüler freelance platformu Cont
 
 {% blocklink %} [Daha Fazla](https://techcrunch.com/2021/11/16/contra-partners-with-tiktok-to-add-a-little-linkedin-flavor-to-the-social-video-app/) {% endblocklink %}
 
-
-
 ### Clubhouse’dan kullanıcılarına dil müjdesi
 
 ![](/assets/img/content/clubhouse.jpeg)
@@ -94,8 +80,6 @@ Sesli sohbet uygulaması Clubhouse, eski popülaritesini yeniden kazanmak için 
 
 {% blocklink %} [Daha Fazla](https://www.socialmediatoday.com/news/clubhouse-adds-live-captions-to-maximize-accessibility/610298/) {% endblocklink %}
 
-
-
 ### Instagram, takipçilerin içerik üreticilerini desteklemelerine izin verecek
 
 ![](/assets/img/content/instagram-badge.png)
@@ -103,8 +87,6 @@ Sesli sohbet uygulaması Clubhouse, eski popülaritesini yeniden kazanmak için 
 Badges özelliğinin kullanımı izleyicinin bir canlı yayın sırasında uygulama içerisinde satılan bir badge (rozet) satın alması halinde kullanıcı adının yanında kalp sembolü görülecek. Takipçi rozet satın alımıyla içerik üreticisini destekleyecek.
 
 {% blocklink %} [Daha Fazla](https://business.instagram.com/creators/earn-money/badges) {% endblocklink %}
-
-
 
 ## Araştırma
 
@@ -116,8 +98,6 @@ Creatopy ekibi hem TikTok hem de Instagram reelslerinde aynı 15 saniyelik rekla
 \
 {% blocklink %} [Daha Fazla](https://www.creatopy.com/blog/tiktok-ads-instagram-reels-ads/) {% endblocklink %}
 
-
-
 ### TİAK, Tv izleyici ölçüm sonuçlarını açıkladı
 
 ![](/assets/img/content/tv-izlemek.png)
@@ -125,8 +105,6 @@ Creatopy ekibi hem TikTok hem de Instagram reelslerinde aynı 15 saniyelik rekla
 Televizyon İzleme Araştırmaları (TİAK), Türkiye’de televizyon izleme süresinin, dünya ortalamasının da üzerine çıkarak, 2019 yılına göre 19 dakikalık bir artışla 4 saat 33 dakika olarak gerçekleştiğini açıkladı. Türkiye’de ortalama televizyon izleme süresi en yüksek olan il İzmir olarak açıklanırken, global olarak en çok televizyon izleyen ülke ise 5 saat 45 dakika ile Romanya iken, İzlanda 1 saat 16 dakikayla en az televizyon izleyen ülke oldu.
 
 {% blocklink %} [Daha Fazla](https://www.marketingturkiye.com.tr/haberler/arastirma/tv-izleme-aliskanliklari/) {% endblocklink %}
-
-
 
 ### Ipsos’tan koronavirüs salgını ve toplum araştırması
 
@@ -136,8 +114,6 @@ Ipsos araştırmasında kısıtlamaların kalkmasından sonra toplumun endişe v
 
 {% blocklink %} [Daha Fazla](​​https://www.ipsos.com/tr-tr/toplumun-38i-alisveris-gibi-zaruri-ihtiyaclar-disinda-evden-cikmiyor) {% endblocklink %}
 
-
-
 ### Tekne kiralama platformu Viravira, 2021 yılına dair verilerini paylaştı
 
 ![](/assets/img/content/tekne-kira.png)
@@ -145,8 +121,6 @@ Ipsos araştırmasında kısıtlamaların kalkmasından sonra toplumun endişe v
 En çok kiralanan tekne tipi ve sezon boyunca tekne kiralama verilerini paylaşan Viravira ayrıca tekne tatilinde Göcek, Fethiye Bodrum, Bozburun ve Marmaris en çok tercih edilen lokasyonlarda başı çektiğini açıkladı.
 
 {% blocklink %} [Daha Fazla](https://webrazzi.com/2021/11/16/tekne-kiralama-platformu-viravira-2021-yilina-dair-verilerini-paylasti) {% endblocklink %}
-
-
 
 ### Dikkat ekonomisi ve yaratıcılığın etkisi
 
@@ -156,8 +130,6 @@ Kampanya ve marka içeriklerinden geçilmeyen bu yeni pazarlama dünyasında ava
 
 {% blocklink %} [Daha Fazla](https://www.marketingweek.com/attention-economy-media-quality-creative-effectiveness/) {% endblocklink %}
 
-
-
 ### Marka kararkterleri B2B pazarlamanın stratejik değeri olabilir mi?
 
 ![](/assets/img/content/btb-marketing.jpeg)
@@ -165,8 +137,6 @@ Kampanya ve marka içeriklerinden geçilmeyen bu yeni pazarlama dünyasında ava
 Marketing Week'in makalesinde genelde markaların göz ardı edilen markaların görsel karakterlerinin marka imajları için önemli bir değere sahip olduğu savunuluyor.
 
 {% blocklink %} [Daha Fazla](https://www.marketingweek.com/brand-characters-b2b-marketing/) {% endblocklink %}
-
-
 
 ## Sosyal Sorumluluk
 
@@ -178,8 +148,6 @@ Adidas ve Kızlar Sahada, “Gelin önyargılara ilk şutu birlikte atalım” s
 
 {% blocklink %} [Daha Fazla](https://pazarlamasyon.com/kiz-cocuklari-onyargilara-ilk-sutunu-adidasla-atiyor/) {% endblocklink %}
 
-
-
 ## Teknoloji
 
 ### Nike’ın yeni metaverse evreni: Nikeland
@@ -189,8 +157,6 @@ Adidas ve Kızlar Sahada, “Gelin önyargılara ilk şutu birlikte atalım” s
 Nike, Nikeland adlı ücretsiz bir sanal oyun alanı sunmak için Roblox ile bir işbirliği yaptığını duyurdu.
 
 {% blocklink %} [Daha Fazla](https://news.nike.com/news/five-things-to-know-roblox) {% endblocklink %}
-
-
 
 ## Reklam Pazarlama
 
@@ -202,8 +168,6 @@ Genişleyen kripto para piyasası interaktif canlı yayın hizmeti Twitch ile e-
 
 {% blocklink %} [Daha Fazla](https://www.marketingdive.com/news/cryptocom-becomes-first-global-marketing-partner-for-twitch-rivals/609384/) {% endblocklink %}
 
-
-
 ### Yapı Kredi'den Vadaa NFT koleksiyonu
 
 ![](/assets/img/content/nft-vadaa.jpeg)
@@ -211,8 +175,6 @@ Genişleyen kripto para piyasası interaktif canlı yayın hizmeti Twitch ile e-
 Yapı Kredi de World isimli kredi kartının sevimli animasyon maskotu Vadaa ile NFT evrenine adım atıyor. 2003 yılında reklam kampanyalarında kullanılmaya başlanan mor animasyon karakter artık NFT olarak markanın kimliğinin bir parçası oluyor.
 
 {% blocklink %} [Daha Fazla](https://www.campaigntr.com/yapi-krediden-vadaa-nft-koleksiyonu/) {% endblocklink %}
-
-
 
 ### 644 gol ve 644 şişe ile sıra dışı bir kampanya
 
