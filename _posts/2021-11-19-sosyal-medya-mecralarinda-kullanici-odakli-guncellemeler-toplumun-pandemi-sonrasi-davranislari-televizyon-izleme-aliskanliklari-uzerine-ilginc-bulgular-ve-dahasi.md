@@ -18,8 +18,6 @@ draft: true
 
 ### Instagram, mola ver özelliğini test etmeye başladı
 
-
-
 ![](/assets/img/content/instagram-ara-vermek.jpeg)
 
 Meta, gençlerin yoğun olarak kullandığı Instagram platformunda daha az zaman geçirilmesi için mola verme özelliğini deneyeceğini açıkladı.\
@@ -172,8 +170,6 @@ Marketing Week'in makalesinde genelde markaların göz ardı edilen markaların 
 
 ## Sosyal Sorumluluk
 
-
-
 ### Önyargılara ilk şut
 
 ![](/assets/img/content/adidas-ilk-topum.jpeg)
@@ -186,8 +182,6 @@ Adidas ve Kızlar Sahada, “Gelin önyargılara ilk şutu birlikte atalım” s
 
 ## Teknoloji
 
-
-
 ### Nike’ın yeni metaverse evreni: Nikeland
 
 ![](/assets/img/content/nikeland.jpeg)
@@ -199,8 +193,6 @@ Nike, Nikeland adlı ücretsiz bir sanal oyun alanı sunmak için Roblox ile bir
 
 
 ## Reklam Pazarlama
-
-
 
 ### Kripto platformu Crypto.com, Twitch Rivals ile işbirliği yaptı
 
@@ -229,8 +221,6 @@ Yapı Kredi de World isimli kredi kartının sevimli animasyon maskotu Vadaa ile
 2020'de Lionel Messi, Pele'nin 46 yıllık tek kulüpte 643 gol atma rekorunu kırmanın eşiğindeyken Budweiser, Messi ile farkındalık yaratmak istedi. Messi'nin 644 golü için özel Budweiser şişeleri üretti ve gol attığı 160 kalecinin her birini Messi'yi mükemmelliğe taşımadaki rollerini kutladı.
 
 {% blocklink %} [Daha Fazla](https://www.marketingweek.com/masters-awards-budweiser-flipped-script/) {% endblocklink %}
-
-
 
 ### McDonald’s hayali arkadaşlara dikkat çekiyor
 
