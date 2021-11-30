@@ -20,13 +20,9 @@ draft: true
 
 ![](/assets/img/content/instagram-ara-vermek.jpeg)
 
-Meta, gençlerin yoğun olarak kullandığı Instagram platformunda daha az zaman geçirilmesi için mola verme özelliğini deneyeceğini açıkladı.
-
-\
+Meta, gençlerin yoğun olarak kullandığı Instagram platformunda daha az zaman geçirilmesi için mola verme özelliğini deneyeceğini açıkladı.\
 \
 {% blocklink %} [Daha Fazla](https://www.socialmediatoday.com/news/instagram-tests-new-take-a-break-feature-to-encourage-users-to-limit-time/609854/) {% endblocklink %}
-
-
 
 ### YouTube, “beğenmeme” sayılarını gizliyor
 
