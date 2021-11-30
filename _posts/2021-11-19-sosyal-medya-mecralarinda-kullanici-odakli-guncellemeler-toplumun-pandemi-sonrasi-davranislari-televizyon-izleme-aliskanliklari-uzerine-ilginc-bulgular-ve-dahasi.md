@@ -20,9 +20,7 @@ draft: true
 
 ![](/assets/img/content/instagram-ara-vermek.jpeg)
 
-Meta, gençlerin yoğun olarak kullandığı Instagram platformunda daha az zaman geçirilmesi için mola verme özelliğini deneyeceğini açıkladı.
-
-\
+Meta, gençlerin yoğun olarak kullandığı Instagram platformunda daha az zaman geçirilmesi için mola verme özelliğini deneyeceğini açıkladı.\
 \
 {% blocklink %} [Daha Fazla](https://www.socialmediatoday.com/news/instagram-tests-new-take-a-break-feature-to-encourage-users-to-limit-time/609854/) {% endblocklink %}
 
@@ -55,8 +53,6 @@ Kullanıcıların tweetlere göz atarken sayfanın otomatik olarak yenilenmesiyl
 ![](/assets/img/content/spotify.png)
 
 Koleksiyonunda 325 binden fazla sesli kitap bulunan sesli kitap dinleme platformu Findaway, Spotify tarafından satın alındı. Henüz yetkililer tarafından bir açıklama yapılmamasına rağmen bu hareket Spotify’ın sesli kitap koleksiyonunu zenginleştirmesi için en önemli hareket olarak görülüyor.
-
-
 
 {% blocklink %} [Daha Fazla](https://digitalage.com.tr/findawayi-satin-alan-spotify-sesli-kitap-dunyasina-adim-atiyor/) {% endblocklink %}
 
