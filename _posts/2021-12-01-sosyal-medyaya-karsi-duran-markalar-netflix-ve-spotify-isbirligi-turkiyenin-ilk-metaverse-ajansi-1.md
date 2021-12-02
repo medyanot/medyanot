@@ -14,8 +14,6 @@ draft: true
 
 ### Instagram akış gönderilerinde optimal hashtag kullanımı
 
-
-
 ![](/assets/img/content/instagram-hashtag.jpeg)
 
 Instagram doğru topluluklara ulaşmak için 3 ila 5 yüksek düzeyde alakalı hashtag eklemeniz gerektiğini söylüyor. Bunun doğruluğunu test etmek için Later ekibi, 18 milyondan fazla Instagram gönderisi üzerinde etkileşimi ve erişimi artırmaya yönelik bir analiz yaptı.
