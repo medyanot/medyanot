@@ -166,7 +166,7 @@ Hepimizin Binance ismiyle bildiği platform, bugün itibariyle mobil uygulaması
 
 ### Spotify’dan Netflix yapımlarına özel çalma listeleri
 
-![](/assets/img/content/spotify-netflix.png)
+![](/assets/img/content/netflix-ekonomi-etkisi.jpeg)
 
 Spotify, Netflix ile işbirliği yaparak Netflix yapımlarında yer alan müziklerin çalma listelerini oluşturuyor. Netflix yapımlarında yer alan film müziklerini, şarkıları ve hazırlanan podcast’leri kapsayan işbirliğinde, Spotify’ın içerisinde Netflix Hub yer alacak.
 
