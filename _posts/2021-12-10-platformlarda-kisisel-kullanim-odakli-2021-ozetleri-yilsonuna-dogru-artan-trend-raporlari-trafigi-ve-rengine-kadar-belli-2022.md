@@ -182,7 +182,7 @@ Campaing Türkiye, Visa Güneydoğu Avrupa Pazarlama Başkanı Birim Gönülşen
 
 {% blocklink %} [Daha Fazla](https://www.campaigntr.com/visayla-tanismayan-var-mi/) {% endblocklink %}
 
-### Sporculara Müjde 
+### Sporculara Müjde
 
 {% youtube 1gNOQwStIKk&t=77s %}
 
