@@ -138,6 +138,8 @@ Trendyol Kasım ayı kampanyalarıyla satışlarını iki kat arttırdı ve topl
 
 Google tarafından paylaşılan bilgilere göre Gmail'in mobil uygulamasına sesli ve görüntülü arama yapma özelliği eklendi.
 
+{% blocklink %} [Daha Fazla](https://webrazzi.com/2021/12/07/gmail-uygulamasina-sesli-ve-goruntulu-arama-yapma-ozelligi-eklendi) {% endblocklink %}
+
 ## Tasarım
 
 ### 2022'nin Rengi
@@ -145,6 +147,8 @@ Google tarafından paylaşılan bilgilere göre Gmail'in mobil uygulamasına ses
 ![](/assets/img/content/pantone.jpeg)
 
 Pantone yılın rengini dikkatli bir değerlendirme ve trend analizleri ile belirledi.Bugüne kadar mevcut renk paleti içinden belirlediği Yılın Rengi'ni, bu sene daha önceden görmediğimiz bir renk olan Very Peri olarak belirlemesi dikkatleri çekti.
+
+{% blocklink %} [Daha Fazla](https://www.pantone.com/color-of-the-year-2022) {% endblocklink %}
 
 ### Çok Sevilenler Bir Arada : Serana Williams & MATRIX
 
@@ -201,3 +205,7 @@ Netflix, platformunda yayınlanan dizi ve filmlerin detaylı bilgilerinin derlen
 {% youtube Mryj6aMvu8o %}
 
 İlk filmiyle sosyal medyada dikkat çeken Sahibinden ‘imkansızı iste’ reklam filminin ikincisi yayında.
+
+
+
+**Bu bültenlik bu kadar, bir sonraki bültenimizde görüşmek dileğiyle.**
