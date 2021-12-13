@@ -188,7 +188,7 @@ Campaing Türkiye, Visa Güneydoğu Avrupa Pazarlama Başkanı Birim Gönülşen
 
 ### Sporculara Müjde
 
-{% youtube 1gNOQwStIKk&t=77s %}
+{% youtube 1gNOQwStIKk %}
 
 Bir sporcu gelişim yatırımı olan Max Potential Sporcu Kuluçka Merkezi sporcuların gelişimi için ihtiyaç duyduğu her şeyi barındırıyor.
 
@@ -205,7 +205,5 @@ Netflix, platformunda yayınlanan dizi ve filmlerin detaylı bilgilerinin derlen
 {% youtube Mryj6aMvu8o %}
 
 İlk filmiyle sosyal medyada dikkat çeken Sahibinden ‘imkansızı iste’ reklam filminin ikincisi yayında.
-
-
 
 **Bu bültenlik bu kadar, bir sonraki bültenimizde görüşmek dileğiyle.**
