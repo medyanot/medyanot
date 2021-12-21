@@ -60,12 +60,6 @@ Virtual Dining Concepts ve Grubhub ile ortaklık yapan TikTok'un restoran servis
 
 ## Reklam Kampanya
 
-### Getir İngiltere için yeni yıl reklam filmini yayınladı
-
-{% youtube 9wIODwxaC3s&t=20s %}
-
-Globalde hizmet veren Türk markası Getir’in İngiltere’de yeni yıl reklamı Campaign Youtube hesabı üzerinden yayınlandı.
-
 ### Ezeli rakipler yardım için el ele
 
 ![](/assets/img/content/burger-king.png)
@@ -92,7 +86,7 @@ Almanya’da WWF, Vodafone, Aldi gibi binin üzerinde ulusal ve uluslararası ma
 
 ### Evdeki Yabancılar
 
-{% youtube swC5HX1HmLw&t=164s %}
+{% youtube swC5HX1HmLw %}
 
 Dünya çapında 220 ülkede yaklaşık 6 milyon kayıtlı üyesiyle ev kiralama hizmeti sunan Airbnb, evlerimizi ziyarete gelen ve farklı bir alanda yeni deneyimler yaşayan yabancıların düşündüğümüz kadar korkutucu tuhaf kişiler olmadığını, sevimli canavar bir ailenin yer aldığı reklam filmiyle gösteriyor.
 
