@@ -166,4 +166,4 @@ Yeni medya sanatçısı Refik Anadol'un Open Sea'de yayınlanan NFT eseri yakla�
 
 {% blocklink %} [Daha Fazla](https://webrazzi.com/2021/12/19/refik-anadol-nft-eseri-yaklasik-1-milyon-dolara-satildi) {% endblocklink %}
 
-**Bültenimiz bu kadar, bir sonraki bültende görüşmek dileğiyle, güncel ve hoşçakalın.**
+Bültenimizin sonuna ulaştık. Bir sonraki bültende görüşmek üzere. 👋
