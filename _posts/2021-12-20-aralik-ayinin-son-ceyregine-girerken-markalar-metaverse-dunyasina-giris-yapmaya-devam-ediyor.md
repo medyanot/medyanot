@@ -3,10 +3,10 @@ title: "Aralık ayının son çeyreğine girerken, markalar metaverse dünyasın
   yapmaya devam ediyor "
 image: /assets/img/content/kapakaralik-featured.jpg
 date: 2021-12-20
-description: Merhaba, 2021'in son bülteniyle karşınızdayız.  Yıl sonu
-  raporlarının verilerinin paylaşıldığı şu günlerde uygulamalar yeni
-  güncellemeleriyle dikkat çekiyor. Geçtiğimiz günlerde ezeli rakiplerin sosyal
-  sorumluluk adına el sıkışması sektörde olumlu yansımalara sebep oldu.
+description: Merhaba, 2021'in son bülteniyle karşınızdayız.  Yıl sonu rapor
+  verilerinin paylaşıldığı şu günlerde uygulamalar yeni güncellemeleriyle dikkat
+  çekiyor. Geçtiğimiz günlerde ezeli rakiplerin sosyal sorumluluk adına el
+  sıkışması sektörde olumlu yansımalara sebep oldu.
 toc: false
 draft: true
 ---
