@@ -42,7 +42,7 @@ Meta'ya ait dünyanın en çok kullanılan anlık mesajlaşma uygulaması WhatsA
 
 Twitter, tweet'lere eklenen tüm videolarda otomatik altyazılar ekleyecek. Otomatik altyazıları 37 dilde mevcut olacak ve hem iOS hem de android'de sessize alınan yayın içi videolar için etkinleştirilirken, masaüstü kullanıcıları bunları istedikleri gibi açıp kapatabilecek. Bu güncellemeyle birlikte kullanıcıların daha fazla içerik türüyle etkileşim kurmasını bekleniyor.
 
-{% blocklink %} [Daha Fazla](https://www.engadget.com/twitter-automatic-video-captions-232326100.html) % {% endblocklink %}
+{% blocklink %} [Daha Fazla](https://www.engadget.com/twitter-automatic-video-captions-232326100.html)  {% endblocklink %}
 
 ### Minecraft bir trilyon izlemeye ulaştı
 
@@ -70,7 +70,7 @@ Globalde hizmet veren Türk markası Getir’in İngiltere’de yeni yıl reklam
 
 ![](/assets/img/content/burger-king.png)
 
-McDonald's bu ayın başında, "McHappy Day" adını verdiği yardım etkinliği gerçekleştirdi. Etkinlik kapsamında müşteriler tarafından satın alınan her patates için Ronald McDonald House Charities isimli yardım kuruluşuna yardım yapılıyor.Burger King de kampanyaya destek olmak amacıyla, o tarih aralığında, restorana gelen müşterilerini McDonald's'a yönlendirdi. Üstelik McDonald's'tan patates alan her müşterisi için Whopper Jr. menünün verildiği "Helping Whopper Junior" adında bir kampanya başlattı.
+McDonald's bu ayın başında, "McHappy Day" adını verdiği yardım etkinliği gerçekleştirdi. Etkinlik kapsamında müşteriler tarafından satın alınan her patates için Ronald McDonald House Charities isimli yardım kuruluşuna yardım yapılıyor. Burger King de kampanyaya destek olmak amacıyla, o tarih aralığında, restorana gelen müşterilerini McDonald's'a yönlendirdi. Üstelik McDonald's'tan patates alan her müşterisi için Whopper Jr. menünün verildiği "Helping Whopper Junior" adında bir kampanya başlattı.
 
 {% blocklink %} [Daha Fazla](https://pazarlamasyon.com/burger-king-musterilerini-mcdonald-s-a-yonlendirdi) {% endblocklink %}
 
@@ -96,7 +96,7 @@ Almanya’da WWF, Vodafone, Aldi gibi binin üzerinde ulusal ve uluslararası ma
 
 Dünya çapında 220 ülkede yaklaşık 6 milyon kayıtlı üyesiyle ev kiralama hizmeti sunan Airbnb, evlerimizi ziyarete gelen ve farklı bir alanda yeni deneyimler yaşayan yabancıların düşündüğümüz kadar korkutucu tuhaf kişiler olmadığını, sevimli canavar bir ailenin yer aldığı reklam filmiyle gösteriyor.
 
-### UberEats
+### Uber Eats
 
 ![](/assets/img/content/uber-eats.png)
 
